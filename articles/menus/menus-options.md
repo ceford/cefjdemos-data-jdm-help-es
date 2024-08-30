@@ -79,6 +79,6 @@ Screenshot above. The functions are:
   toolbar icon is not shown if you are creating a new item.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Remember, these choices are applied globally.

@@ -3,16 +3,8 @@
 ## Descripción
 
 The Version History screen allows you to manage prior versions of the
-item being edited. Version history is available for
-Articles,
-Banners
-and
-Clients,
-Contacts,
-News Feeds,
-User
-Notes,
-and all Categories.
+item being edited. Version history is available for Articles, Banners and
+Clients, Contacts, News Feeds, User Notes, and all Categories.
 
 Each time you save the item with new changes, a new version is created
 automatically. You can control how many versions to keep for each item

@@ -134,7 +134,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - To enable or disable a group of Plugins, check the check box for each
   desired Plugin and then click the Enable or Disable toolbar button.

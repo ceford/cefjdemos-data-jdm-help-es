@@ -71,7 +71,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Make sure no one is busy editing any items before you perform a global
   check-in. When a Global Check-in is done, *all* items are checked in,

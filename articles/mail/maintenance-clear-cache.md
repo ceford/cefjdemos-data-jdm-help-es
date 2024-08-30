@@ -98,7 +98,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Normally you want to delete all cache files. To do this, click the
   check box in the column heading to select all files and then click the

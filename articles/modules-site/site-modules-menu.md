@@ -181,6 +181,6 @@ Screenshot above. The functions are:
   toolbar icon is not shown if you are creating a new item.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 No tips have been added at this time.

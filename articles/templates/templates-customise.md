@@ -115,7 +115,7 @@ alt="Extensions Template Manager Templates Edit upload file dialog" />
 - **Close File.** Closes the open file and returns to the Editor Tab.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Before editing the HTML and the CSS file of the template, it is a good
   idea to make a backup of the file you are editing. Also, you can edit

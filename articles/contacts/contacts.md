@@ -132,7 +132,7 @@ Screenshot above. The functions are:
   parameters can be edited.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - You need to add at least one Category for your Contacts *before* you
   can add your first Contact. Categories are added using the <a

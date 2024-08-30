@@ -163,7 +163,7 @@ If you wish to clear your entered selections, click on the Clear button.
 This will return all of the Batch controls to their default values. Note
 that this does *not* uncheck the check boxes for the items.
 
-## Quick Tips
+## Tips
 
 - Select an item and click on the *Home* button to set your Home page.
 - Set different filter options to only show some of the menu items.

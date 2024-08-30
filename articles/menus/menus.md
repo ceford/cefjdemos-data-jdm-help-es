@@ -86,7 +86,7 @@ Screenshot above. The functions are:
   parameters can be edited. See
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - It is expedient to give a descriptive title for new menus because,
   later, you will see it in the *Backend Menus* menu. It is a good idea

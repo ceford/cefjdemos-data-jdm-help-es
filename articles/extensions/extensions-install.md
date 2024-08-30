@@ -146,7 +146,7 @@ Screenshot above. The functions are:
   title="Help4.x:Extensions Extension Manager Update Sites/en (page does not exist)">Update
   Sites Screen</a>.
 
-## Quick Tips
+## Tips
 
 - Four alternate installation methods are available, as indicated above.
   The most common one is the "Upload Package File" method.
