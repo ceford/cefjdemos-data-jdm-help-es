@@ -2,426 +2,214 @@
 
 ## Descripción
 
-Esta pantalla se usa para editar un artículo nuevo o ya existente,
-generalmente usando un editor Wysiwyg. El editor predeterminado es
-TinyMCE, pero si se instalan otros editores, el editor predeterminado
-puede configurarse de otro modo para el sitio de forma global, o de
-forma individual para cada usuario.
+Esta página se utiliza para añadir un nuevo artículo o editar un artículo existente, normalmente utilizando un editor Wysiwyg. El editor predeterminado es TinyMCE, pero si se instalan otros editores, el editor predeterminado puede configurarse para ser otro, ya sea para todo el sitio o para usuarios individuales.
 
-La mayoría de los parámetros tienen valores predeterminados adecuados,
-pero es posible que desee establecer una categoría específica o
-proporcionar Metadatos para un artículo específico.
+### Elementos Comunes
 
-## Tutorials
+Algunos aspectos de esta página están cubiertos en artículos de Ayuda separados:
 
-[Adding an Image to an Article](jdocmanual?article=user/articles/adding-an-image-to-an-article "Adding an Image to an Article")
+* [Barras de Herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [La Pestaña Esquema](jdocmanual?article=help/common-elements/edit-schema).
+* [La Pestaña Publicación](jdocmanual?article=help/common-elements/edit-publishing).
+* [La Pestaña Asociaciones](jdocmanual?article=help/common-elements/edit-associations).
+* [La Pestaña Permisos](jdocmanual?article=help/common-elements/edit-permissions).
+
+O en artículos de usuario:
+
+* [Añadir una Imagen a un Artículo](jdocmanual?article=user/articles/adding-an-image-to-an-article)
 
 ## Cómo Acceder
-Seleccionar **Content → Articles**
 
-Para agregar un artículo:
+* Selecciona **Contenido → Artículos** desde el menú del Administrador. O...
+* Selecciona **Artículos** desde el Tablero de Inicio. Luego...
+    * Selecciona un **Título** de artículo existente en la lista para editarlo. O...
+    * Selecciona el botón **Nuevo** en la Barra de Herramientas para crear un nuevo artículo.
+También puedes crear un nuevo artículo seleccionando el icono **+** en el Menú o en el Tablero de Inicio.
 
-- Clic el botón **Opciones** en la Barra de Herramientas.
+## Captura de Pantalla
 
-Para editar un artículo:
+![Captura de pantalla de edición de artículos](../../../es/images/articles/articles-edit-content-tab.png "Editar Artículos")
 
-- Seleccione un **Título** de artículo en la lista.
+## Campos del Formulario
 
-## Captura de pantalla
+- **Título** El Título de este artículo.
+- **Alias** El nombre interno de este artículo. Normalmente, puedes dejar este campo en blanco y Joomla completará un valor predeterminado basado en el Título, pero en minúsculas y con guiones en lugar de espacios.
 
-![Articles edit screenshot](../../../es/images/articles/articles-edit-content-tab.png "Articles edit")
+### Pestaña Contenido
 
-## Campos de Formulario
+#### Panel Izquierdo
 
-- **Título**. El Título para este artículo.
-- **Alias**. El alias se usará en la URL amigable. Si lo deja en blanco,
-  Joomla! lo rellenará con un valor predeterminado obtenido a partir del
-  título.
+- **Texto del Artículo** Aquí es donde ingresas el contenido del artículo.
+    Joomla incluye 3 editores, el editor predeterminado - TinyMCE,
+    se muestra arriba.
 
-### Contenido tab
+    El menú desplegable de Contenido CMS proporciona acceso para enlazar con un Artículo,
+    Contacto, Campo, Imagen de Medios, Menú, Módulo, Salto de Página o un salto Leer Más.
 
-#### Panel izquierdo
-
-- **Texto del artículo**. This is where you enter the contents of the
-  article. Joomla includes 3 editors, the default Editor - TinyMCE
-  is shown here.
-
-  El Editor WYSIWYG de Artículos es configurable y puede tener un conjunto
-  de botones diferente al que se muestra a continuación. La lista
-  desplegable Contenido de CMS proporciona acceso a funciones especiales.
-- **Alternar editor**. A Toggle Editor button show below the edit
-  window. This button allows you to toggle between TinyMCE and Editor - None.
+    El símbolo de elipsis (<span class="icon-ellipsis-h"></span>) alterna la visibilidad de herramientas adicionales.
+- **Alternar Editor** El botón debajo de la ventana de edición te permite alternar
+    entre el editor TinyMCE y sin editor. Esto te permite ver y, a veces, corregir el código HTML.
 
 #### Panel Derecho
 
-- **Estado**. El estado de publicación de este artículo.
-  - Publicado: Article is visible in the Frontend of the site.
-  - Despublicado: Article is will not be visible to guests in the
-    Frontend of the site. It may be visible to logged in users who have
-    edit state permission for the article.
-  - Archivado: Article will no longer show on menu items
-    or Category
-    List.
-  - Movido a la papelera: Article is deleted from the site but still in
-    the database.
-- **Categoría**. Selecciona la Categoría para este Artículo.
-- **Destacado**. Select Yes if article will be shown in the Featured menu item
-- **Acceso**. Vea Niveles de
-  Acceso
-  para este artículo.
-- **Idioma**. Selecciona el idioma para este artículo. Si no estás
-  utilizando la característica
-  multi-idioma
-  de Joomla!, mantén el valor predeterminado de 'Todos'.
-- **Etiquetas**. Asignar etiquetas a artículo. Puede seleccionar una
-  etiqueta de la lista
-  predefinida
-  o ingresar una nueva etiqueta escribiendo el nombre en el campo y
-  presionando enter.
-- **Nota**. This is normally for the administrator's use (for example,
-  to document information about this article) and does not show in the
+- **Estado** El estado de publicación de este artículo.
+  - *Publicado* El artículo es visible en el Frontend del sitio.
+  - *Despublicado* El artículo no será visible para los invitados en el
+    Frontend del sitio. Puede ser visible para los usuarios conectados que tienen
+    permiso para editar el estado del artículo.
+  - *Archivado* El artículo ya no se mostrará en los elementos de menú o en la Lista de Categorías.
+  - *En la Papelera* El artículo está eliminado del sitio pero sigue en la base de datos.
+- **Categoría** Selecciona la Categoría para este artículo.
+- **Destacado** Selecciona Sí si el artículo se mostrará en el elemento de menú Destacado.
+- **Acceso** Selecciona el nivel de acceso de visualización para este artículo. Los niveles de acceso dependen de lo que se haya configurado en Usuarios: Niveles de Acceso.
+- **Idioma** Selecciona el idioma para este artículo. Mantén el valor predeterminado de 'Todos' si no estás utilizando la función multilingüe.
+- **Etiquetas** Asigna etiquetas a este artículo. Puedes seleccionar una etiqueta de una
+  lista predefinida o
+  ingresar una nueva etiqueta escribiendo el nombre en el campo y presionando Enter.
+- **Nota** Esto es normalmente para el uso del administrador (por ejemplo,
+  para documentar información sobre este artículo) y no se muestra en el
   Frontend.
-- **Nota de la versión**. Optional field to identify the version of this
-  article in the article's Version History.
+- **Nota de Versión** Campo opcional para identificar la versión de este
+  artículo en el Historial de Versiones del artículo.
 
-### Imágenes y Enlaces tab
+### Pestaña Imágenes y Enlaces
 
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el
-This section lets you display images and links in your articles using
-standardised layouts.
+**Nota:** Esta pestaña puede estar oculta en *Artículo: Opciones* por un usuario con
+permisos de Administrador. Permite la visualización de imágenes y enlaces en los artículos usando
+diseños estandarizados.
 
-![Articles edit images and links tab](../../../es/images/articles/articles-edit-images-tab.png "Articles edit images and links tab")
+![Editar artículos pestaña de imágenes y enlaces](../../../es/images/articles/articles-edit-images-tab.png)
 
-#### Imagen de introducción
+#### Imagen Introductoria
 
-- **Imagen de introducción**. Click the Select button to select an image
-  to be displayed in a fixed location in the Intro Text of this article.
-  This will open a window that allows you to select an image from your
-  images folder.
-- **Descripción de la imagen (texto alternativo)**. Set the alt
-  attribute for this image. A few descriptive words for screen readers.
-- **Sin descripción**. Check in the rare instance of a purely decorative
-  image. Note that if the Image Description is empty and the No
-  Description checkbox is unchecked then the image will fail to meet
-  accessibility criteria. If an image description is present this
-  checkbox has no effect.
-- **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
-  propias ideas de estilo. Para posición de imagen use por ejemplo
-  'float-star' y 'float-end'.
-- **Subtítulo**. Create a caption for this image.
+- **Imagen Introductoria** Haz clic en el botón Seleccionar para elegir una imagen que se mostrará
+  en una ubicación fija en el Texto de Introducción de este artículo. Esto
+  abrirá una ventana que permite seleccionar una imagen de la carpeta de imágenes.
+- **Descripción de la Imagen (Texto Alternativo)** Establece el atributo alt para esta
+  imagen. Unas pocas palabras descriptivas para lectores de pantalla.
+- **Sin Descripción** Marca esta opción en el raro caso de una imagen puramente decorativa. Ten en cuenta que si la Descripción de la Imagen está vacía y la casilla Sin Descripción no está marcada, la imagen no cumplirá con los criterios de accesibilidad. Si hay una descripción de la imagen, esta casilla no tiene efecto.
+- **Clase de Imagen** Agrega cualquier clase CSS para un estilo personalizado.
+  Por ejemplo, para la posición de la imagen, usa float-start o float-end.
+- **Leyenda** Crea una leyenda para esta imagen.
 
-#### Imagen para mostrar un artículo al completo
+#### Imagen Completa del Artículo
 
-- **Imagen para mostrar un artículo al completo**. Click the Select
-  button to select an image to be displayed in a fixed location in the
-  Full Text of this article. This will open a window that allows you to
-  select an image from your images folder.
-- **Descripción de la imagen (texto alternativo)**. Set the alt
-  attribute for this image. A few descriptive words for screen readers.
-- **Sin descripción**. Check in the rare instance of a purely decorative
-  image. Note that if the Image Description is empty and the No
-  Description checkbox is unchecked then the image will fail to meet
-  accessibility criteria. If an image description is present this
-  checkbox has no effect.
-- **Clase de la imagen**. Puede añadir cualquier clase CSS para sus
-  propias ideas de estilo. Para posición de imagen use por ejemplo
-  'float-start' y 'float-end'.
-- **Subtítulo**. Enter an optional caption for this image.
+- **Imagen Completa del Artículo** Haz clic en el botón Seleccionar para elegir una imagen que se mostrará en una ubicación fija en el Texto Completo de este artículo. Esto abrirá una ventana que permite seleccionar una imagen de la carpeta de imágenes.
+- **Descripción de la Imagen (Texto Alternativo)** Establece el atributo alt para esta
+  imagen. Unas pocas palabras descriptivas para lectores de pantalla.
+- **Sin Descripción** Marca esta opción en el raro caso de una imagen puramente decorativa. Ten en cuenta que si la Descripción de la Imagen está vacía y la casilla Sin Descripción no está marcada, la imagen no cumplirá con los criterios de accesibilidad. Si hay una descripción de la imagen, esta casilla no tiene efecto.
+- **Clase de Imagen** Agrega cualquier clase CSS para un estilo personalizado.
+  Por ejemplo, para la posición de la imagen, usa float-start o float-end.
+- **Leyenda** Ingresa una leyenda opcional para esta imagen.
 
 #### Enlace A
 
-- **Enlace A**. La dirección URL para el primer enlace que se muestre en
-  una ubicación fija en el texto del artículo. Esta debe ser una URL
-  completa, no relativa. Por ejemplo, normalmente comienzan con
-  `https:`.
-- **Texto del enlace 'A'**. The text used for Link A. If blank, the URL
-  will be displayed.
-- **Ventana URL de destino**. Sets the default value for the target for
-  the first Link in this article. Choices are:
-  - Misma ventana: Opens the in the main browser window, replacing the
-    current Joomla article.
-  - Nueva ventana: Opens the link in a new browser window.
-  - En una ventana emergente: Opens the link in a pop-up browser window
-    (without full navigation controls).
-  - Modal: Opens the link in a modal pop-up window.
+- **Enlace A** La URL del primer enlace que se mostrará en una ubicación fija en el texto del artículo. Esta debe ser una URL completa, no relativa. Por ejemplo, normalmente comenzaría con `https:`.
+- **Texto del Enlace A** El texto utilizado para el Enlace A. Si está en blanco, se mostrará la URL.
+- **Ventana de Destino de la URL** Establece el valor predeterminado para el destino del primer Enlace en este artículo. Las opciones son:
+  - *Abrir en la ventana principal* Abre en la ventana principal del navegador, reemplazando el artículo actual de Joomla.
+  - *Abrir en una nueva ventana* Abre el enlace en una nueva ventana del navegador.
+  - *Abrir en ventana emergente* Abre el enlace en una ventana emergente del navegador (sin controles completos de navegación).
+  - *Modal* Abre el enlace en una ventana emergente modal.
 
-#### Enlace B**, Enlace C
+#### Enlace B, Enlace C
 
-Same options as Link A.
+- Mismas opciones que el Enlace A.
 
-### Opciones tab
+### Pestaña Opciones
 
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el
-This is a set of options you can use to control how this article will
-show in the Frontend.
+**Nota**: Esta pestaña puede estar oculta por un usuario con permisos de Administrador en las
+Opciones del Artículo. Es un conjunto de opciones que se utilizan para controlar cómo se
+mostrará este artículo en el Frontend.
 
-![Options tab](../../../es/images/articles/articles-edit-options-tab.png "Options Tab")
+![Pestaña Opciones](../../../es/images/articles/articles-edit-options-tab.png)
 
-#### Presentación
+#### Diseño
 
-- **Presentación**. Utilizar un diseño suministrado para la vista del
-  artículo o
-- **Mostrar título**. Show the Article's Title.
-- **Título enlazable**. Si el Título del Artículo se muestra, si se va a
-  mostrar como un enlace al artículo.
-- **Etiquetas**. Enter tags for this article. Select existing tags by
-  entering in the first few letters or create new tags by entering them
-  here.
-- **Texto de introducción**.
-  - Mostrar: The Intro Text of the article will show when you drill down
-    to the article.
-  - Ocultar: Only the part of the article after the Read More break will
-    show.
-- **Información de la posición del artículo**.
-  - Encima: Puts the article information block above the text.
-  - Debajo: Puts the article information block below the text.
-  - Dividido: Splits the article information block into 2 separate
-    blocks. One block is above and the other is below the text.
-- **Título de información del artículo**. Muestra el título 'Información
-  del artículo' en la parte superior del bloque de información del
-  artículo.
+- **Diseño** Usa un diseño de la vista de artículo proporcionada o anula en las plantillas.
+- **Título** Mostrar el Título del Artículo.
+- **Títulos Enlazados** Mostrar el título como un enlace al artículo.
+- **Etiquetas** Ingresa etiquetas para este artículo. Selecciona etiquetas existentes ingresando las primeras letras o crea nuevas etiquetas ingresándolas aquí.
+- **Texto de Introducción**
+  - *Mostrar* El Texto de Introducción del artículo se mostrará en una página que muestra el
+    artículo completo.
+  - *Ocultar* Solo la parte del artículo después del salto Leer Más
+    se mostrará en una página que muestra el artículo completo.
+- **Posición de la Información del Artículo**
+  - *Arriba* Coloca el bloque de información del artículo encima del texto.
+  - *Abajo* Coloca el bloque de información del artículo debajo del texto.
+  - *Dividido* Divide el bloque de información del artículo en 2 bloques separados.
+    Un bloque está arriba y el otro está abajo del texto.
+- **Título de la Información del Artículo** Muestra 'Detalles' en la parte superior del bloque de información del artículo.
 
 #### Categoría
 
-- **Categoría**. Show the Article's Category Title.
-- **Categoría enlazable**. Si la categoría del artículo se muestra, si
-  se va a mostrar como un enlace a un Diseño de categoría (lista o
-  blog), para la Categoría.
-- **Mostrar categoría principal**. Show the Article's Parent Category
-  Title.
-- **Categoría principal enlazable**. Si la categoría principal del
-  artículo se muestra, si se va a mostrar como un enlace a un Diseño de
-  categoría - (lista o blog), para la Categoría.
+- **Categoría** Mostrar el Título de la Categoría del Artículo.
+- **Enlace a la Categoría** Mostrar el título como un enlace a esa Categoría.
+- **Categoría Padre** Mostrar el Título de la Categoría Padre del Artículo.
+- **Enlace a la Categoría Padre** Mostrar el título como un enlace a esa Categoría.
 
 #### Asociaciones
 
-- **Mostrar asociaciones**. Show the associated flags or Language Code.
-  Multilingual only.
+- **Asociaciones** Mostrar las banderas asociadas o el Código de Idioma.
+  Solo multilingüe.
 
-#### Mostrar autor
+#### Autor
 
-- **Mostrar autor**. Show the author of the Article.
-- **Autor enlazable**. Si el autor del Artículo que se muestra, se va a
-  mostrar como un enlace a un diseño de Contacto con el autor.Note: The
-  author must be set up as a Contact.
+- **Autor** Mostrar el autor del Artículo.
+- **Enlace a la Página de Contacto del Autor** Mostrarlo como un enlace a un diseño de Contacto para ese autor. Nota: El autor debe estar configurado como un Contacto.
 
 #### Fecha
 
-- **Mostrar la fecha de creación**. Show the Article's create date.
-- **Mostrar fecha de modificación**. Show the Article's modify date.
-- **Mostrar fecha de publicación**. Show the Article's start publishing
-  date.
+- **Fecha de Creación** Mostrar la fecha de creación del Artículo.
+- **Fecha de Modificación** Mostrar la fecha de modificación del Artículo.
+- **Fecha de Publicación** Mostrar la fecha de inicio de la publicación del Artículo.
 
 #### Opciones
 
-- **Mostrar navegación**. Show a navigation link 'Prev' or 'Next' when
-  you drill down to the article.
-- **Mostrar impresiones**. Show the number of times the article has been
-  displayed by a user.
-- **Mostrar los enlaces no autorizados**. If Yes, the Intro Text for
-  restricted articles will show. Clicking on the Read more link will
-  require users to log in to view the full article content.
-- **Posición de los enlaces.**
-  - Encima: Links are shown above the content.
-  - Debajo: Links are shown below the content.
-- **Texto del 'Leer más...'**. Customise the text that shows for the
-  default wording 'Read more'.
-- **Título de página del navegador**. Texto opcional para el elemento
-  "Título de la página del navegador" que se utilizará cuando se vea el
-  artículo con un elemento del menú que no sea un artículo. Si está en
-  blanco, se usa el título del artículo en su lugar.
+- **Navegación** Mostrar los enlaces de navegación, *Anterior* y/o *Siguiente*, cuando
+  se muestra una página que contiene el artículo completo.
+- **Visitas** Mostrar el número de veces que el artículo ha sido mostrado por un usuario.
+- **Enlaces No Autorizados** Si se selecciona Sí, se mostrará el Texto de Introducción de los artículos restringidos. Al hacer clic en el enlace Leer más, los usuarios deberán iniciar sesión
+  para ver el contenido completo del artículo.
+- **Posición de los Enlaces**
+  - *Arriba* Los enlaces se muestran encima del contenido.
+  - *Abajo* Los enlaces se muestran debajo del contenido.
+- **Texto de Leer Más** Personaliza el texto que se muestra en lugar de la redacción predeterminada 'Leer más'.
+- **Título de la Página del Navegador** Texto para el título de la página del navegador que se utilizará
+  cuando el artículo se vea con un elemento de menú no relacionado con artículos. Si está en blanco, se utilizará el título del artículo.
 
-### Campos tab
+### Pestaña Campos
 
-This section shows the custom fields which are defined for this article.
+Esta sección muestra los campos personalizados que están definidos para este artículo. Estos
+son campos que no están asignados a un Grupo de Campos. Cada Grupo de Campos, si está definido,
+aparecerá como una pestaña separada.
 
-![Fields tab](../../../es/images/articles/articles-edit-fields-tab.png "Filds Tab")
+![Pestaña de Campos](../../../es/images/articles/articles-edit-fields-tab.png)
 
-### Schema tab
 
-![Schema tab](../../../es/images/articles/articles-edit-schema-tab.png "Schema Tab")
+### Pestaña Configurar Pantalla de Edición
 
-The schema mechanism allows you to enter metadata for individual articles,
-choosing from the following schema types:
+**Nota:** Esto puede estar oculto por un usuario con permisos de Administrador en las
+Opciones del Artículo.
 
-* None
-* Article
-* BlogPosting
-* Book
-* Event
-* JobPosting
-* Organisation
-* Person
-* Recipe
-* Custom
+![Pestaña Configurar pantalla de edición](../../../es/images/articles/articles-edit-editor-tab.png)
 
-Each is a plugin which can disable or enable as required. More schmema types
-my be added later or available from third oarty sources.
+- **Opciones de Publicación** Si se selecciona Ocultar, la pestaña de Opciones de Publicación
+  no se mostrará en el Backend. Esto significa que los usuarios del Backend no
+  podrán editar los campos en esta pestaña. Estos campos siempre estarán
+  configurados con sus valores predeterminados.
+- **Opciones del Artículo** Si se selecciona Ocultar, la pestaña de Opciones del Artículo
+  no se mostrará en el Backend. Esto significa que los usuarios del Backend no
+  podrán editar los campos en esta pestaña. Estos campos siempre estarán configurados
+  con sus valores predeterminados.
+- **Imágenes y Enlaces del Administrador** Si se selecciona Sí, se mostrará la pestaña de Imágenes y Enlaces.
+- **Imágenes y Enlaces del Frontend** Si se selecciona Sí, la pestaña de Imágenes y Enlaces se mostrará en la pantalla del editor de artículos del Frontend.
 
-### Publicación tab
+## Consejos
 
-This section allows you to enter parameters and Metadata for this Article.
-
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el Article: Options. 
-
-![Publishing tab](../../../es/images/articles/articles-edit-publishing-tab.png "Publishing Tab")
-
-#### Publicación
-
-- **Inicio de la publicación**. Date and time to start publishing. Enter
-  article ahead of time and then have it published automatically at a
-  future time.
-- **Finalización de la publicación**. Fecha y hora para terminar de
-  publicar. Utiliza este campo si deseas que el contenido cambie
-  automáticamente al estado de no publicado en una fecha futura (por
-  ejemplo, cuando deja de ser aplicable).
-- **Iniciar 'Destacado'**. Date and time to start featured state. Enter
-  article ahead of time and then have it featured automatically at a
-  future time.
-- **Finalizar 'Destacado'**. Date and time to finish featured state. The
-  article is automatically changed to Unfeatured state at a future time.
-- **Fecha de creación**. Este campo de forma predeterminada toma la
-  fecha y la hora actual cuando el Artículo fue creado. Puedes entrar
-  una fecha y hora diferentes o hacer clic en el icono de calendario
-  para encontrar la fecha deseada.
-- **Creado por**. Nombre del usuario de Joomla! que creó este elemento.
-  Esto será predeterminado por el usuario conectado actualmente. Si
-  deseas cambiar a un usuario diferente, has clic en el botón
-  Seleccionar Usuario para elegir un usuario diferente.
-- **Creado por alias**. Este campo opcional te permite entrar un alias
-  para este Autor de este Artículo. Esto te permite mostrar un nombre
-  diferente del Autor de este Artículo.
-- **Fecha de modificación**. Fecha de la última modificación.
-- **Modificado por**. Nombre del Usuario que realizó la última
-  modificación.
-- **Revisión**. Number of revisions to this Article.
-- **Veces visto**. El número de veces que un artículo ha sido visto.
-- **ID**. Este es un número de identificación único para este elemento
-  asignado automáticamente por Joomla!. Se utiliza para identificar el
-  elemento internamente y no se puede cambiar este número. Al crear un
-  nuevo elemento, este campo muestra "0" hasta que se guarda la nueva
-  entrada, momento en el que se asigna un nuevo ID.
-
-#### Metadatos
-
-- **Metadescripción**. Un párrafo para ser utilizado como la descripción
-  de la página.
-- **Metapalabras clave**. Entry for keywords.
-- **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in Global Configuration.
-- **Autor**. Entrada para un nombre de Autor dentro de los metadatos.
-- **Derechos del contenido**. Describe what rights others have to use
-  this content.
-
-### Asociaciones tab
-
-Tab is shown on Multilingual Sites only.
-
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el Article: Options.
-
-![Associations tab](../../../es/images/articles/articles-edit-associations-tab.png "Associations Tab")
-
-### Opciones de la pantalla de edición tab
-
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el Article: Options.
-
-![Configure edit screen tab](../../../es/images/articles/articles-edit-editor-tab.png "Configure edit screen Tab")
-
-- **Opciones de publicación**. If Hide, the Publishing Options tab
-  will not show in the Backend. This means that Backend users will not
-  be able to edit the fields in this tab. These fields will always be
-  set to their default values.
-- **Opciones del artículo**. If Hide, the Article Options tab
-  will not show in the Backend. This means that Backend users will not
-  be able to edit the fields in this tab. These fields will always be
-  set to their default values.
-- **Mostrar las 'Opciones de imágenes y enlaces' desde la
-  administración**. If Yes, the Images and Links tab
-  will show.
-- **Mostrar las 'Opciones de imágenes y enlaces' desde el sitio**. If
-  Yes, the Images and Links tab will show in the Frontend article editor
-  screen.
-
-### Permisos tab
-
-This is where you can enter permissions for this article.
-
-**Nota**: Esto puede ser ocultado por un usuario con permisos de
-administrador en el Article: Options.
-
-![Permissions tab](../../../es/images/articles/articles-edit-permissions-tab.png "Permissions Tab")
-
-To change the permissions for this article, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Borrar**. Users can delete this article.
-    - **Editar**. Users can edit this article.
-    - **Editar estado**. User can change the published state and related
-      information for this article.
-3.  Select the desired permission for the action you wish to change.
-    - **Heredado**. Inherited for users in this Group from the Global Configuration,
-      Articles Options,
-      or Articles Category.
-    - **Permitido**. Allowed for users in this Group.Note: If this
-      action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Denegado**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Barra de herramientas
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Guardar**. Saves the article and stays in the current screen.
-- **Guardar y cerrar**. Saves the article and closes the current screen.
-  - **Guardar y nuevo**. Saves the article and keeps the editing screen
-    open and ready to create another article.
-  - **Guardar en el menú**. Saves the article to a menu item and opens
-    the menu item screen.
-  - **Guardar como copia**. Saves your changes to a copy of the current
-    article. Does not affect the current article.
-- **Cerrar**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Versiones**. Opens the Article Version History window to show any
-  prior versions of this article. This allows you to view older versions
-  of this article and, if desired, restore from an older version.
-- **Previsualizar**. Opens a modal dialog showing a site view of this
-  article. Requires shared sessions
-  or being logged in into the Frontend.
-- **Comprobación de accesibilidad**. Opens a window showing
-  accessibility check results of the article.
-- **Asociaciones**. With a specific language set for an article, allows
-  side by side editing in another language. This icon is shown on
-  Multilingual Sites
-  only.
-- **Alternar la ayuda interna**. Show help text below some options.
-- **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Consejos Rápidos
-
-- There are 2 methods to insert an image into article using the TinyMCE
-  editor.
-  1.  The CMS Content
-      dropdown list provides access to the Media screen
-      that lets you browse image files and upload images.
-  2.  The 'Insert' dropdown list is a simple form for which you need to
-      know the image url. It is used for external images.
-- **Read more** breaks allow you to save space on the Front Page or on any
-  blog layout page by showing just the first portion of an Article. Page break
-  allow you to provide multi-page navigation for long Articles. You can
-  use both on one Article, if desired.For example, you could put a Read
-  more break after the first paragraph of a multi-page article, and have
-  Page breaks after each page. No page navigation would display on the
-  Front Page until the User selects the Read more link. At that time,
-  the Article's table of contents would display showing links to every
-  page.
+- Hay 2 métodos para insertar una imagen en un artículo utilizando el editor TinyMCE.
+  1. La lista desplegable *Contenido CMS* proporciona acceso a la pantalla de Medios.
+  2. La lista desplegable *Insertar* es un formulario simple que requiere la URL de la imagen.
+    Se utiliza para imágenes externas.
+- Un inserto *Leer Más* ahorra espacio en cualquier página de diseño de Destacados o Blog mostrando solo la primera parte de un Artículo. Los insertos de *Salto de Página* proporcionan navegación multipágina para artículos largos. Ambos pueden usarse en un solo artículo si se desea. Por ejemplo, un salto *Leer Más* podría colocarse después del primer párrafo y los saltos de *Salto de Página* podrían colocarse después de otros grupos de párrafos para crear un artículo de varias páginas. No se mostraría ninguna navegación en la página de Destacados o Blog hasta que el Usuario seleccione el enlace Leer más. En ese momento, se mostraría el índice del artículo mostrando enlaces a cada página.

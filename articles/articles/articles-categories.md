@@ -2,169 +2,64 @@
 
 ## Descripción
 
-The Articles Categories list is used to find, add, and edit articles
-categories.
+Las Categorías se utilizan para organizar los Artículos, facilitando su gestión y
+visualización. Pueden estructurarse en forma de árbol, como los sistemas de archivos. Cada
+Artículo debe estar asignado a una Categoría. La categoría predeterminada es *Sin categorizar*.
 
-Categories are are used to organise Articles for ease of management and
-display. They can be organised into tree-like structures like file
-systems. All Articles must be assigned either to a parent Category or a
-child Category.
+La página de lista de **Categorías** se utiliza para gestionar las categorías. Esto incluye
+la creación de nuevas categorías, la búsqueda de categorías para editar y el cambio de propiedades
+de las categorías, como si están publicadas o no, y el orden de las categorías. Además, algunas propiedades
+pueden modificarse para un grupo de categorías utilizando un Proceso por Lotes.
+
+### Elementos Comunes
+
+Algunos elementos de esta página están cubiertos en artículos de Ayuda separados:
+
+* [Barras de Herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
+* [Encabezados de Columnas de Lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordenación de Elementos de Lista](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginación de Lista](jdocmanual?article=help/common-elements/list-pagination).
+* [Proceso por Lotes de Lista](jdocmanual?article=help/common-elements/list-batch-process).
 
 ## Cómo Acceder
-Seleccionar **Panel de inicio → Site → Categorías**
 
-To add a Category:
+Hay dos rutas para acceder a la página de lista de Categorías:
+* Desde el **Tablero de Inicio → Panel del Sitio**, seleccionar **Categorías de Artículos**
+* Desde el menú de Administrador, seleccionar **Contenido → Categorías**
 
-- click the **New** toolbar button
+## Captura de Pantalla
 
-To edit a Category:
+![Lista de Categorías de Artículos](../../../es/images/articles/articles-categories-list.png)
 
-- select a **Title** from the list
+## Encabezados de Columnas
 
-## Captura de pantalla
-
-![Articles: Categories list](../../../es/images/articles/articles-categories-list.png "Articles: Categories list")
-
-## Encabezados de columna
-
-- **Checkbox**. Check this box to select categories. To select all
-  categories, check the box in the column heading. After boxes are
-  checked the toolbar button 'Actions' get active.
-- **Orden**. You can change the order of an category within a list as
-  follows:
-  - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the first
-  column heading to make it active.
-  - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
- and drag it up or down to change the
-    position of that row in the list.
-  - In the Filter Options you may limit the list to categories that are
-    assigned for example to a Language.
-- **Estado**. Status of category. Hover icon for informations.
-- **Título**. The title of the category. Edit the category by clicking
-  on the Title.
-- **Icons**. Counts of number of Published, Unpublished, Archived and
-  Trashed Articles in each Category. Click on a number to get a list of
-  the categories.
-- **Acceso**. Ver Niveles de
-  Acceso
-  para este categoría.
-- **Asociación**. Shows the associated categories. Click on the Language
-  Code to open the category. Multilingual only.
-- **Idioma**. Idioma del categoría.
-- **ID**. Este es un número de identificación único para este categoría.
-  Se utiliza para identificar el categoría internamente y no se puede
+- **Casilla de Verificación** Marque esta casilla para seleccionar categorías. Para seleccionar todas
+  las categorías, marque la casilla en el encabezado de la columna. Después de marcar las casillas,
+  el botón de la barra de herramientas 'Acciones' se activará.
+- **Ordenación** Puede cambiar el orden de una categoría dentro de una lista de la siguiente manera:
+  - Seleccione el ícono de Ordenación <i class="fa-solid fa-sort"></i> en el primer
+    encabezado de columna para activarlo.
+  - Seleccione uno de los íconos de elipsis vertical <span class="icon-ellipsis-v"></span>
+    y arrástrelo hacia arriba o hacia abajo para cambiar la posición de esa fila en la lista.
+  - En las Opciones de Filtro, puede limitar la lista a categorías que están
+    asignadas, por ejemplo, a un Idioma.
+- **Estado** Estado de la categoría. Pase el ratón sobre el ícono para obtener información o
+    navegue hasta él para escuchar un equivalente de audio.
+- **Título** El título de la categoría. Edite la categoría haciendo clic en
+  el Título.
+- **Columnas de Estado** Cada botón en una columna muestra el número de artículos
+    con ese estado en esa categoría. Seleccione un botón para ir a la lista de Artículos
+    filtrada para esa categoría. Las columnas son **Publicados**,
+    **No Publicados**, **Archivados** y **En la Papelera**.
+- **Acceso** El nivel de acceso de visualización para esta categoría.
+- **Asociaciones** Muestra las categorías asociadas. Haga clic en el
+  Código de Idioma para abrir la categoría. ¡Solo multilingüe!
+- **Idioma** Idioma de las categorías, el predeterminado es 'Todos'.
+- **ID** Un número de identificación único para esta categoría, no puede
   cambiar este número.
 
-## Filtros de lista
+## Consejos
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
-
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Opciones de filtro**. Click to display the additional filters.
-- **Limpiar**. Has clic en el botón 'Limpiar' para borrar el campo de
-  Filtro y restaurar la lista a su estado sin filtrar.
-- **Orden**. Shows the current list ordering field. 2 ways to change the
-  order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of categories in a list.
-  Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the Global Configuration.
-
-### Opciones de filtro
-
-Near the top of the page you will see the filter bar shown in the
-Screenshot above.
-
-- **Seleccionar estado**. Select from Trashed / Unpublished / Published
-  / Archived / All.
-- **Seleccionar acceso**. Select from the list of available viewing
-  access levels.
-- **Seleccionar idioma**. Select from the list of available languages.
-- **Seleccionar etiqueta**. Select from the list of available tags.
-- **Seleccionar niveles máximos**. Select from the list of available
-  levels.
-
-### Paginación
-
-**Page Controls**. When the number of categories is more than one page,
-you will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Números de página**. Has clic para ir a la página deseada.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Barra de herramientas
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Nuevo**. Opens the editing screen to create a new category.
-- **Acciones**. Reveals a list of actions for selected categories. Check
-  one or more categories checkboxes to activate the list.
-  - **Publicar**. Makes the selected categories available to visitors to
-    your website.
-  - **Despublicar**. Makes the selected categories unavailable to
-    visitors to your website.
-  - **Archivar**. Changes the status of the selected categories to
-    indicate that they are archived.
-  - **Desbloquear**. Checks-in the selected categories.
-  - **Papelera**. Changes the status of the selected categories to
-    indicate that they are trashed.
-  - **Lote**. Batch processes the selected categories.
-- **Reconstruir**. Reconstructs and refreshes the categories table.
-  Normally, you do not need to rebuild this table. This function is
-  provided in case the data in the table becomes corrupted.
-- **Opciones**. Opens Articles: Options.
-- **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Proceso por lotes
-
-The Batch Process allows a change in settings for a group of selected
-categories.
-
-![Batch process categories](../../../es/images/articles/articles-categories-batch.png "Batch process categories")
-
-**How to Batch Process** a group of categories:
-
-1.  Select one or more categories on the list by checking the desired
-    checkboxes.
-2.  Click the Batch Toolbar button.
-3.  Set one or more of the following values:
-    - To change the **Language**, select the desired language from the
-      Set Language list box.
-    - To change the **Access Levels**, select the desired new access
-      level from the Set Access Level list box.
-    - To change the **Category**, select a category. To leave the
-      category unchanged, use the default value of 'Select'.
-      - To **copy** the categories to a different category, select the
-        desired category from the category list box and check the Copy
-        option. In this case, the original categories are unchanged and
-        the copies are assigned to the new category and, if selected,
-        the new language, access level, and tag.
-      - To **move** the categories to a different category, select the
-        desired category from the category list box and check the Move
-        option. In this case, the original categories will be moved to a
-        new category and, if selected, be assigned the new language,
-        access level, and tag.
-    - To add **Tags**, select the desired Tags from the dropdown or
-      choose to keep the tags currently added to the original
-      categories.
-4.  When all of the settings are entered, click on Process to perform
-    the changes. A message **"Batch process completed successfully."**
-    will show.
-
-## Consejos Rápidos
-
-- Click on the icon in the Status column to toggle between Published and
-  Unpublished.
+- Haga clic en un ícono en la columna de Estado para alternar entre Publicado y
+  No Publicado.
