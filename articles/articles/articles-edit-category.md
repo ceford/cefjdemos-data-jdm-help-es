@@ -23,6 +23,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 * [La Pestaña Publicación](jdocmanual?article=help/common-elements/edit-publishing).
 * [La Pestaña Asociaciones](jdocmanual?article=help/common-elements/edit-associations).
 * [La Pestaña Permisos](jdocmanual?article=help/common-elements/edit-permissions).
+* [El popup del historial de versiones](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## Cómo Acceder
 

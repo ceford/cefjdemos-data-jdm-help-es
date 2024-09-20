@@ -2,114 +2,70 @@
 
 ## Descripción
 
-Los menús permiten a un usuario navegar por el sitio. Un menú es un
-objeto que contiene uno o más elementos de menú. Cada elemento de menú
-apunta a una página lógica en el sitio. Un módulo de menú es necesario
-para colocar el menú en la página. Un menú puede tener más de un módulo.
-Por ejemplo, un módulo puede mostrar sólo el primer nivel de los
-elementos de menú y un segundo módulo, puede mostrar el nivel 2 de los
-elementos de menú.
+Los menús permiten a un usuario navegar por el sitio. Un menú es un objeto
+que contiene uno o más elementos de menú. Cada elemento de menú apunta a una
+página lógica en el sitio. Se requiere un módulo de menú para colocar el menú en
+la página. Un menú puede tener más de un módulo. Por ejemplo, un
+módulo puede mostrar solo los elementos del menú de primer nivel y un segundo módulo
+puede mostrar los elementos del menú de nivel 2.
 
-The Menus list provides an overview of the menus available on a Joomla
-site. This includes the details of each individual menu's number of
-items published, unpublished and trashed, and the names of linked
-modules.
+La página *Menús* ofrece una visión general de los menús disponibles en un sitio Joomla.
+Esto incluye los detalles del número de elementos de menú publicados, no publicados
+y en la papelera de cada menú individual, así como los nombres de los módulos
+vinculados.
 
-The process for adding a menu to the site is normally as follows:
+El proceso para agregar un menú al sitio normalmente es el siguiente:
 
-1.  Crear un nuevo menú (usando esta pantalla).
-1.  Create one or more new menu items for the menu. Each menu item will
-    have a specific menu item type.
-1.  Create one or more menu modules to display the menu on the site.
-    When you create the modules, you will select which menu items
-    (pages) the modules will show on.
+1.  Crear un nuevo menú (utilizando esta página).
+2.  Crear uno o más nuevos elementos de menú para el menú. Cada elemento de menú
+    tendrá un tipo específico de elemento de menú.
+3.  Crear uno o más módulos de menú para mostrar el menú en el sitio.
+    - Seleccione los elementos del menú (páginas) que mostrarán el módulo.
+
+### Elementos Comunes
+
+Algunos elementos de esta página se cubren en artículos de ayuda separados:
+
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de lista](jdocmanual?article=help/common-elements/list-filters).
+* [Encabezados de columnas de lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordenación de elementos de lista](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginación de lista](jdocmanual?article=help/common-elements/list-pagination).
 
 ## Cómo Acceder
 
-- Select **Menus → Manage** from the Administrator menu.
+- Seleccione **Menús → Administrar** desde el menú del Administrador.
 
-## Captura de pantalla
+## Captura de Pantalla
 
-<img
-src="https://docs.joomla.org/images/0/00/Help-4x-menus-menu-manager-menus-en.png"
-decoding="async" data-file-width="800" data-file-height="633"
-width="800" height="633"
-alt="menus menu manager menus" />
+![lista de menús](../../../en/images/menus/menus-list.png)
 
-## Column Headers
+## Encabezados de Columnas
 
-Clicking on the title of a column will sort the table view by the
-column. A down arrow next to the column title means ascending order and
-an up arrow means descending order. The default sort is by **ID#** in
-ascending order.
+- **Título** El nombre del menú.
+- **Elementos del Menú** Un enlace a los elementos de menú de ese menú.
+- **\# Publicados** Número de elementos de menú publicados en este menú.
+- **\# No Publicados** Número de elementos de menú no publicados en este menú.
+- **\# En la Papelera** Número de elementos de menú en la papelera en este menú.
+- **Módulos Vinculados** Un menú desplegable muestra el nombre, el nivel de acceso y la posición
+  de la plantilla de cualquier módulo de menú asociado con el menú.
 
-- **Checkbox**. Check this box to select one or more items. To select
-  all items, check the box in the column heading. After one or more
-  boxes are checked, click a toolbar button to take an action on the
-  selected item or items. Many toolbar actions, such as Publish and
-  Unpublish, can work with multiple items. Others, such as Edit, only
-  work on one item at a time. If multiple items are checked and you
-  press Edit, the first item will be opened for editing.
-- **Title**. The name of the menu.
-- **\# Published**. Number of published menu items in this menu.
-- **\# Unpublished**. Number of unpublished menu items in this menu.
-- **\# Trashed**. Number of trashed menu items in this menu.
-- **Linked Modules**. Lists any menu modules associated with the menu.
-  The column shows the module's name, access level, and position on
-  template.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+## Consejos
 
-## Toolbar
+- Los botones numerados llevan a una lista filtrada de los elementos de menú de ese menú.
+- Un menú debe tener un título descriptivo corto adecuado para su uso en listas y
+  listas desplegables.
+- La *Descripción* es un recordatorio útil del propósito para el cual fue creado el menú.
+- Si un menú no tiene módulos asociados, el botón de la columna *Módulos Vinculados* es
+  un enlace a un diálogo modal de *Agregar un módulo para este menú*.
+- Si elimina un menú existente, no olvide que todos los elementos de menú
+  del respectivo menú también serán eliminados. Aparece un mensaje de advertencia:
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **New**. Opens the editing screen to create a new menu.
-- **Edit**. Opens the editing screen for the selected menu. If more than
-  one menu is selected (where applicable), only the first menu will be
-  opened. The editing screen can also be opened by clicking on the Name
-  of the menu.
-- **Delete:** Deletes the selected menus. Works with one or multiple
-  menus selected. Deleting a menu also deletes all the menu items it
-  contains and any associated menu modules. On clicking Delete you will
-  be asked to confirm that you want to delete the selected menus.
-  Clicking OK button will delete the menus. Click Cancel to abort the
-  deletion.
-- **Rebuild.** Reconstructs and refreshes the menu table. Normally, you
-  do *not* need to rebuild this table. This function is provided in case
-  the data in the table becomes corrupted.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited. See
-- **Help**. Opens this help screen.
-
-## Tips
-
-- It is expedient to give a descriptive title for new menus because,
-  later, you will see it in the *Backend Menus* menu. It is a good idea
-  to fill in the *Description* field with information about the menu. If
-  you enter a short title in the *Module title* field, you can identify
-  the menu's module using that title in the Module Manager.
-- Though you can create a copy of a selected menu by clicking the *Copy*
-  toolbar button, you can make another instance in the Module Manager as
-  well.
-- When you create a new menu, use only English alphanumeric characters
-  without space in the Unique Name field. It is a good idea using only
-  a-z, 0-9 and underscore (\_) characters.
-- If you don't enter a *Module title*, no module will be created and the
-  menu cannot be displayed in the front end. However you can use the
-  Module Manager later to create a new mod_mainmenu module, and assign
-  it to the menu.
-- If you delete an existing menu, do not forget that all the menu items
-  of the respective menu will be also deleted.
-- The Main Menu has your default menu item, so it **should not be
-  deleted**. The default menu item is defines the page that is displayed
-  when you visit www.*yoursite*.com, and your site will not function if
-  it is deleted. It is usually your Home menu item but it can be set to
-  any menu item including a menu item in a hidden menu. If you change
-  the default menu item, make sure that you don't delete that menu item
-  either! The menu with the default menu item is marked with an asterisk
-  (\*) in the *Menus* menu.
+  **¿Está seguro de que desea eliminar estos menús? Al confirmar, se eliminarán los
+  tipos de menú seleccionados, todos sus elementos de menú y los módulos de menú asociados.**
+- El Menú Principal tiene el elemento de menú predeterminado del sitio. ¡No debe ser
+  eliminado! El elemento de menú predeterminado define la página que se muestra cuando
+  se visita la URL del dominio del sitio, como `www.ejemplo.com`. El sitio no funcionará
+  si se elimina. Normalmente es el elemento de menú *Inicio*, pero se puede configurar
+  en cualquier elemento de menú, incluido un elemento de menú en un menú oculto. Si se cambia
+  el elemento de menú predeterminado, asegúrese de que ese elemento de menú tampoco se elimine.
