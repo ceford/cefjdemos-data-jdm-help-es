@@ -2,120 +2,42 @@
 
 ## Descripción
 
-Media Options configuration allows setting of parameters used globally
-for Media. Control the file types allowed for uploading, MIME type
-check, MIME type blacklisting, and more options.
+La página de *Opciones de Medios* se utiliza para configurar los parámetros globales de medios.
 
-## Cómo Acceder
-Seleccionar **Contenido → Multimedia**
+### Elementos Comunes
 
-- Clic el botón **Opciones** en la Barra de Herramientas.
+Algunos aspectos de esta página se cubren en artículos de ayuda separados:
+
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [La pestaña de permisos](jdocmanual?article=help/common-elements/edit-permissions).
+
+## Cómo acceder
+
+- Selecciona **Contenido → Medios** desde el menú del Administrador.
+- Selecciona el botón **Opciones** en la barra de herramientas.
 
 ## Captura de pantalla
 
-<img
-src="https://docs.joomla.org/images/thumb/0/09/Help-4x-Media-Options-screen-es.png/800px-Help-4x-Media-Options-screen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/09/Help-4x-Media-Options-screen-es.png/1200px-Help-4x-Media-Options-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/0/09/Help-4x-Media-Options-screen-es.png/1600px-Help-4x-Media-Options-screen-es.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Media Options screen" />
+![Opciones de Medios](../../../es/images/media/media-options.png)
 
 ## Campos del formulario
 
-### Multimedia
+### Medios
 
-- **Peso máximo (en MB)**. Use el valor '0' para que sea ilimitado.
-  Nota: El servidor también puede tener configurado un límite máximo, el
-  cual, no lo controla Joomla.
-- **Ruta al directorio de archivos**. Introduzca la ruta al directorio
-  de archivos relativo al directorio raíz de su espacio web.Cambiándolo
-  a otra ruta distinta a 'images' puede romper sus enlaces. No empiece
-  la ruta con una barra.
-- **Ruta al directorio de imágenes**. Introduzca la ruta al directorio
-  de imágenes, relativo al directorio raíz de su espacio web.Esta ruta
-  debe ser la misma que se usa para los archivos (predeterminado) o
-  hacia una subcarpeta en ruta a la de archivos. No empiece la ruta con
-  una barra.
-- **Restringir subidas**. Se restringen las subidas, si el 'Fileinfo' o
-  'MIME Magic' no están instalados, para que los usuarios con rango de
-  usuario inferior a gestor puedan subir archivos del tipo imagen.
-  - **Extensiones permitidas**. Restrinja las subidas a los archivos de
-    la lista para los usuarios con nivel de acceso inferior al de
-    gestor.
-  - **Comprobar los tipos de MIME**. Usar el 'Fileinfo' o el 'MIME
-    Magic' para intentar verificar archivos. Intente deshabilitarlo si
-    recibe errores relacionados con los tipos de MIME.
-- **Legal Image Extensions (File Types)**. Extensiones de imagen (tipos
-  de archivo) permitidos para su subida (separados por una coma). Se usa
-  para comprobar si los encabezados de la imagen son válidos.
-- **Legal Audio Extensions (File Types)**. Extensiones de audio (tipos
-  de archivo) que puede cargar (separadas por comas). Se utilizan para
-  comprobar si hay encabezados de audio válidos.
-- **Legal Video Extensions (File Types)**. Extensiones de video (tipos
-  de archivo) que puede cargar (separadas por comas). Estos se utilizan
-  para verificar los encabezados de video válidos.
-- **Legal Document Extensions (File Types)**. Extensiones de documento
-  (tipos de archivo) que puede cargar (separadas por comas). Se utilizan
-  para comprobar si hay encabezados de documentos válidos.
-- **Extensiones ignoradas**. Extensiones de archivo ignoradas para
-  comprobar el tipo de MIME y las subidas restringidas.
-- **Tipos de MIME permitidos.** Una lista de tipos de MIME permitidos
-  para su subida.
+- **Tamaño máximo (en MB)** Usa cero para no tener límite. Nota: El servidor tiene un límite máximo.
+- **Ruta a la carpeta de archivos** Introduce la ruta a la carpeta de archivos relativa a la raíz de tu espacio web. No comiences la ruta con una barra. Cambiar a otra ruta diferente de la predeterminada *images* puede romper tus enlaces.
+- **Ruta a la carpeta de imágenes** Introduce la ruta a la carpeta de imágenes relativa a la raíz de tu espacio web. No comiences la ruta con una barra.
+- **Restringir subidas** Restringe las subidas para usuarios de menor nivel que administrador a imágenes si `Fileinfo` o `MIME Magic` no están instalados.
+  - **Extensiones permitidas** Restringe las subidas para usuarios de menor nivel que administrador a los archivos en la lista.
+  - **Verificar tipos MIME** Usa `Fileinfo` o `MIME Magic` para intentar verificar archivos. Intenta deshabilitar esto si recibes errores de tipo MIME inválido.
+- **Extensiones legales de imágenes (Tipos de archivo)** Extensiones de imágenes (tipos de archivo) que tienes permitido subir (separadas por comas). Se utilizan para verificar cabeceras de imágenes válidas y para seleccionar imágenes.
+- **Extensiones legales de audio (Tipos de archivo)** Extensiones de audio (tipos de archivo) que tienes permitido subir (separadas por comas). Se utilizan para verificar cabeceras de audio válidas y para seleccionar archivos de audio.
+- **Extensiones legales de video (Tipos de archivo)** Extensiones de video (tipos de archivo) que tienes permitido subir (separadas por comas). Se utilizan para verificar cabeceras de video válidas y para seleccionar videos.
+- **Extensiones legales de documentos (Tipos de archivo)** Extensiones de documentos (tipos de archivo) que tienes permitido subir (separadas por comas). Se utilizan para verificar cabeceras de documentos válidas y para seleccionar documentos.
+- **Extensiones ignoradas** Extensiones de archivo ignoradas para la verificación de tipo MIME y subidas restringidas.
+- **Tipos MIME legales** Una lista separada por comas de los tipos MIME legales para subir.
 
-### Permisos
+## Consejos
 
-This section lets you set up the default Access Control List
-permissions for all media.
-
-<img
-src="https://docs.joomla.org/images/thumb/d/df/Help-4x-Media-Options-permissions-subscreen-es.png/600px-Help-4x-Media-Options-permissions-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/df/Help-4x-Media-Options-permissions-subscreen-es.png/900px-Help-4x-Media-Options-permissions-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/d/df/Help-4x-Media-Options-permissions-subscreen-es.png/1200px-Help-4x-Media-Options-permissions-subscreen-es.png 2x"
-data-file-width="2001" data-file-height="1349" width="600" height="404"
-alt="Media Options permissions subscreen" />
-
-To change the permissions for media, do the following.
-
-1.  Selecciona el **Grupo** haciendo clic en el título que se encuentra
-    a la izquierda.
-2.  Find the desired **Action**.
-    - **Configure ACL & Options**. Users can edit the options and
-      permissions.
-    - **Configure Options Only**. Users can edit the options exept the
-      permissions.
-    - **Acceso a la interfaz de administración**. Los usuarios pueden
-      tener acceso a la interfaz de administración de usuarios.
-    - **Create**. Users can create media.
-    - **Delete**. Users can delete media.
-    - **Edit**. Users can edit media.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Permitido**. Permitido para los usuarios de este Grupo. Note: If
-      this action is Denied at one of the higher levels, the Allowed
-      permission here will not take effect. A Denied setting cannot be
-      overridden.
-    - **Denegado**. Denegado para los usuarios de este Grupo.
-4.  Has clic en **Guardar** en la **Barra de herramientas** en la parte
-    superior. Cuando la pantalla se actualiza, la columna Configuración
-    Calculada mostrará el permiso efectivo para este Grupo y Acción.
-
-## Barra de herramientas
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the Media options and stays in the current screen.
-- **Save & Close**. Saves the Media options and closes the current
-  screen.
-- **Cerrar**. Cierra la pantalla actual y vuelve a la pantalla anterior
-  sin guardar las modificaciones realizadas.
-- **Toggle Inline Help**. Show help text below some options.
-- **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Consejos Rápidos
-
-- If you are a beginning user, you can just keep the default values here
-  until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
-  default values here.
+- Si eres un usuario principiante, puedes mantener los valores predeterminados hasta que aprendas más sobre el uso de las opciones globales.
+- Si eres un usuario avanzado, puedes ahorrar tiempo creando buenos valores predeterminados aquí.

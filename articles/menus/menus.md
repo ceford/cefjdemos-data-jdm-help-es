@@ -38,7 +38,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![lista de menús](../../../en/images/menus/menus-list.png)
+![lista de menús](../../../es/images/menus/menus-list.png)
 
 ## Encabezados de Columnas
 

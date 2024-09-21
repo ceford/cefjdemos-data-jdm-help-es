@@ -1,104 +1,63 @@
-<!-- Filename: Help4.x:Media / Display title: Multimedia -->
+<!-- Filename: Help4.x:Media / Display title: Media -->
 
 ## Descripción
 
-The Media Manager is a tool for managing files in the
-\[joomlaroot\]https://docs.joomla.org/images/ folder and other user
-defined local folders. Tools available include:
+El componente de Medios es una herramienta para gestionar archivos en la carpeta de imágenes y otras carpetas locales definidas por el usuario. Las acciones disponibles incluyen:
 
-- upload a new image (or document)
-- delete an existing image
-- rename an image
-- edit an image
-- get an image link
-- create a new folder.
+- Subir una nueva imagen (o documento)
+- Eliminar una imagen existente
+- Renombrar una imagen
+- Editar una imagen
+- Obtener un enlace de imagen
+- Crear una nueva carpeta
 
-## Cómo Acceder
+### Elementos Comunes
 
-- **Panel de inicio → Site → Multimedia**
+Algunos aspectos de esta página se cubren en artículos de ayuda separados:
+
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+
+## Cómo acceder
+
+- **Panel de inicio → Sitio → Medios**.
 
 ## Captura de pantalla
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5d/Help-4x-Media-screen-es.png/800px-Help-4x-Media-screen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5d/Help-4x-Media-screen-es.png/1200px-Help-4x-Media-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/5/5d/Help-4x-Media-screen-es.png/1600px-Help-4x-Media-screen-es.png 2x"
-data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Media screen" />
+![Medios](../../../es/images/media/media.png)
 
-## Image Display Area
+## Área de Visualización de Imágenes
 
 ### Local
 
-This area shows the structure of the local folders of your site, by
-default the **images** folder.
+Esta área muestra la estructura de las carpetas locales del sitio, por defecto la carpeta *images*.
 
-[Consejos Rápidos](#quicktips)
+La carpeta actualmente seleccionada se muestra en las *Migas de pan* arriba del área de visualización de imágenes.
 
-The currently selected folder is also shown in the **Breadcrumbs** above
-the image display area.
+### Barra Superior
 
-### Top Bar
-
-- **Checkbox**. Select/Deselect All Images. After selection you can
-  deselect individual images.
-- **Breadcrumbs**. Select a breadcrumb item to go back in the folder
-  hierarchy.
-- **Buscar**. Type some part of an image name in the search box. The
-  filter works progressively - for example, entering the letter "k" in
-  the search box will instantly reduce the displayed images to those
-  containing a letter "k".
-- **Magnifier Icons**. Decrease/Increase the visible size of the
-  thumbnail images.
-- **List View/Thumbnail View Icons**. Toggles between Thumbnail and List
-  views - the icon changes accordingly.
-- **Icono de información**. Displays information on whatever is
-  selected. If an image is selected it will show the file name, folder
-  path, size and various other properties. Select to open or close the
-  Information panel.
+- **Checkbox** Seleccionar o deseleccionar todas las imágenes. Después de la selección, las imágenes individuales pueden ser deseleccionadas.
+- **Migas de Pan** Selecciona un elemento de migas de pan para volver en la jerarquía de carpetas.
+- **Buscar**. Escribe parte del nombre de una imagen en el cuadro de búsqueda. El filtro funciona de manera progresiva; por ejemplo, ingresar la letra `k` en el cuadro de búsqueda reducirá instantáneamente las imágenes mostradas a aquellas que contienen la letra `k`.
+- **Iconos de Lupa** Disminuir o aumentar el tamaño visible de las miniaturas de las imágenes.
+- **Iconos de Vista de Lista o Vista de Miniaturas** Alterna entre vista de miniaturas y vista de lista; el ícono cambia en consecuencia.
+- **Ícono de Información** Muestra información sobre lo que está seleccionado. Si se selecciona una imagen, mostrará el nombre del archivo, la ruta de la carpeta, el tamaño y varias otras propiedades. Selecciona para abrir o cerrar el panel de información.
 
 ### Acciones
 
-Hover over an image and select the menu button labelled with 3 dots. 6
-icons appear offering the following actions:
+Pasa el cursor sobre una imagen y selecciona el botón de menú etiquetado con una elipsis (...). Se mostrarán seis íconos que ofrecen las siguientes acciones:
 
-1.  **Previsualizar**. Select the magnifier icon - the image is shown
-    full size in a dialog.
-2.  **Editar**. Select the pencil icon to open the Media Edit window. It
-    allows you to crop, resize or rotate the image.
-3.  **Descargar**. Select the download icon - your computer will respond
-    by asking you what you want to do with the download. Or it may just
-    save it or open it in an image display application.
-4.  **Obtener un enlace compartible**. Select the link icon to get a
-    link to the image that you can use for sharing. A dialog allows you
-    to copy the link to your clipboard for pasting into an email or
-    document.
-5.  **Renombrar**. Select the rename icon to open a dialog that allows
-    you to rename the image.
-6.  **Borrar**. Select the waste bin icon to delete the image. You will
-    be prompted to confirm. Once deleted it is gone forever! May be used
-    also to delete a folder.
+1. **Vista Previa** Selecciona el ícono de lupa: la imagen se mostrará a tamaño completo en un diálogo.
+2. **Editar** Selecciona el ícono de lápiz para abrir la ventana de edición de Medios. Permite recortar, redimensionar o rotar la imagen.
+3. **Descargar** Selecciona el ícono de descarga; tu computadora responderá preguntándote qué quieres hacer con la descarga. O puede simplemente guardarla o abrirla en una aplicación de visualización de imágenes.
+4. **Obtener un enlace para compartir** Selecciona el ícono de enlace para obtener un enlace a la imagen que se utilizará para compartir. Un diálogo te permitirá copiar el enlace al portapapeles para pegarlo en un correo electrónico o documento.
+5. **Renombrar** Selecciona el ícono de renombrar para abrir un diálogo que permita renombrar la imagen.
+6. **Eliminar** Selecciona el ícono de papelera para eliminar la imagen. Se te pedirá que confirmes. ¡Una vez eliminada, se va para siempre! También se puede usar para eliminar una carpeta.
 
-## Barra de herramientas
+## Consejos
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Subir**. Opens window for uploading images.
-- **Crear una carpeta nueva**. Opens a dialog to prompt for a new folder
-  name. The new folder is created in the currently selected folder.
-- **Borrar**. Deletes the selected images.
-- **Opciones**. Opens the Media Options.
-- **Ayuda**. Opens this help screen.
-
-## Consejos Rápidos
-
-- If you wish to keep images and documents in separate local folders:
-  1.  create a folder in the root of your site, say **files**
-  2.  go to the Filesystem - Local
-      plugin and add **files** under **Select directories**.
-  3.  Back in the Media component you will see *images* and *files* as
-      separate items in the Local panel.
-- The Media's maximum upload size can be changed to an amount other than
-  "10 MB" in the Media Options.
-- You can upload or delete multiple files at the same time.
+- Si deseas mantener imágenes y documentos en carpetas locales separadas:
+  1. Crea una carpeta en la raíz de tu sitio, por ejemplo, **files**.
+  2. Ve al plugin de Sistema de Archivos - Local y añade **files** bajo **Seleccionar directorios**.
+  3. Regresando al componente de Medios, verás *images* y *files* como elementos separados en el panel Local.
+- El tamaño máximo de subida de Medios se puede cambiar a una cantidad diferente de `10 MB` en las Opciones de Medios.
+- Puedes subir o eliminar múltiples archivos al mismo tiempo.

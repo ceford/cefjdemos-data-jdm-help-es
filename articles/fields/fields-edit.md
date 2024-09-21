@@ -2,237 +2,97 @@
 
 ## Descripción
 
-This is where you can add and edit Fields in Articles, Contacts, and
-Users.
+La página *Componente: Editar Campo* es similar para todos los componentes que implementan campos, pero el título de la página cambia dependiendo del contexto: *Artículos: Editar Campo*, *Contactos: Editar Campo* o *Usuarios: Editar Campo*.
 
-The helpscreen show as example Users.
+La pestaña **General** cambia para reflejar el tipo de campo que se está editando, y una vez que un campo ha sido guardado, su tipo de campo no puede ser cambiado. Sin embargo, es fácil eliminar campos y crear nuevos.
+
+### Elementos Comunes
+
+Algunos aspectos de esta página se cubren en artículos de Ayuda separados:
+
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [La pestaña de Publicación](jdocmanual?article=help/common-elements/edit-publishing).
+* [La pestaña de Permisos](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## Cómo Acceder
-Seleccionar **Usuarios → Campos**
 
-Para agregar un campo:
+* Selecciona **Contenido → Campos** desde el menú del Administrador. O...
+* Selecciona **Contactos → Campos** desde el menú del Administrador. O...
+* Selecciona **Usuarios → Campos** desde el menú del Administrador. Luego...
+  * Selecciona el botón **Nuevo** en la barra de herramientas para crear un nuevo campo. O...
+  * Selecciona un **Título** de la lista para editar un campo existente.
 
-- Clic el botón **Nuevo** en la Barra de Herramientas
+**Nota:** Hay una lista desplegable que permite la creación de Campos para una Categoría y Correo en el componente de Contacto. Requieren algo de experiencia en codificación para preparar sobrescrituras de plantillas adecuadas.
 
-Para editar un campo:
+## Captura de Pantalla
 
-- Seleccione un **Título** de campo en la lista.
+![Artículos editar campo](../../../es/images/fields/articles-edit-field.png)
 
-## Captura de pantalla
+## Campos del Formulario
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-screen-es.png/800px-Help-4x-Fields-Edit-screen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-screen-es.png/1200px-Help-4x-Fields-Edit-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-screen-es.png/1600px-Help-4x-Fields-Edit-screen-es.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Fields Edit screen" />
+- **Título** El título de este campo.
 
-## Campos del formulario
+### Pestaña General
 
-- **Título**. El Título para este campo.
+#### Panel Izquierdo
 
-### General
+Parámetros para todos los campos:
 
-#### Panel izquierdo
-
-Parámetros para todos los Campos Personalizados:
-
-- **Tipo**. Si crea un campo, puede elegir uno de los 16 tipos de
-  campos. Al guardar el campo, el tipo es permanente. No se puede
-  cambiar más adelante.
-- **Nombre**. El nombre se utilizará para identificar el campo. Deje
-  esto en blanco y Joomla completará el valor predeterminado con el
-  título.
-- **Etiqueta**. Utilice un texto descriptivo para la etiqueta del campo.
-  Este texto no es traducible. Si no introduce ningún texto para una
-  etiqueta, el texto del título también se usará como texto de la
-  etiqueta.
-- **Descripción**. La descripción del campo. Un texto que se mostrará
-  cuando el usuario mueve el mouse sobre el cuadro de texto mientras lo
-  usa en el Backend creando un artículo, un contacto o un componente de
-  terceros que admite campos personalizados. Este texto no es
-  traducible. No verá esta descripción en el Frontend.
-- **Obligatorio**. ¿Es éste un campo personalizado obligatorio? En este
-  caso, el campo debe rellenarse antes de enviar un artículo, un
-  contacto o un componente de terceros que admita campos personalizados.
+- **Tipo** Si creas un campo, puedes elegir uno de los 16 tipos de campo. Cuando guardas el campo, este tipo es permanente.
+- **Nombre** El nombre se usará para identificar el campo. Si lo dejas en blanco, Joomla completará un valor predeterminado a partir del título.
+- **Etiqueta** Usa un texto descriptivo del campo para la etiqueta del campo. Este texto no es traducible. Si no introduces texto para una etiqueta, el texto del título también se usará como etiqueta.
+- **Descripción** La descripción del campo. Un texto que se mostrará como una ayuda emergente cuando el usuario pase el ratón sobre el cuadro de texto mientras lo utiliza en el Backend al crear un artículo o un contacto o un componente de terceros que admita campos. Este texto no es traducible. No verás esta descripción en el Frontend.
+- **Obligatorio** ¿Es este un campo obligatorio? En este caso, el campo debe completarse antes de enviar un artículo, un contacto o un componente de terceros que admita campos.
 
 #### Panel Derecho
 
-- **Estado**. El estado de publicación de este campo.
-  - Publicado: El campo es visible al editar un artículo o un contacto.
-    Y es visible en el Frontend.
-  - Despublicado: El campo no será visible para los usuarios mientras
-    editan un artículo o un contacto.
-  - Archivado: El campo ya no mostrará en la edición un artículo o un
-    contacto. Puede abrirlo en el administrador de
-    campos
-    cuando establezca el filtro en archivado.
-  - Papelera: El campo se elimina pero aún está en la base de datos. Se
-    puede eliminar permanentemente de la base de datos con la función
-    Vaciar Papelera en el Administrador de
-    Campos.
+- **Estado** El estado de publicación de este campo.
+  - *Publicado* El campo es visible al editar un artículo o un contacto. Y es visible en el Frontend.
+  - *No Publicado* El campo no será visible para los usuarios al editar un artículo o un contacto.
+  - *Archivado* El campo ya no se mostrará al editar un artículo o un contacto. Puedes abrirlo en Campos cuando configures el filtro para archivados.
+  - *En la Papelera* El campo está eliminado, pero sigue en la base de datos. Se puede eliminar permanentemente de la base de datos en Campos con la función Vaciar Papelera.
+- **Grupo de Campos** Puedes asignar un campo a un grupo de campos.
+- **Categoría** Puedes asignar un campo a una o más categorías. Ten en cuenta que el valor predeterminado *Todo* no incluye artículos *Sin Categoría*.
+- **Acceso** Selecciona el nivel de acceso para este campo. Los niveles de acceso dependen de lo que se haya configurado en *Usuarios: Niveles de Acceso*.
+- **Idioma** Selecciona el idioma para este campo. Si no estás utilizando la función multilingüe de Joomla, mantén el valor predeterminado *Todo*.
+- **Nota** Un campo opcional para hacer notas personales sobre el campo.
 
-- **Grupo de campos**. Puede asignar un campo personalizado a uno o más
-  grupos de campos.
-- **Categoría**. Puede asignar un campo personalizado a una o más
-  categorías de campos. Tenga en cuenta que el valor predeterminado
-  'Todos' no incluye artículos 'Sin Categoría'.
-- **Acceso**. Vea Niveles de
-  Acceso
-  para este campo.
-- **Idioma**. Selecciona el idioma para este elemento. Si no estás
-  utilizando la característica
-  multi-idioma
-  de Joomla!, mantén el valor predeterminado de 'Todos'.
-- **Nota**. Un campo opcional para hacer sus notas personales para el
-  campo.
+### Pestaña Opciones
 
-### Opciones
+![Artículos editar pestaña de opciones de campo](../../../es/images/fields/articles-edit-field-options-tab.png)
 
-<img
-src="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-options-subscreen-es.png/600px-Help-4x-Fields-Edit-options-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-options-subscreen-es.png/900px-Help-4x-Fields-Edit-options-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/d/d0/Help-4x-Fields-Edit-options-subscreen-es.png/1200px-Help-4x-Fields-Edit-options-subscreen-es.png 2x"
-data-file-width="2880" data-file-height="1378" width="600" height="287"
-alt="Fields Edit options subscreen" />
+#### Opciones del Formulario
 
-#### Opciones de formulario
+- **Texto de Ayuda** Un texto de ayuda que aparecerá dentro del campo como una pista para la entrada. El texto de ayuda está activo en el Backend al crear un artículo o un contacto o un componente de terceros que admita campos. No lo verás en el Frontend.
+- **Clase de Campo** Los atributos de clase del campo cuando el campo se renderiza. Si se necesitan clases diferentes, enuméralas con espacios.
+- **Clase de Etiqueta (Formulario)** Clase CSS para aplicar a la etiqueta del campo cuando está en modo de edición (ingresando datos en un campo).
+- **Editable En** ¿En qué parte del sitio debe mostrarse el campo? ¿En el Backend, en el Frontend o en ambos?
+- **Atributo Mostrar en** Mostrar u ocultar el campo según el valor de otros campos. La sintaxis para usar aquí es, por ejemplo: `lista-de-elementos:valor1[OR]lista-de-elementos:valor2`
+  - lista-de-elementos: El *nombre* de un campo ya creado del cual este campo dependerá para ser mostrado.
+  - valor1: El valor necesario para que se muestre el campo del que depende.
+  - `[OR]`: Para crear una opción entre varios campos. En el ejemplo, este campo se mostrará cuando el campo *lista-de-elementos* tenga el valor: *valor1* O *valor2*.
+  - `[AND]`: Para combinar varios campos. Este campo se mostrará solo cuando el campo *lista-de-elementos* tenga el valor: *valor1* Y *valor2*.
+  - También puedes usar el valor *no es igual a* como en *lista-de-elementos!:valor1*. La sintaxis mostrará este campo solo cuando *lista-de-elementos* no sea igual a *valor1*.
+  - Para mostrar este campo cuando el campo *lista-de-elementos* ha sido seleccionado y no tiene un valor vacío, usa la sintaxis *lista-de-elementos!:* (sin un valor especificado).
 
-- **Marcador de posición**. Un texto que aparecerá dentro del campo
-  personalizado como una sugerencia para la entrada. El marcador de
-  posición está activo en el Backend al crear un artículo, un contacto o
-  un componente de terceros que admite campos personalizados. Usted no
-  lo verá en el Frontend.
-- **Clase del campo**. La clase del campo cuando el campo es
-  renderizado. Si se necesitan diferentes clases, sepárelas con
-  espacios.
-- **Clase de la etiqueta (Formulario)**. CSS class to apply to the field
-  label when it is in edit mode (entering input into a field).
-- **Editable en**. En qué parte del sitio debe mostrarse el campo. En el
-  Backend, en el Frontend o ambos.
-- **Showon Attribute**. Conditionally show or hide the field depending
-  on the value of other fields. The syntax to use here, for example:
-  `list-of-items:value1[OR]list-of-items:value2`
-  - list-of-items – It is the *name* of an already created field on
-    which this field will depends to be show.
-  - value1 – Is the value need have the field on which it depends to be
-    show.
-  - \[OR\] – To create a choice among multiple fields. In the example,
-    this field will show when *list-of-items* field have the value:
-    *value1* OR *value2*
-  - \[AND\] – To combine multiple fields. This field will show only when
-    *list-of-items* field have the value: *value1* AND *value2*
-  - You can also use value 'does not equal' as in
-    **list-of-items!:value1**. The syntax will show this field only when
-    *list-of-items* is not equal to *value1*
-  - To show this field when *list-of-items* field has been selected and
-    have not a empty value, use the syntax *list-of-items!:* (without a
-    value specified).
+**Nota:** Los campos de subformulario manejan el identificador *nombre* de *lista-de-elementos* de manera diferente. Si creas un campo personalizado de subformulario y agregas este campo condicional allí, debes usar *field\[ID\]* en lugar de *lista-de-elementos*, donde ID es el id del campo *lista-de-elementos*. Por lo tanto, el atributo *mostrar en* para este campo condicional que estás creando debe ser: `field36:valor1[OR]field36:valor2` donde 36 es el ID del campo 'Lista de elementos'.
 
-**Note:** Subform fields handle different the identifier *name* of
-*list-of-items*. If you create a Subform custom field and you add this
-conditional field you are creating to there, you need use *field\[ID\]*
-instead of *list-of-items*, where ID is the id of the field
-*list-of-items*. Therefore, the showon attribute for this conditional
-field you are creating need be: `field36:value1[OR]field36:value2` where
-36 is the ID of the field 'List of items'.
+#### Opciones de Visualización
 
-#### Opciones de visualización
-
-- **Clase de visualización**. La clase en la salida del contenedor del
-  campo.
-- **Clase del valor**. La clase del valor del campo en la salida.
-- **Etiqueta**. Show the label when the field renders.
-- **Clase de la etiqueta (Salida)**. CSS class to apply to the field
-  label when it is displayed (displaying the output of a field).
-- **Visualización automática**. Joomla ofrece algunos eventos de
-  contenido que se activan durante el proceso de creación de contenido.
-  Este es el lugar para definir cómo los campos personalizados deben
-  integrarse en el contenido.
-  - Después del título
-  - Antes de mostrar contenido
-  - Después de mostrar contenido
+- **Clase de Visualización** La clase del contenedor del campo en la salida.
+- **Clase de Valor** La clase del valor del campo en la salida.
+- **Etiqueta** Mostrar la etiqueta cuando el campo se renderiza.
+- **Clase de Etiqueta (Salida)** Clase CSS para aplicar a la etiqueta del campo cuando se muestra (mostrando la salida de un campo).
+- **Visualización Automática** Joomla ofrece algunos eventos de contenido que se activan durante el proceso de creación de contenido. Este es el lugar para definir cómo los campos deben integrarse en el contenido. Puedes elegir
+  - Después del Título
+  - Antes del Contenido Mostrado
+  - Después del Contenido Mostrado
   - No mostrar automáticamente
-- **Prefijo**. Fixed text to be displayed before a field, for example £.
-- **Sufijo**. Fixed text to be displayed after a field, for example EUR.
-- **Presentación**. If there is a custom layout then it would be
-  selected here.
-- **Mostrar cuando sean de sólo lectura**. If the field is read only
-  (perhaps the user doesn't have the access level) should the field be
-  displayed or hidden.
+- **Prefijo** Texto fijo para mostrar antes de un campo, por ejemplo, £.
+- **Sufijo** Texto fijo para mostrar después de un campo, por ejemplo, €.
+- **Diseño** Si hay un diseño personalizado, se seleccionaría aquí.
+- **Mostrar Cuando Es Solo Lectura** Si el campo es solo de lectura (quizás el usuario no tiene el nivel de acceso), ¿debería mostrarse o esconderse el campo?
 
-### Publicación
+#### Búsqueda Inteligente
 
-<img
-src="https://docs.joomla.org/images/thumb/8/85/Help-4x-Fields-Edit-publishing-subscreen-es.png/600px-Help-4x-Fields-Edit-publishing-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/8/85/Help-4x-Fields-Edit-publishing-subscreen-es.png/900px-Help-4x-Fields-Edit-publishing-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/8/85/Help-4x-Fields-Edit-publishing-subscreen-es.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-es.png 2x"
-data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Fields Edit publishing subscreen" />
-
-- **Fecha de creación** . Este campo de forma predeterminada toma la
-  fecha y la hora actual cuando el campo fue creado. Puedes entrar una
-  fecha y hora diferentes o hacer clic en el icono de calendario para
-  encontrar la fecha deseada.
-- **Creado por**. Nombre del usuario de Joomla! que creó este campo.
-  Esto será predeterminado por el usuario conectado actualmente. Si
-  deseas cambiar a un usuario diferente, has clic en el botón
-  Seleccionar Usuario para elegir un usuario diferente.
-- **Fecha de modificación**. Fecha de la última modificación.
-- **Modificado por**. Nombre del Usuario que realizó la última
-  modificación.
-- **ID**. Este es un número de identificación único para este campo. Se
-  utiliza para identificar el campo internamente y no se puede cambiar
-  este número.
-
-### Permisos
-
-This is where you can enter permissions for this field.
-
-
-
-<img
-src="https://docs.joomla.org/images/thumb/a/ad/Help-4x-Fields-Edit-permissions-subscreen-es.png/600px-Help-4x-Fields-Edit-permissions-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/ad/Help-4x-Fields-Edit-permissions-subscreen-es.png/900px-Help-4x-Fields-Edit-permissions-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/a/ad/Help-4x-Fields-Edit-permissions-subscreen-es.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-es.png 2x"
-data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Fields Edit permissions subscreen" />
-
-To change the permissions for this field, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Delete**. Users can delete this field.
-    - **Edit**. Users can edit this field.
-    - **Edit State**. User can change the published state and related
-      information for this field.
-    - **Edit Custom Field Value.** Users can edit the field value.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration,
-      parent group, or category.
-    - **Allowed**. Allowed for users in this Group.Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Denied**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Barra de herramientas
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the field and stays in the current screen.
-- **Save & Close**. Saves the field and closes the current screen.
-  - **Save & New**. Saves the field and keeps the editing screen open
-    and ready to create another field.
-  - **Save as Copy**. Saves your changes to a copy of the current field.
-    Does not affect the current field.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
-
-## Consejos Rápidos
-
-If you want to know how to use fields:
+- **Índice de Búsqueda** Advertencia: Cuando se selecciona *Hacer Buscable*, el contenido del campo se indexa con los permisos de visualización del elemento de contenido. Esto podría llevar a una divulgación inesperada de información.

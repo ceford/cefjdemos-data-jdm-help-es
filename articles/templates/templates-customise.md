@@ -2,122 +2,81 @@
 
 ## Descripción
 
-This is where you edit a template's source code. You can edit the
-template's master files and stylesheets from this screen.
+La página de *Plantillas: Personalizar* se utiliza para editar el código fuente de una plantilla. Puedes crear sobreescrituras para archivos PHP y crear archivos user.css y user.js para añadir a las versiones del sistema. También puedes crear plantillas secundarias para permitir la edición de los archivos maestros de la plantilla sobreescrita.
 
-## How to Access
+## Cómo Acceder
 
-- Select **System → Templates Panel → Site Templates** from the
-  Administrator menu. Or...
-- Select **System → Templates Panel → Administrator Templates**
-  from the Administrator menu. Then...
-  - Select a template name from the **Templates** column.
+- Selecciona **Sistema → Panel de Plantillas → Plantillas del Sitio** desde el menú del Administrador. O...
+- Selecciona **Sistema → Panel de Plantillas → Plantillas del Administrador** desde el menú del Administrador. Luego...
+  - Selecciona un nombre de plantilla de la columna **Plantilla**.
 
-## Screenshot
+## Captura de Pantalla
 
-The Administrator and Site Templates screens use the same layout. The
-Site Template screen is illustrated here.
+Las pantallas de Plantillas del Administrador y del Sitio utilizan el mismo diseño. La pantalla de Plantilla del Sitio se ilustra aquí.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png/800px-Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/5/54/Help-4x-Extensions-Template-Manager-Templates-Edit-screen-en.png 1.5x"
-data-file-width="1000" data-file-height="508" width="800" height="406"
-alt="Extensions Template Manager Templates Edit screen" />
+![personalizar plantillas cassiopeia pestaña del editor](../../../es/images/templates/templates-customise-cassiopeia-editor-tab.png)
 
-## Form Fields
+## Campos del Formulario
 
-### Editor Tab
+### Pestaña del Editor
 
-- Select a file to edit. The edit area shows syntax highlighted text for
-  most types of file.
+- Selecciona un archivo para editar. El área de edición muestra texto con resaltado de sintaxis para la mayoría de los tipos de archivo.
 
-### Create Overrides Tab
+### Pestaña de Crear Sobreescrituras
 
-- Select an item to override. This is done immediately with no prompt
-  for confirmation. The override is placed in the appropriate location.
-  There is a confirmation message, example: Override created in
-  /templates/cassiopeia/html/mod_whosonline
+![personalizar plantillas cassiopeia pestaña de crear sobreescrituras](../../../es/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
 
-### Updated Files Tab
+- Selecciona un elemento para sobreescribir. Los elementos marcados con un ícono de archivo sólido se abren para revelar una lista de elementos. Los elementos marcados con íconos de página abierta y rellena superpuestos crean una sobreescritura inmediatamente sin pedir confirmación. La sobreescritura se coloca en la ubicación apropiada. Hay un mensaje de confirmación, por ejemplo:
+  *Sobreescritura creada en /templates/cassiopeia/html/mod_whosonline*.
 
-If there have been no updates to the template since overrides were
-created this tab will contain a simple message:
+### Pestaña de Archivos Actualizados
 
-- **Notice.** Overridden files are up to date. Nothing has been changed
-  in the last extension or Joomla update.
+![personalizar plantillas cassiopeia pestaña de actualizados](../../../es/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
 
-If there have been updates, a table will show a list of overrides that
-need to be reviewed.
+Si no ha habido actualizaciones en la plantilla desde que se crearon las sobreescrituras, esta pestaña contendrá un mensaje simple:
 
-### Template Description Tab
+<div class="alert alert-success">
+Los archivos sobreescritos están actualizados. No se han realizado cambios
+en la última extensión o actualización de Joomla.
+</div>
 
-- **Thumbnail and Description.** Information on this template.
+Si ha habido actualizaciones, una tabla mostrará una lista de sobreescrituras que necesitan ser revisadas.
 
-## Toolbar
+### Pestaña de Descripción de Plantilla
 
-Note that the Toolbar buttons change when a file is selected for
-editing.
+![personalizar plantillas cassiopeia pestaña de descripción de plantilla](../../../es/images/templates/templates-customise-cassiopeia-template-description-tab.png)
 
-### No file selected
+- **Miniatura y Descripción** Información sobre esta plantilla.
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
+## Barra de Herramientas
 
-- **Create Child Template.** Select to make a complete a new child
-  template. You will be prompted for a new child template name. There is
-  also an opportunity to Close without creating a new child template. To
-  remove the new child template: select the **Close** button, select the
-  Styles button in the Templates list Toolbar, check the template check
-  box for the new child template and select Delete in the toolbar.
-- **Template Preview.** Select to open the Site default view using this
-  template.
-- **Manage Folders.** Select to create a new folder within the template
-  hierarchy. A popup window appears:
+Ten en cuenta que los botones de la Barra de Herramientas cambian cuando se selecciona un archivo para editar.
 
-<img
-src="https://docs.joomla.org/images/thumb/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/c/ca/Help-4x-Extensions-Template-Manager-Templates-Edit-new-folder-dialog-en.png 1.5x"
-data-file-width="600" data-file-height="329" width="500" height="274"
-alt="Extensions Template Manager Templates Edit new folder dialog" />
+### Sin archivo seleccionado
 
-- **New File.** Select to create a new file or to upload a file from
-  your computer to your Joomla! template hierarchy. A popup window
-  appears:
+En la parte superior de la página verás la barra de herramientas mostrada en la captura de pantalla anterior. Las funciones son:
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png/500px-Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/f/fe/Help-4x-Extensions-Template-Manager-Templates-Edit-upload-file-dialog-en.png 1.5x"
-data-file-width="600" data-file-height="334" width="500" height="278"
-alt="Extensions Template Manager Templates Edit upload file dialog" />
+- **Crear Plantilla Secundaria** Selecciona para crear una nueva plantilla secundaria completa. Se te pedirá un nuevo nombre para la plantilla secundaria. También hay una oportunidad para cerrar sin crear una nueva plantilla secundaria. Para eliminar la nueva plantilla secundaria: selecciona el botón **Cerrar**, selecciona el botón de Estilos en la Barra de Herramientas de la lista de Plantillas, marca la casilla de la plantilla secundaria nueva y selecciona Eliminar en la barra de herramientas.
+- **Vista Previa de Plantilla** Selecciona para abrir la vista predeterminada del Sitio utilizando esta plantilla.
+- **Administrar Carpetas** Selecciona para crear una nueva carpeta dentro de la jerarquía de plantillas. Aparece una ventana emergente. **Importante:** selecciona la carpeta en la que debe aparecer la nueva carpeta antes de crearla.
+- **Nuevo Archivo** Selecciona para crear un nuevo archivo o para cargar un archivo desde tu computadora a la jerarquía de plantillas de Joomla. Aparece una ventana emergente. **Importante:** selecciona la carpeta en la que debe aparecer el nuevo archivo antes de crear el nuevo archivo.
+- **Verificar Sobreescrituras** Activada cuando se selecciona una Sobreescritura en la pestaña *Sobreescrituras*. Las opciones son:
+  - Marcar Como Comprobado
+  - Marcar Como No Comprobado
+  - Eliminar Registro
+- **Cerrar** Cierra la pantalla actual y vuelve a la pantalla anterior sin guardar las modificaciones que hayas realizado. Este ícono de la barra de herramientas no se muestra si estás creando un nuevo elemento.
+- **Ayuda** Abre esta pantalla de ayuda.
 
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab. The options are:
-  - Mark Checked
-  - Mark Unchecked
-  - Remove Record
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
+### Archivo seleccionado
 
-### File selected
+- **Guardar** Guarda el elemento y permanece en la pantalla actual.
+- **Guardar y Cerrar** Guarda el elemento y cierra la pantalla actual.
+- **Renombrar Archivo** Selecciona un archivo para editar. Selecciona el botón Renombrar para solicitar un nuevo nombre.
+- **Eliminar Archivo** Se te pedirá que Confirmes o Canceles.
+- **Verificar Sobreescrituras** Activada cuando se selecciona una Sobreescritura en la pestaña *Sobreescrituras*.
+- **Cerrar Archivo** Cierra el archivo abierto y vuelve a la Pestaña del Editor.
+- **Ayuda** Abre esta pantalla de ayuda.
 
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Rename File.** Select a file to edit. Select the Rename button to
-  prompt for a new name.
-- **Delete File.** You will be prompted to Confirm or Cancel.
-- **Check Overrides.** Activated when an Override is selected in the
-  **Overrides** tab.
-- **Close File.** Closes the open file and returns to the Editor Tab.
-- **Help**. Opens this help screen.
+## Consejos
 
-## Tips
-
-- Before editing the HTML and the CSS file of the template, it is a good
-  idea to make a backup of the file you are editing. Also, you can edit
-  these files outside of Joomla! using the HTML or CSS editor of your
-  choice.
+- Antes de editar el archivo HTML y el archivo CSS de la plantilla, es una buena idea hacer una copia de seguridad del archivo que estás editando. Además, puedes editar estos archivos fuera de Joomla utilizando el editor HTML o CSS de tu elección.

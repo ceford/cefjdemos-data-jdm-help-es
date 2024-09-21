@@ -1,171 +1,40 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Site Modules: Breadcrumbs -->
+<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Módulos: Ruta de Navegación -->
 
-## Description
+## Descripción
 
-The **Breadcrumbs** module type shows a set of navigation links that
-illustrate location in the site and allow back navigation.
+El tipo de módulo *Ruta de Navegación* muestra un conjunto de enlaces de navegación que ilustran la ubicación en el sitio y permiten la navegación hacia atrás.
 
-## How to Access
+### Elementos Comunes
 
-- Select **System → Manage Panel → Site Modules** from the
-  Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
-    - Select the required module type.
-  - To edit an existing module:
-    - Find the module in the list of installed modules and select the
-      title link in the **Title** column.
+Algunos elementos de esta página están cubiertos en artículos de ayuda separados:
 
-## Screenshot
+* [Barras de Herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [La Pestaña de Módulos: Módulos](jdocmanual?article=help/modules/modules-module-tab).
+* [La Pestaña de Módulos: Asignación de Menú](jdocmanual?article=help/modules/modules-menu-assignment-tab).
+* [La Pestaña de Módulos: Avanzado](jdocmanual?article=help/modules/modules-advanced-tab).
+* [La Pestaña de Permisos](jdocmanual?article=help/common-elements/edit-permissions).
 
-<img
-src="https://docs.joomla.org/images/5/53/Help-4x-modules-site-module-manager-module-breadcrumbs-en.png"
-decoding="async" data-file-width="800" data-file-height="691"
-width="800" height="691"
-alt="modules site module manager module breadcrumbs" />
+## Cómo Acceder
 
-## Form Fields
+- Selecciona **Sistema → Panel de Administración → Módulos del Sitio** desde el menú del Administrador. Luego...
+  - Para crear un nuevo módulo: selecciona el botón **Nuevo** en la Barra de Herramientas. Luego...
+    - Selecciona el tipo de módulo requerido.
+  - Para editar un módulo existente:
+    - Busca el módulo en la lista de módulos instalados y selecciona el enlace en la columna **Título**.
 
-- **Title.** The title of the module. This is also the title displayed
-  for the module depending on the *Show Title* Form Field
+## Captura de Pantalla
 
-### Module Tab
+![pestaña del módulo ruta de navegación](../../../es/images/modules-site/modules-breadcrumbs-module-tab.png)
 
-#### Left Panel
+## Campos del Formulario
 
-- **You are here.** (*Show*/*Hide*). Show or hide "You are here" text in
-  the Pathway.
-- **Show Home.** (*Show*/*Hide*). Show or hide the Home element in the
-  Pathway.
-- **Text for Home Entry** This text will be shown as Home entry. If the
-  field is left empty, it will use the default value from the
-  mod_breadcrumbs.ini language file.
-- **Show Last.** (*Show*/*Hide*). Show or hide the last element in the
-  Pathway.
+- **Título** El título del módulo. Este también es el título que se mostrará para el módulo, dependiendo del campo de formulario *Mostrar Título*.
 
-#### Right Panel
+### Pestaña del Módulo
 
-- **Show Title.** (Show/Hide) Choose whether to show or hide the modules
-  title in the front end. The title will be the one in the Form Field
-  above.
-- **Position.** Choose the module position
-  you wish this module to be displayed in. A custom module position can
-  be entered for use with the load position plugin
-  or the position button can be pressed to select a module position from
-  the template.
-- **Status**. The published status of the item.
-- **Access**. The viewing Access  Level   for this item.
-- **Module Ordering.** This shows a drop down of every module in the
-  position that the current module is in. This is the order that the
-  modules will display in when displayed on in the front end as well as
-in the Modules page
-- **Start Publishing**. Date and time to start publishing. Use this
-  field if you want to enter content ahead of time and then have it
-  published automatically at a future time.
-- **Finish Publishing**. Date and time to finish publishing. Use this
-  field if you want to have content automatically changed to Unpublished
-  state at a future time (for example, when it is no longer applicable).
-- **Language**. Item language.
-- **Note**. This is normally for the site administrator's use (for
-  example, to document information about this item) and does not show in
-  the Frontend of the site.
+#### Panel Izquierdo
 
-### Menu Assignment Tab
-
-<img
-src="https://docs.joomla.org/images/0/05/Help-4x-modules-manager-site-module-menu-assignment-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="595"
-width="600" height="595"
-alt="modules manager site module menu assignment tab" />
-
-- **Module Assignment.** Select **On All Pages**, **No Pages**, **Only
-  on the pages selected** or **On all pages except those selected** from
-  the List.
-- **Menu Selection.** If the latter two options are selected a list will
-  show all of the menu items. This allows you to assign modules to some
-  but not all pages, and by selecting the menu links that you want the
-  module associated with you can customize on what pages modules
-  appear/don't appear. See How do you assign a module to specific
-  pages?
-  for more information.
-
-### Advanced Tab
-
-<img
-src="https://docs.joomla.org/images/4/4b/Help-4x-modules-manager-admin-module-site-advanced-options-en.png"
-decoding="async" data-file-width="600" data-file-height="422"
-width="600" height="422"
-alt="modules manager admin module site advanced options" />
-
-- **Layout.** If you have defined one or more alternative layouts for a
-  module either in the template or Joomla! Core, you can select the
-  layout to use for this module.
-- **Module Class.** A suffix applied to the CSS class of the Module.
-  This allows you to create customized CSS styles that will apply just
-  to this module. You would then modify the "user.css" file of your
-  template to apply styling to this new class. Enter this parameter with
-  a leading space to create a new CSS class for this module. Enter the
-  parameter without a leading space to change the CSS class name for
-  this module.
-- **Caching.** Use Global/No Caching. Whether or not to cache the
-  content of this Module. A setting of "Use Global" will use the Cache
-  Settings from the Global Configuration screen.
-- **Cache Time.** The number of seconds for which to cache the item
-  locally. It can safely be left at the default.
-- **Module Style.** You can use this option to override the templates
-  style for its position.
-- **Module Tag.** The HTML tag for the module to be placed in. By
-  default this is a div tag but other HTML5 elements can also be used.
-- **Bootstrap Size.** (Values 0 to 12) This allows you to choose the
-  width of the module via the span element built into bootstrap.
-- **Header Tag.** The HTML tag to use for the modules header or title.
-  This can be an h1, h2, h3, h4, h5, h6 or a p tag. Note that you must
-  use a module style (chrome) of html5 or add your custom module styles
-  in /html/modules.php.
-- **Header Class.** Here you can add optional CSS classes to add to the
-  modules header or title element.
-
-### Permissions Tab
-
-<img
-src="https://docs.joomla.org/images/d/d8/Help-4x-modules-manager-admin-module-administrator-permissions-en.png"
-decoding="async" data-file-width="600" data-file-height="374"
-width="600" height="374"
-alt="modules manager admin module administrator permissions" />
-
-To change the permissions, do the following.
-
-- Select the **Group** by clicking its title located on right.
-- Find the desired **Action**. Possible Actions are:
-  - **Delete**. Users can delete the module.
-  - **Edit**. Users can edit the module.
-  - **Edit State**. User can change the published state and related
-    information for the module.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited.*** Inherited for users in this Group from the Global
-    Configuration, Article Manager Options, or Category permissions.
-  - ***Allowed.*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied.*** Denied for users in this Group.
-- Select **Save** in the **Toolbar**. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
+- **Estás aquí** Mostrar u ocultar el texto *Estás aquí* en la ruta de navegación.
+- **Mostrar Inicio** Mostrar u ocultar el elemento *Inicio* en la ruta de navegación.
+- **Texto para la Entrada de Inicio** Este texto se mostrará como la entrada de Inicio. Si el campo se deja vacío, utilizará el valor predeterminado del archivo de idioma mod_breadcrumbs.ini.
+- **Mostrar Último** Mostrar u ocultar el último elemento en la ruta de navegación.

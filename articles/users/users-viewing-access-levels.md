@@ -2,81 +2,31 @@
 
 ## Descripción
 
-This screen shows a list of User Access Levels.
+Los niveles de acceso controlan qué usuarios pueden ver qué activos en un sitio. Los activos incluyen elementos de menú, módulos, categorías y elementos de componente (artículos, contactos, etc.). Cada objeto en el sitio se asigna a un nivel de acceso. Los grupos de usuarios también se asignan a cada nivel de acceso.
 
-## How to access
+Si un usuario es miembro de un grupo que a su vez tiene permiso para un nivel de acceso, entonces ese usuario puede ver todos los activos asignados a ese nivel de acceso. Es importante entender que los grupos de usuarios pueden organizarse en una jerarquía padre-hijo. Si es así, un grupo hijo tiene acceso a todos los niveles de acceso a los que el grupo padre tiene acceso. Por lo tanto, no es necesario asignar a un grupo hijo acceso a niveles que su grupo padre ya tiene.
 
-Select **Users → Access Levels** from the Administrator menu.
+La página de *Usuarios: Visualización de Niveles de Acceso* muestra una lista de Niveles de Acceso de Usuario.
 
-## Screenshot
+### Elementos Comunes
 
-<img
-src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png/800px-Help-4x-users-user-manager-viewing-access-levels-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/b/b2/Help-4x-users-user-manager-viewing-access-levels-en.png 1.5x"
-data-file-width="1007" data-file-height="583" width="800" height="463"
-alt="users user manager viewing access levels" />
+Algunos elementos de esta página están cubiertos en artículos de ayuda separados:
 
-## Column Headers
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de lista](jdocmanual?article=help/common-elements/list-filters).
+* [Encabezados de columna de lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Paginación de lista](jdocmanual?article=help/common-elements/list-pagination).
 
-In the table containing the Access Levels from your Joomla! site, you
-will see different columns. Here you can read what they mean and what is
-displayed in that column.
+## Cómo acceder
 
-- **Checkbox**. Check this box to select one or more items. To select
-  all items, check the box in the column heading. After one or more
-  boxes are checked, click a toolbar button to take an action on the
-  selected item or items. Many toolbar actions, such as Publish and
-  Unpublish, can work with multiple items. Others, such as Edit, only
-  work on one item at a time. If multiple items are checked and you
-  press Edit, the first item will be opened for editing.
+Selecciona **Usuarios → Niveles de Acceso** desde el menú del Administrador.
 
-- **Ordering:** (default). The column in which to sort displayed items
-  in the table. The values are the same as the column heading names.
-- **Level Name**. The name of the access level.
-- **User Groups Having Viewing Access**. The groups that have viewing
-  access.
+## Captura de Pantalla
 
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+![usuarios visualizando niveles de acceso](../../../es/images/users/users-viewing-access-levels.png)
 
-## List Filters
+## Consejos
 
-At the top you will see the filter bar shown in the Screenshot above.
-The functions are:
-
-\***Search**. Enter part of the level's name and press the Search icon
-to find matching names. Press 'Clear' to clear the search field and
-restore the list of levels.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **New**. Opens the editing screen to create a new access level.
-
-- **Edit**. Opens the editing screen for the selected access level. If
-  more than one access level is selected (where applicable), only the
-  first access level will be opened. The editing screen can also be
-  opened by clicking on the Name of the access level.
-
-- **Delete:** Deletes the selected access levels. Works with one or
-  multiple access levels selected. Note that you cannot delete an access
-  level that is currently being used. If you try to delete an access
-  level that is assigned, a message showing where it is assigned will be
-  displayed.
-
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-
-- **Help**. Opens this help screen.
-
-## Tips
-
-- Click on the name of an access level to edit it.
-- Click on the Column
-Headers to sort the users by that column, ascending or descending.
+- Haz clic en el nombre de un nivel de acceso para editarlo.
+- Haz clic en los Encabezados de Columna para ordenar los usuarios por esa columna,
+  de forma ascendente o descendente.

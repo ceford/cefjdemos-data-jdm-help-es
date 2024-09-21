@@ -1,162 +1,77 @@
-<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Menús: Mostrar el formulario para crear y enviar un artículo -->
+<!-- Filename: Help4.x:Menu_Item:_Create_Article / Display title: Crear Artículo -->
 
 ## Descripción
 
-The Create Article menu item allows users to submit an article via the
-Site interface. Normally this is available only to users who have logged
-in to the Frontend of the site.
+El ítem de menú *Crear Artículo* permite a los usuarios enviar un artículo a través de la interfaz del sitio. Normalmente, esto está disponible solo para usuarios que han iniciado sesión en el Frontend del sitio. Los usuarios deben tener permisos para crear artículos.
 
-Users must have permission to create articles. When the Create Article
-page is shown in the Frontend, the screen shows as examples in the
-Frontend Screenshot section below.
+### Elementos Comunes
+
+Algunos aspectos de esta página están cubiertos en artículos de ayuda separados:
+
+* [Barras de herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [La pestaña Detalles](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [La pestaña Tipo de Enlace](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [La pestaña Visualización de la Página](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [La pestaña Metadatos](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [La pestaña Asociaciones](jdocmanual?article=help/common-elements/edit-associations).
+* [La pestaña Asignación de Módulos](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
 ## Cómo Acceder
 
-Select **Menus → \[name of the menu\]** from the Administrator menu.
+Selecciona **Menús → \[nombre del menú\]** desde el menú de Administrador.
 
-To add a Menu Item:
+Para agregar un ítem de menú:
 
-1.  Clic el botón **Opciones** en la Barra de Herramientas.
-2.  click the Menu Item Type **Select** button.
-3.  select the **Articles** item.
-4.  select the **Create Article** item.
+1.  Selecciona el botón **Nuevo** en la barra de herramientas.
+2.  Selecciona el botón **Seleccionar** en *Tipo de Ítem de Menú*.
+3.  Selecciona el ítem **Artículos** en el cuadro de diálogo emergente.
+4.  Selecciona el ítem **Crear Artículo**.
 
-To edit a Menu Item:
+Para editar un ítem de menú:
 
-- select a **Title** from the list
+- Selecciona un **Título** de la lista.
 
-## Captura de pantalla
+## Captura de Pantalla
 
-<img
-src="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Create-Article-screen-es.png/800px-Help-4x-Menus-Item-Articles-Create-Article-screen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Create-Article-screen-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-screen-es.png 1.5x, https://docs.joomla.org/images/thumb/c/cd/Help-4x-Menus-Item-Articles-Create-Article-screen-es.png/1600px-Help-4x-Menus-Item-Articles-Create-Article-screen-es.png 2x"
-data-file-width="2880" data-file-height="1515" width="800" height="421"
-alt="Menus Item Articles Create Article screen" />
+![Ítem de Menú Crear Artículo](../../../es/images/menu-items/articles-create-article-details-tab.png)
 
-## Campos del formulario
+## Campos del Formulario
 
-- **Título**. El título que se visualiza para este elemento del menú.
-- **Alias**. El alias se usará en la URL amigable. Si lo deja en blanco,
-  Joomla! lo rellenará con un valor predeterminado obtenido a partir del
-  título. Aprende más.
+- **Título** El título que se mostrará para este ítem de menú.
+- **Alias** El nombre interno del ítem de menú. Normalmente, puedes dejar
+  este campo en blanco y Joomla llenará un valor predeterminado con el Título en minúsculas y con guiones en lugar de espacios.
 
 ### Detalles
 
-#### Panel izquierdo
+#### Panel Izquierdo
 
-- **Tipo de elemento del menú**. El Tipo de Elemento del Menú
-  seleccionado cuando este elemento del menú se creó. Este puede ser uno
-  de los tipos de elementos principales del menú o un tipo de elemento
-  del menú que proporciona una extensión instalada.
-- **Enlace**. El sistema ha generado un enlace para este elemento del
-  menú. Este campo no se puede cambiar y es sólo para información.
-- **Abrir en**. Seleccione de la lista desplegable.
-- **Estilo de la plantilla**. Seleccione de la lista desplegable.
+- **Tipo de Ítem de Menú** El tipo de ítem de menú seleccionado cuando se creó este ítem de menú. Puede ser uno de los tipos de ítems de menú principales o un tipo de ítem de menú proporcionado por una extensión instalada.
+- **Enlace** El enlace generado por el sistema para este ítem de menú. Este campo no se puede cambiar y es solo para información.
+- **Ventana de Destino** Selecciona del menú desplegable.
+- **Estilo de Plantilla** Selecciona del menú desplegable.
 
 #### Panel Derecho
 
-- **Menú**. Muestra en qué menú aparecerá el enlace.
+- **Menú** Muestra en qué menú aparecerá el enlace.
 
 ### Opciones
 
-<img
-src="https://docs.joomla.org/images/thumb/f/f5/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f5/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png/900px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/f/f5/Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-options-subscreen-es.png 2x"
-data-file-width="2878" data-file-height="1325" width="600" height="276"
-alt="Menus Item Articles Create Article options subscreen" />
+![Ítem de Menú Crear Artículo opciones](../../../es/images/menu-items/articles-create-article-options-tab.png)
 
-- **Categoría específica**.
-  - Sí: Articles will be assigned to the specified category. The user
-    will not be able to select a category.
-  - No: The user may select the category from the list box. Only
-    categories for which the user has 'Create' permission will show.
-- **Redirección de envío y de cancelación**. Seleccionar una página a la
-  que redirigir al usuario después de enviar correctamente un artículo y
-  después de cancelar.
-- **Redirección personalizada al 'Cancelar'**.
-  - Sí: Set a page to redirect to when user Cancels article submission.
-  - No: When user Cancels article submission, the user is redirected to
-    the 'Submission/Cancel Redirect' page.
+- **Categoría Específica**
+  - *Sí* Los artículos se asignarán a la categoría especificada. El usuario no podrá seleccionar una categoría.
+  - *No* El usuario podrá seleccionar la categoría desde el cuadro de lista. Solo se mostrarán las categorías para las cuales el usuario tenga permiso de *Crear*.
+- **Redirección al Enviar/Cancelar** Selecciona la página a la que el usuario será redirigido después de enviar un artículo exitosamente.
+- **Redirección Personalizada al Cancelar**
+  - *Sí* Establece una página a la que se redirigirá cuando el usuario cancele el envío del artículo.
+  - *No* Cuando el usuario cancele el envío del artículo, será redirigido a la página de *Redirección al Enviar/Cancelar*.
 
-### Opciones comunes
+## Ejemplo de Captura de Pantalla del Frontend
 
-See Menus: New Item
-for help on fields common to all Menu Item types, including:
+Esta captura de pantalla muestra la plantilla Frontend de Joomla **Cassiopeia** con todas las opciones de diseño de edición configuradas en 'Ocultar'.
 
-- Panel
-  Derecho
-- Tipo de
-  enlace
-- Visualización de la
-  página
-- Metadatos
-- Asociaciones
-- Asignación de
-  módulos
+[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
-## Barra de herramientas
+## Consejos
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Guardar**. Guarda el elemento de menú y se queda en la pantalla
-  actual.
-- **Guardar y cerrar**. Guarda el elemento de menú y se cierra la
-  pantalla actual.
-  - **Guardar y nuevo**. Guarda el elemento de menú y mantiene la
-    pantalla de edición abierta y lista para crear otro elemento de
-    menú.
-- **Cancelar**. Cierra la pantalla actual y vuelve a la pantalla
-  anterior sin guardar las modificaciones realizadas.
-- **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Frontend Screenshots
-
-Screenshots shows Joomla core Frontend Template **Cassiopeia**, all
-Editing Layout options
-set to 'Hide'.
-
-#### Contenido
-
-<img
-src="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png 1.5x, https://docs.joomla.org/images/thumb/1/16/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-es.png 2x"
-data-file-width="1730" data-file-height="1260" width="600" height="437"
-alt="Menus Item Articles Create Article frontend content" />
-
-#### Campos
-
-<img
-src="https://docs.joomla.org/images/thumb/6/66/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png 1.5x, https://docs.joomla.org/images/thumb/6/66/Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-fields-es.png 2x"
-data-file-width="1728" data-file-height="480" width="600" height="167"
-alt="Menus Item Articles Create Article frontend fields" />
-
-#### Publicando
-
-<img
-src="https://docs.joomla.org/images/thumb/2/2e/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/2e/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png 1.5x, https://docs.joomla.org/images/thumb/2/2e/Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-publishing-es.png 2x"
-data-file-width="1729" data-file-height="1116" width="600" height="387"
-alt="Menus Item Articles Create Article frontend publishing" />
-
-#### Idioma
-
-<img
-src="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png 1.5x, https://docs.joomla.org/images/thumb/7/72/Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-language-es.png 2x"
-data-file-width="1728" data-file-height="331" width="600" height="115"
-alt="Menus Item Articles Create Article frontend language" />
-
-## Consejos Rápidos
-
-An unauthorised user will normally get an error if they click on a
-Create Article menu item. For this reason, it is normal practice to give
-the menu item a viewing Access Level
-that can only be seen by users authorised to add articles.
+Un usuario no autorizado normalmente recibirá un error al seleccionar un ítem de menú *Crear Artículo*. Por esta razón, es una práctica común dar al ítem de menú un Nivel de Acceso de visualización que solo pueda ser visto por usuarios autorizados para agregar artículos.

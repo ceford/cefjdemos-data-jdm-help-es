@@ -1,113 +1,53 @@
-<!-- Filename: Help4.x:Multilingual_Associations / Display title: Asociaciones multiidioma -->
+<!-- Filename: Help4.x:Multilingual_Associations / Display title: Asociaciones Multilingües -->
 
 ## Descripción
 
-The Multilingual Associations Component is a tool that allows editing of
-associated items side-by-side without the need to go back and forth.
+En sitios multilingües es posible crear un elemento en un idioma y enlazarlo a un elemento equivalente en uno o más otros idiomas. Este enlace se conoce como una **Asociación**. Debe hacerse manualmente.
 
-This screen is used to set up an Association between an item and
-installed site languages.
+Se pueden crear asociaciones para Artículos y sus Categorías, Contactos y sus Categorías, Elementos del menú, Feeds de Noticias y sus Categorías. Las extensiones de terceros también pueden admitir Asociaciones.
+
+El componente de Asociaciones Multilingües permite la edición lado a lado de elementos asociados sin la necesidad de ir y venir entre páginas.
+
+A continuación, hay más explicación después de la captura de pantalla.
+
+### Elementos Comunes
+
+Algunos elementos de esta página están cubiertos en artículos de Ayuda por separado:
+
+* [Barras de Herramientas](jdocmanual?article=help/common-elements/toolbars).
+* [Filtros de Lista](jdocmanual?article=help/common-elements/list-filters).
+* [Encabezados de Columnas de la Lista](jdocmanual?article=help/common-elements/list-column-headers).
+* [Ordenación de Elementos de la Lista](jdocmanual?article=help/common-elements/list-ordering).
+* [Paginación de Lista](jdocmanual?article=help/common-elements/list-pagination).
 
 ## Cómo Acceder
 
-- **Componentes → Asociaciones multiidioma**
-  1.  Seleccionar **tipo de elemento**.
-  2.  Seleccionar **idioma**
+* Selecciona **Componentes → Asociaciones Multilingües** desde el menú del Administrador.
+* Selecciona un elemento del menú desplegable **- Seleccionar Tipo de Elemento -**.
+* Selecciona un idioma del menú desplegable **- Seleccionar Idioma -**.
 
-## Captura de pantalla
+## Captura de Pantalla
 
-<img
-src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-es.png/800px-Help-4x-Components-Associations-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-es.png/1200px-Help-4x-Components-Associations-es.png 1.5x, https://docs.joomla.org/images/thumb/c/c1/Help-4x-Components-Associations-es.png/1600px-Help-4x-Components-Associations-es.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Components Associations" />
+![Lista de Asociaciones Multilingües](../../../es/images/multilingual-associations/multilingual-associations-list.png)
 
-## Encabezados de columna
+En esta captura de pantalla, un artículo ha sido asociado con un artículo en otro idioma. La lista solo contiene elementos en los que se ha establecido un idioma. Cualquier artículo con el idioma configurado en *Todos* no estará presente.
 
-- **Status**. The published status of the menu item.
-- **Title**. The title of the menu item. Edit the menu item by clicking
-  on the Title.
-- **Language**. Menu items language.
-- **Associations**. Shows which language this menu item is associated.
-- **Not Associated**. Shows for which languages this menu item is not
-  associated.
-- **Menu**. Shows which menu the menu item belongs to.
-- **Access**. The viewing Access level  for this menu item.
-- **ID**. A unique identification number for this menu item, you cannot
-  change this number.
+## Artículos de Referencia
 
-## Filtros de lista
+Los elementos en la columna **Título** son los elementos de referencia para el idioma seleccionado. Si visualizas la lista con un idioma alternativo seleccionado, verás los mismos elementos porque todos los artículos asociados están disponibles en ambos idiomas.
 
-**Search bar**. Near the top of the page you will see the search bar
-shown in the Screenshot above.
+Si visualizas la lista con otro idioma de administrador seleccionado en el formulario de inicio de sesión, es probable que veas diferentes elementos.
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Limpiar**. Has clic en el botón *Limpiar* para borrar el campo de
-  Filtro y restaurar la lista a su estado sin filtrar.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of elemento de menú in a list.
-  Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the Global Configuration.
+Si seleccionas un elemento de la columna **Título**, el elemento de referencia aparecerá en el formulario de edición pero no se seleccionará ningún destino. Esto es útil si deseas editar el elemento de referencia en el idioma seleccionado. También es necesario si deseas crear un nuevo elemento asociado.
 
-### Filter Options
+## Asociaciones
 
-Near the top of the page you will see the filter bar shown in the
-Screenshot above.
+Si deseas editar una asociación existente en modo lado a lado, selecciona uno de los botones en la columna **Asociaciones**. Esto cargará los elementos *Referencia* y *Destino* lado a lado.
 
-- **Select Status**. Select from Trashed / Unpublished / Published /
-  Archived / All.
-- **Select Category**. Select from the list of available categories.
-- **Select Menu**. Select from the list of available menus.
-- **Select Access**. Select from the list of available viewing access
-  levels.
-- **Select Max Levels**. Select from the list of available levels.
+## No Asociado
 
-### Paginación
+Selecciona un botón en la columna *No Asociado* para crear un nuevo artículo asociado con el artículo de referencia. Cargará un formulario de edición con el elemento de referencia junto a un nuevo elemento asociado vacío. El idioma está preestablecido y no puede cambiarse.
 
-**Page Controls**. When the number of elemento de menú is more than one
-page, you will see a page control bar near the bottom of the page shown
-in the Screenshot above. The current page number being
-viewed has a dark colour background.
+## Consejos
 
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Números de página**. Has clic para ir a la página deseada.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Barra de herramientas
-
-Prior to selection of an Item Type and Language the toolbar at the top
-has 4 buttons. The first 2 disappear after selection.
-
-<img
-src="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-toolbar-subscreen-es.png/800px-Help-4x-Components-Associations-toolbar-subscreen-es.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-toolbar-subscreen-es.png/1200px-Help-4x-Components-Associations-toolbar-subscreen-es.png 1.5x, https://docs.joomla.org/images/thumb/7/7e/Help-4x-Components-Associations-toolbar-subscreen-es.png/1600px-Help-4x-Components-Associations-toolbar-subscreen-es.png 2x"
-data-file-width="2769" data-file-height="270" width="800" height="78"
-alt="Components Associations toolbar subscreen" />
-
-- **Delete All Associations**. Lets you delete all associations. After a
-  question to confirm, all associations will be deleted.
-- **Delete Orphans**. Lets you delete all orphans.
-- **Options**. Opens the help screen for Multilingual Associations: Options.
-- **Ayuda**. Se abre esta pantalla de ayuda.
-
-## Consejos Rápidos
-
-- An menu-item in English can be more easily translated into French with
-  the original and translation side by side. And then select Persian to
-  translate from English to Persian too. Aprende
-  más.
-- This screen use menu-items as example. You will see all Item Types
-  shown in the Screenshot above.
+- Un elemento del menú en inglés puede traducirse más fácilmente al francés con el original y la traducción lado a lado. Luego selecciona persa para traducir de inglés a persa también.
