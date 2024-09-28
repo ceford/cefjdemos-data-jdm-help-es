@@ -21,7 +21,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda por se
 
 ## Captura de Pantalla
 
-![Lista de plugins](../../../en/images/plugins/plugins-list.png)
+![Lista de plugins](../../../es/images/plugins/plugins-list.png)
 
 ## Consejos
 

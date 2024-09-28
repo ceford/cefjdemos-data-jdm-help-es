@@ -29,7 +29,7 @@ También puedes crear un nuevo artículo seleccionando el icono **+** en el Men�
 
 ## Captura de Pantalla
 
-![Captura de pantalla de edición de artículos](../../../es/images/articles/articles-edit-content-tab.png "Editar Artículos")
+![Captura de pantalla de edición de artículos](../../../es/images/articles/articles-edit-content-tab.png)
 
 ## Campos del Formulario
 
