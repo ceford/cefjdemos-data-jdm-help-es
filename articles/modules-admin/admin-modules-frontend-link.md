@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Admin_Modules:_Frontend_Link  / Display title: # Modules : Lien Frontend
+<!-- Filename: Help4.x:Admin_Modules:_Frontend_Link  / Display title: Modules : Lien Frontend
  -->
 
 
