@@ -15,7 +15,7 @@ Las operaciones que se pueden realizar varían dependiendo de la lista. La sigui
 3.  Establezca uno o más de los siguientes valores:
     - Para cambiar el **Idioma**, seleccione el nuevo idioma deseado desde
       el cuadro de lista Establecer idioma. Esta opción solo está presente en
-	  sitios multilingües.
+      sitios multilingües.
     - Para cambiar el **Nivel de acceso**, seleccione el nuevo nivel de acceso
       deseado desde el cuadro de lista Establecer nivel de acceso.
     - Para cambiar la **Categoría**, seleccione una categoría. Para dejar la
@@ -37,4 +37,3 @@ Las operaciones que se pueden realizar varían dependiendo de la lista. La sigui
     los cambios. Aparecerá un mensaje **Proceso en lote completado con éxito.**
 
 *Traducido por openai.com*
-

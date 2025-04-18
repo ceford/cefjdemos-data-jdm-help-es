@@ -84,11 +84,11 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 - **Estado o Condado** Mostrar u ocultar la visualización del Estado o Condado.
 - **País** Mostrar u ocultar la visualización del País.
 - **Paginación** Mostrar u ocultar el soporte de Paginación. La paginación proporciona enlaces de página en la parte inferior de la página que permiten al Usuario navegar a páginas adicionales. Estos son necesarios si los ítems listados no caben en una sola página.
-	Las siguientes opciones están disponibles.
-	- *Usar Global* Usar el valor predeterminado de la pantalla de opciones del componente.
-	- *Auto* Enlaces de paginación mostrados si es necesario.
-	- *Mostrar* Enlaces de paginación mostrados si es necesario.
-	- *Ocultar* Enlaces de paginación no mostrados. Nota: En este caso, los Usuarios no podrán navegar a páginas adicionales.
+    Las siguientes opciones están disponibles.
+    - *Usar Global* Usar el valor predeterminado de la pantalla de opciones del componente.
+    - *Auto* Enlaces de paginación mostrados si es necesario.
+    - *Mostrar* Enlaces de paginación mostrados si es necesario.
+    - *Ocultar* Enlaces de paginación no mostrados. Nota: En este caso, los Usuarios no podrán navegar a páginas adicionales.
 - **Resumen de Paginación** Mostrar u ocultar el número de la página actual y el total de páginas (por ejemplo, "Página 1 de 2") en la parte inferior de cada página. Usar Global utilizará el valor predeterminado de las opciones del componente.
 
 ### Diseños de Lista de Feeds de Noticias
@@ -101,11 +101,11 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 - **\# Artículos** Mostrar u ocultar el número de Artículos en cada Feed de Noticias. Este valor puede ser reemplazado en cada Feed de Noticias individualmente.
 - **Enlaces de Feed** Mostrar u ocultar los URLs de los enlaces de feed.
 - **Paginación** Ocultar o Mostrar el soporte de Paginación. La paginación proporciona enlaces de página en la parte inferior de la página que permiten al Usuario navegar a páginas adicionales. Estos son necesarios si los ítems listados no caben en una sola página.
-	Las siguientes opciones están disponibles.
-	- *Usar Global:* Usar el valor predeterminado de la pantalla de opciones del componente.
-	- *Auto:* Enlaces de paginación mostrados si es necesario.
-	- *Mostrar:* Enlaces de paginación mostrados si es necesario.
-	- *Ocultar:* Enlaces de paginación no mostrados. Nota: En este caso, los Usuarios no podrán navegar a páginas adicionales.
+    Las siguientes opciones están disponibles.
+    - *Usar Global:* Usar el valor predeterminado de la pantalla de opciones del componente.
+    - *Auto:* Enlaces de paginación mostrados si es necesario.
+    - *Mostrar:* Enlaces de paginación mostrados si es necesario.
+    - *Ocultar:* Enlaces de paginación no mostrados. Nota: En este caso, los Usuarios no podrán navegar a páginas adicionales.
 - **Resultados de Paginación** Mostrar u ocultar el número de la página actual y el total de páginas (por ejemplo, *Página 1 de 2*) en la parte inferior de cada página. Usar Global utilizará el valor predeterminado de las opciones del componente.
 
 ### Diseños de Lista de Etiquetas
@@ -125,4 +125,3 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 - **Formato de Fecha** Cadena de formato opcional para controlar el formato de la fecha (si se muestra). Si se deja en blanco, la fecha usará el formato DATE_FORMAT_LC1 del archivo de idioma (por ejemplo, `D M Y` para *31 de diciembre de 2012* o `m-d-y` para *12-31-12*).
 
 *Traducido por openai.com*
-

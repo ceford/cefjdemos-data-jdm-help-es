@@ -24,17 +24,17 @@ experimentado la dificultad de aprender un nuevo sistema. Nueva terminología, n
 formas de hacer las cosas, tal vez incluso el propio web sea algo nuevo para ti.
 Entonces, deja que esta guía alivie parte de ese dolor.
 
-- [Comenzando: Introducción a Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introducción a Joomla!")
-- [Comenzando: Artículos y Categorías](jdocmanual?article=user/getting-started/articles-and-categories "Artículos y Categorías")
-- [Comenzando: Agregar un Artículo](jdocmanual?article=user/getting-started/adding-an-article "Agregar un Artículo")
-- [Comenzando: Agregar una Categoría](jdocmanual?article=user/getting-started/adding-a-category "Agregar una Categoría")
-- [Comenzando: Agregar un Ítem de Menú](jdocmanual?article=user/getting-started/adding-a-menu-item "Agregar un Ítem de Menú")
-- [Comenzando: Agregar un Módulo](jdocmanual?article=user/getting-started/adding-a-module "Agregar un Módulo")
+- [Comenzando: Introducción a Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Comenzando: Artículos y Categorías](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Comenzando: Agregar un Artículo](jdocmanual?article=user/getting-started/adding-an-article)
+- [Comenzando: Agregar una Categoría](jdocmanual?article=user/getting-started/adding-a-category)
+- [Comenzando: Agregar un Ítem de Menú](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Comenzando: Agregar un Módulo](jdocmanual?article=user/getting-started/adding-a-module)
 
 
 ## Mantener su sitio web seguro
 
-- [Seguridad: Mejores Prácticas](jdocmanual?article=user/security/best-practices "Seguridad: Mejores Prácticas")
+- [Seguridad: Mejores Prácticas](jdocmanual?article=user/security/best-practices)
 
 *Traducido por openai.com*
 

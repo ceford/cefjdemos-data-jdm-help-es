@@ -16,7 +16,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ### Tutorial
 
-* Si eres nuevo en Búsqueda Inteligente, deberías leer la [guía de inicio rápido de Búsqueda Inteligente](https://docs.joomla.org/Smart_Search_quickstart_guide "guía de inicio rápido de Búsqueda Inteligente").
+* Si eres nuevo en Búsqueda Inteligente, deberías leer la [guía de inicio rápido de Búsqueda Inteligente](https://docs.joomla.org/Smart_Search_quickstart_guide).
 
 ## Cómo acceder
 

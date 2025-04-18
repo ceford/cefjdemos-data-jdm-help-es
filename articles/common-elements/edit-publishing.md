@@ -15,9 +15,9 @@ La pestaña de Publicación de Artículos:
 La mayoría de los campos del formulario tienen valores predeterminados que permiten guardar el ítem. Es posible que desee tomar medidas apropiadas para los siguientes campos:
 
 - **Meta Descripción:** Es en su propio interés describir el contenido de
-	este ítem en menos de 64 caracteres.
+    este ítem en menos de 64 caracteres.
 - **Palabras clave**. Una característica de las páginas web que fue abandonada por los motores de búsqueda hace años.
-	Deje vacío a menos que tenga una aplicación específica que las utilice.
+    Deje vacío a menos que tenga una aplicación específica que las utilice.
 
 ### Panel de Publicación
 
@@ -31,11 +31,11 @@ La mayoría de los campos del formulario tienen valores predeterminados que perm
   momento futuro.
 - **Fin Destacado**. Fecha y hora para finalizar el estado destacado. El
   artículo se cambia automáticamente al estado No destacado en un momento futuro.
-- **Fecha de Creación**. El momento actual cuando se creó el artículo. Ingrese 
-  una fecha y hora diferente o haga clic en el icono del calendario para buscar la 
+- **Fecha de Creación**. El momento actual cuando se creó el artículo. Ingrese
+  una fecha y hora diferente o haga clic en el icono del calendario para buscar la
   fecha deseada.
-- **Creado Por**. Nombre del Usuario que creó este artículo. Este 
-  será predeterminado al usuario que actualmente está conectado. Si desea cambiarlo a 
+- **Creado Por**. Nombre del Usuario que creó este artículo. Este
+  será predeterminado al usuario que actualmente está conectado. Si desea cambiarlo a
   un usuario diferente, haga clic en el botón Seleccionar Usuario.
 - **Creado por Alias**. Ingrese un alias para el Autor de este
   artículo. Esto le permite mostrar un nombre de Autor diferente.
@@ -43,8 +43,8 @@ La mayoría de los campos del formulario tienen valores predeterminados que perm
 - **Modificado Por**. Nombre de usuario que realizó la última modificación.
 - **Revisión**. Número de revisiones de este artículo.
 - **Visitas**. El número de veces que se ha visto este artículo.
-- **ID**. Un número de identificación único para este artículo, no puede 
-  cambiar este número. Al crear un nuevo artículo, este campo muestra 
+- **ID**. Un número de identificación único para este artículo, no puede
+  cambiar este número. Al crear un nuevo artículo, este campo muestra
   "0" hasta que guarde la nueva entrada.
 
 ### Panel de Metadatos
@@ -59,4 +59,3 @@ La mayoría de los campos del formulario tienen valores predeterminados que perm
   contenido.
 
 *Traducido por openai.com*
-
