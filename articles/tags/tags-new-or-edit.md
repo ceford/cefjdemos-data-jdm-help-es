@@ -19,7 +19,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de pantalla
 
-![editar etiquetas detalles de la etiqueta pestaña](../../../es/imagenes/etiquetas/etiquetas-editar-etiqueta-detalles-pestana.png)
+![editar etiquetas detalles de la etiqueta pestaña](../../../es/images/tags/tags-edit-tag-details-tab.png)
 
 ## Campos del Formulario
 

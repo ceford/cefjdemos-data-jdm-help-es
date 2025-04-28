@@ -19,7 +19,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Banners editar cliente](../../../es/imagenes/banners/banners-edit-client-details-tab.png)
+![Banners editar cliente](../../../es/images/banners/banners-edit-client-details-tab.png)
 
 ## Campos del Formulario
 
