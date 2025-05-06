@@ -1,5 +1,4 @@
-<!-- Filename: Help6.x:List_Ordering  / Display title: List Ordering  -->
-# Ordre des listes
+<!-- Filename: Help6.x:List_Ordering  / Display title: Ordre des listes -->
 
 ## Donde el Orden Importa
 
