@@ -13,7 +13,7 @@ Hay una gran cantidad de plugins centrales disponibles. Se enumeran aquí por gr
 * [Grupo de Autenticación.](jdocmanual?article=help/plugins/plugin-group-authentication) (3 Plugins)
 * [Grupo de Comportamiento.](jdocmanual?article=help/plugins/plugin-group-behavior) (3 Plugins)
 * [Grupo de Contenido.](jdocmanual?article=help/plugins/plugin-group-content) (10 Plugins)
-* [Grupo de Editores.](jdocmanual?article=help/plugins/plugin-group-editors) (3 Plugins)
+* [Grupo de Editores.](jdocmanual?article=help/plugins/plugin-group-editors-txt) (3 Plugins)
 * [Grupo de Botón Editor Xtd.](jdocmanual?article=help/plugins/plugin-group-editors-xtd) (8 Plugins)
 * [Grupo de Extensiones.](jdocmanual?article=help/plugins/plugin-group-extensions) (3 Plugins)
 * [Grupo de Campos.](jdocmanual?article=help/plugins/plugin-group-fields) (16 Plugins)
