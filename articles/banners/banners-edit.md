@@ -23,7 +23,7 @@ Desde el menú de Administrador:
 
 Un banner puede ser una imagen clicable o algún código personalizado. El tipo de imagen se muestra en la captura de pantalla a continuación. El tipo personalizado tiene el cuadro de selección de imagen reemplazado por un área de texto de código.
 
-![Pestaña de edición de detalles de banners](../../../es/images/banners/banners-edit-details-tab.png)
+![Pestaña de edición de detalles de banners](../../../es/images/banners/banners-edit/01-banners-edit-details-tab.png)
 
 ## Campos del Formulario
 
@@ -79,7 +79,7 @@ Un banner puede ser una imagen clicable o algún código personalizado. El tipo 
 
 ### Pestaña de Detalles del Banner
 
-![Pestaña de edición de detalles del banner](../../../es/images/banners/banners-edit-banner-details-tab.png)
+![Pestaña de edición de detalles del banner](../../../es/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
 
 - **Máx. Impresiones** El número de impresiones compradas para este
   Banner. Las impresiones son el número de veces que un Banner se mostrará

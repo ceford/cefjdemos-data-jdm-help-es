@@ -26,7 +26,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![módulo de usuarios conectados en la pestaña del módulo](../../../es/images/modules-admin/modules-logged-in-users-module-tab.png)
+![módulo de usuarios conectados en la pestaña del módulo](../../../es/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
 
 ## Campos de Formulario
 

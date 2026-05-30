@@ -12,7 +12,7 @@ Todos los elementos del menú tienen un diseño similar, pero algunos de los cam
 
 ## Captura de pantalla
 
-![pestaña de metadatos del elemento de menú](../../../es/images/menu-items-common/menu-item-metadata.png)
+![pestaña de metadatos del elemento de menú](../../../es/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
 
 ## Campos del Formulario
 

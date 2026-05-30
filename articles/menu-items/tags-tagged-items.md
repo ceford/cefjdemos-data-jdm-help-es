@@ -21,13 +21,13 @@ Para editar un elemento de menú Elementos Etiquetados existente:
 
 ## Captura de Pantalla
 
-![Pestaña de detalles de elementos etiquetados](../../../es/images/menu-items/tags-tagged-items-details-tab.png)
+![Pestaña de detalles de elementos etiquetados](../../../es/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
 
 ## Campos de Formulario
 
 ### Pestaña de Opciones de Etiqueta
 
-![Detalles de elementos etiquetados pestaña opciones de etiqueta](../../../es/images/menu-items/tags-tagged-items-tag-options-tab.png)
+![Detalles de elementos etiquetados pestaña opciones de etiqueta](../../../es/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
 
 - **Nombre de Etiqueta** Mostrar u ocultar el nombre de la etiqueta para un diseño con una etiqueta.
 - **Imagen de Etiqueta** Mostrar u ocultar la imagen de la etiqueta para un diseño con una etiqueta.
@@ -41,7 +41,7 @@ Para editar un elemento de menú Elementos Etiquetados existente:
 
 ### Pestaña de Opciones de Elemento
 
-![Detalles de elementos etiquetados pestaña opciones de elemento](../../../es/images/menu-items/tags-tagged-items-item-options-tab.png)
+![Detalles de elementos etiquetados pestaña opciones de elemento](../../../es/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
 
 - **Imagen del Elemento** Mostrar u ocultar la imagen para cada elemento.
 - **Descripción del Elemento** Mostrar u ocultar la descripción para cada elemento en la lista.
@@ -50,7 +50,7 @@ Para editar un elemento de menú Elementos Etiquetados existente:
 
 ### Pestaña de Opciones de Paginación
 
-![Detalles de elementos etiquetados pestaña opciones de paginación](../../../es/images/menu-items/tags-tagged-items-pagination-options-tab.png)
+![Detalles de elementos etiquetados pestaña opciones de paginación](../../../es/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
 
 - **Mostrar Selección** Mostrar u ocultar el control \# que permite al usuario seleccionar el número de elementos a mostrar en la lista. Ten en cuenta que si tienes una gran cantidad de elementos, puede ser útil usar las opciones de filtro para limitar qué elementos se muestran.
 - **Paginación** Mostrar u ocultar el soporte de Paginación. La Paginación proporciona enlaces en la parte inferior de la página que permiten al usuario navegar a páginas adicionales.
@@ -58,7 +58,7 @@ Para editar un elemento de menú Elementos Etiquetados existente:
 
 ### Pestaña de Opciones de Selección de Elemento
 
-![Detalles de elementos etiquetados pestaña opciones de selección de elemento](../../../es/images/menu-items/tags-tagged-items-item-selection-options-tab.png)
+![Detalles de elementos etiquetados pestaña opciones de selección de elemento](../../../es/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
 
 - **Tipo de Coincidencia** Todas devolverán elementos que tienen todas las etiquetas. Cualquiera devolverá elementos que tienen al menos una de las etiquetas.
 - **Etiquetas Hijas** Incluir o excluir etiquetas hijas de la lista de resultados para una etiqueta.

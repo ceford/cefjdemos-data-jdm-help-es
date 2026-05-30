@@ -22,7 +22,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![Lista de banners](../../../es/images/banners/banners-list.png)
+![Lista de banners](../../../es/images/banners/banners/01-banners-list.png)
 
 ## Encabezados de Columna
 

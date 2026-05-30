@@ -36,7 +36,7 @@ Para editar un elemento de menú Lista de Todas las Categorías de Contacto exis
 
 ## Captura de Pantalla
 
-![Elemento del Menú Lista de Contactos Todas las Categorías árbol pestaña de detalles](../../../es/images/menu-items/contacts-list-all-categories-tree-details-tab.png)
+![Elemento del Menú Lista de Contactos Todas las Categorías árbol pestaña de detalles](../../../es/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
 
 ## Campos de Formulario
 
@@ -44,7 +44,7 @@ Para editar un elemento de menú Lista de Todas las Categorías de Contacto exis
 
 Las Opciones de Categorías controlan la forma en que se muestra la información de las categorías en el diseño. Las cosas que puede modificar son:
 
-![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de categorías](../../../es/images/menu-items/contacts-list-all-categories-tree-categories-tab.png)
+![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de categorías](../../../es/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
 
 - **Descripción de Categoría de Nivel Superior** Mostrar u ocultar la descripción de la categoría de nivel superior o, opcionalmente, sobrescribirla con el texto del campo de descripción que se encuentra en el elemento del menú. Si usa Raíz como categoría de nivel superior, el campo de descripción debe estar lleno.
 - **Descripción Alternativa** Si ingresa algún texto en este campo, sobrescribirá la Descripción de la Categoría de Nivel Superior, si tiene una.
@@ -57,7 +57,7 @@ Las Opciones de Categorías controlan la forma en que se muestra la información
 
 Las Opciones de Visualización de Contacto controlan la apariencia del diseño de la lista.
 
-![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de opciones de visualización de contacto](../../../es/images/menu-items/contacts-list-all-categories-tree-contact-display-options.png)
+![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de opciones de visualización de contacto](../../../es/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
 
 - **Categoría de Contacto** Mostrar u ocultar la vista de visualización de la Categoría de Contactos.
     - *Usar Global* Usar el valor predeterminado de la pantalla de opciones de contactos.
@@ -89,7 +89,7 @@ Las Opciones de Visualización de Contacto controlan la apariencia del diseño d
 
 ### Pestaña de Opciones de Correo
 
-![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de opciones de correo](../../../es/images/menu-items/contacts-list-all-categories-tree-mail-options-tab.png)
+![Elemento de Menú Lista de Contactos Todas las Categorías árbol pestaña de opciones de correo](../../../es/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
 
 - **Formulario de Contacto** Mostrar u ocultar el *formulario de contacto* del contacto.
 - **Enviar Copia al Remitente** Mostrar u ocultar una casilla de verificación para permitir que el remitente envíe una copia del correo electrónico a sí mismo.

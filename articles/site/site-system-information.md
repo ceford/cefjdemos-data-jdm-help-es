@@ -20,7 +20,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda por separado:
 
 ## Captura de pantalla
 
-![tablero de inicio](../../../es/images/site/system-information-tab.png)
+![tablero de inicio](../../../es/images/site/site-system-information/01-system-information-tab.png)
 
 ## Pestañas de Formulario
 
@@ -51,7 +51,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda por separado:
 
 ### Pestaña de Configuración de PHP
 
-![tablero de inicio](../../../es/images/site/php-settings-tab.png)
+![tablero de inicio](../../../es/images/site/site-system-information/02-php-settings-tab.png)
 
 Esta pantalla muestra información sobre la Configuración de PHP. Si algo
 de esto se destaca como incorrecto, debería corregirse.
@@ -76,7 +76,7 @@ de esto se destaca como incorrecto, debería corregirse.
 
 ### Pestaña de Archivo de Configuración
 
-![tablero de inicio](../../../es/images/site/configuration-file-tab.png)
+![tablero de inicio](../../../es/images/site/site-system-information/03-configuration-file-tab.png)
 
 Esta pestaña muestra el contenido del archivo *configuration.php* actual de Joomla!
 que se almacena en el directorio `path-to-joomla-root`. Este archivo se crea automáticamente
@@ -87,7 +87,7 @@ Configuración Global para ver más información sobre estos ajustes y realizar 
 
 ### Pestaña de Permisos de Carpetas
 
-![tablero de inicio](../../../es/images/site/folder-permissions-tab.png)
+![tablero de inicio](../../../es/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Esta pestaña muestra una lista de los directorios a los que el servidor web debería
 tener acceso de escritura. Ten en cuenta que todos los directorios listados en esta
@@ -97,7 +97,7 @@ archivo configuration.php está incluido y se muestra como **Unwritable**.
 
 ### Pestaña de Información de PHP
 
-![tablero de inicio](../../../es/images/site/php-information-tab.png)
+![tablero de inicio](../../../es/images/site/site-system-information/05-php-information-tab.png)
 
 Esta pestaña muestra la configuración del lenguaje de scripting del servidor PHP
 que utiliza Joomla!, junto con toda la información

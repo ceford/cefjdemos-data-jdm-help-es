@@ -33,7 +33,7 @@ Para editar un elemento de menú existente *Recordatorio de Nombre de Usuario*:
 
 ## Captura de pantalla
 
-![Pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-username-reminder-request-details-tab.png)
+![Pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

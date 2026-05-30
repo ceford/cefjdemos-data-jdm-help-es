@@ -23,7 +23,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ## Captura de Pantalla
 
-![Captura de pantalla de la lista de artículos destacados](../../../es/images/articles/articles-featured-list.png)
+![Captura de pantalla de la lista de artículos destacados](../../../es/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Consejos
 

@@ -28,7 +28,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ## Captura de pantalla
 
-![pestaña del módulo quién está en línea](../../../es/images/modules-site/modules-whos-online-module-tab.png)
+![pestaña del módulo quién está en línea](../../../es/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
 
 ## Campos del Formulario
 

@@ -8,15 +8,15 @@ Los encabezados de columnas aparecen en las vistas de lista para indicar la natu
 
 ### Encabezados de columna de la lista de Artículos
 
-![Encabezado de columna de lista de artículos](../../../es/images/common-elements/articles-list-column-header.png)
+![Encabezado de columna de lista de artículos](../../../es/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Encabezados de columna de la lista de Categorías
 
-![Encabezado de columna de lista de categorías](../../../es/images/common-elements/categories-list-column-header.png)
+![Encabezado de columna de lista de categorías](../../../es/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Encabezados de columna de la lista de Usuarios
 
-![Encabezado de columna de lista de usuarios](../../../es/images/common-elements/users-list-column-header.png)
+![Encabezado de columna de lista de usuarios](../../../es/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Ordenar por Columna
 

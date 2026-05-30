@@ -19,7 +19,7 @@ el Número de solicitudes.
 
 ## Captura de pantalla
 
-![tablero de privacidad](../../../es/images/privacy/privacy-dashboard.png)
+![tablero de privacidad](../../../es/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Paneles del Tablero
 

@@ -25,7 +25,7 @@ Algunos elementos de esta página se cubren en artículos de Ayuda separados:
 
 ## Captura de Pantalla
 
-![búsqueda inteligente de contenido indexado](../../../es/images/smart-search/smart-search-indexed-content.png)
+![búsqueda inteligente de contenido indexado](../../../es/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
 
 ## Crear un Índice
 

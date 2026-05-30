@@ -18,7 +18,7 @@ Este plugin te permite instalar paquetes desde tu computadora local.
 
 ### Instalador - Instalar desde la Web
 
-![Establecer el orden de la pestaña de instalación desde la web](../../../en/images/plugins/plugin-group-installer-install-from-web-order.png)
+![Establecer el orden de la pestaña de instalación desde la web](../../../en/images/plugins/plugin-group-installer/01-plugin-group-installer-install-from-web-order.png)
 
 - **Posición de la Pestaña** Colocar la pestaña *Instalar desde la Web* primero o último.
 

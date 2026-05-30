@@ -11,7 +11,7 @@ categoría, contacto, ítem de menú y fuente de noticias.
 
 ## Ejemplo: Artículos: Editar Pestaña de Asociaciones
 
-![Pestaña de editar asociaciones de artículos](../../../es/images/common-elements/articles-edit-association-tab.png)
+![Pestaña de editar asociaciones de artículos](../../../es/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 En esta ilustración se ha creado un artículo en alemán. Es el que se está editando. La lista de asociaciones muestra los idiomas disponibles aparte del alemán. Se ha hecho una asociación con el mismo artículo en inglés. Se puede Editar o Limpiar. Se pueden hacer asociaciones con el mismo artículo en otros idiomas eligiendo un artículo de los ya disponibles o creando un nuevo artículo.
 

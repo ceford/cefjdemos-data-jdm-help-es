@@ -34,13 +34,13 @@ Para editar un elemento de menú de Contactos Destacados existente:
 
 ## Captura de Pantalla
 
-![Elemento de Menú Detalles de Contactos Destacados](../../../es/images/menu-items/contacts-featured-contacts-details-tab.png)
+![Elemento de Menú Detalles de Contactos Destacados](../../../es/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
 
 ## Campos del Formulario
 
 ### Pestaña del Formulario
 
-![Pestaña del formulario de contactos destacados en el menú](../../../es/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Pestaña del formulario de contactos destacados en el menú](../../../es/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
 
 - **Etiquetas** Mostrar u ocultar las *Etiquetas* del contacto.
 - **Información de Contacto** Mostrar u ocultar la *Información de Contacto* del contacto.
@@ -55,7 +55,7 @@ Para editar un elemento de menú de Contactos Destacados existente:
 
 Las Opciones de Correo de Contacto controlan la apariencia del → *Formulario de Contacto* si está habilitado.
 
-![Pestaña de opciones de correo de contactos destacados en el menú](../../../es/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Pestaña de opciones de correo de contactos destacados en el menú](../../../es/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
 
 - **Formulario de Contacto** Mostrar u ocultar el *formulario de contacto* del contacto.
 - **Enviar Copia al Remitente** Mostrar u ocultar una casilla de verificación para permitir que un remitente se envíe una copia del correo electrónico a sí mismo.

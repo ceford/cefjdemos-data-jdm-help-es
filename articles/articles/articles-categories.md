@@ -30,7 +30,7 @@ Hay dos rutas para acceder a la página de lista de Categorías:
 
 ## Captura de Pantalla
 
-![Lista de Categorías de Artículos](../../../es/images/articles/articles-categories-list.png)
+![Lista de Categorías de Artículos](../../../es/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## Encabezados de Columnas
 

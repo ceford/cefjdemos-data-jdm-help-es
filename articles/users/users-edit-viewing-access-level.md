@@ -29,7 +29,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![usuarios viendo niveles de acceso](../../../es/images/users/users-edit-viewing-access-level-details-tab.png)
+![usuarios viendo niveles de acceso](../../../es/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
 
 ### Pestaña Detalles del Nivel
 
@@ -39,7 +39,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña Grupos de Usuarios con Acceso de Visualización
 
-![usuarios viendo niveles de acceso](../../../es/images/users/users-edit-viewing-access-level-ugwva-tab.png)
+![usuarios viendo niveles de acceso](../../../es/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
 
 Seleccione una casilla para agregar un grupo de usuarios a un nivel de visualización. En el
 ejemplo mostrado, todos los grupos son hijos de Público, por lo que no es necesario

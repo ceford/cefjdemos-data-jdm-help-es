@@ -35,13 +35,13 @@ Para editar un elemento de menú existente de Listar Todas las Categorías del F
 
 ## Captura de pantalla
 
-![Lista de todos los ítems de Menú en la pestaña de detalles de Categorías de Noticias](../../../es/images/menu-items/news-feeds-list-all-categories-details-tab.png)
+![Lista de todos los ítems de Menú en la pestaña de detalles de Categorías de Noticias](../../../es/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
 
 ## Campos del Formulario
 
 ### Pestaña de Categorías
 
-![Lista de Elementos del Menú todas las Categorías del Feed de Noticias pestaña de categorías](../../../es/images/menu-items/news-feeds-list-all-categories-tree-categories-tab.png)
+![Lista de Elementos del Menú todas las Categorías del Feed de Noticias pestaña de categorías](../../../es/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
 
 - **Descripción de la Categoría de Nivel Superior** Mostrar u ocultar la descripción de la categoría de nivel superior. Tenga en cuenta que esta descripción puede ser reemplazada para este esquema ingresando una *Descripción Alternativa*.
 - **Descripción Alternativa** Si escribe un texto en este campo, reemplazará la descripción de la categoría de nivel superior, si tiene una. Si la opción de Descripción de Nivel Superior está configurada en *Mostrar*, esta descripción se mostrará en lugar de la descripción normal de la categoría.
@@ -52,7 +52,7 @@ Para editar un elemento de menú existente de Listar Todas las Categorías del F
 
 ### Pestaña de Opciones de Visualización de Feeds
 
-![Lista de Elementos del Menú todas las Categorías del Feed de Noticias pestaña de opciones de visualización de feeds](../../../es/images/menu-items/news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Lista de Elementos del Menú todas las Categorías del Feed de Noticias pestaña de opciones de visualización de feeds](../../../es/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
 
 - **Imagen del Feed** Mostrar u ocultar la imagen de los Feeds de Noticias.
 - **Descripción del Feed** Mostrar u ocultar las descripciones de los Feeds de Noticias.

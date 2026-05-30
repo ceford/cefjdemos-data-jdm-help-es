@@ -32,7 +32,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda independiente
 
 ## Captura de pantalla
 
-![lista básica de flujos de trabajo de transiciones](../../../es/images/workflows/transitions-basic-workflow-list.png)
+![lista básica de flujos de trabajo de transiciones](../../../es/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Traducido por openai.com*
 

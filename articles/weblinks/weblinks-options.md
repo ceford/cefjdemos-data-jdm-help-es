@@ -18,7 +18,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda por separado:
 
 ## Captura de Pantalla
 
-![opciones de enlaces web](../../../es/images/weblinks/weblinks-options-web-link-tab.png)
+![opciones de enlaces web](../../../es/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
 
 ### Pestaña de Enlace Web
 

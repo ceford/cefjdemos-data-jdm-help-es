@@ -6,7 +6,7 @@ La pestaña *Módulo: Asignación de Menú* se utiliza con variaciones menores e
 
 ## Captura de pantalla
 
-![Pestaña avanzada de módulos](../../../es/images/modules/modules-custom-menu-assignment-tab.png)
+![Pestaña avanzada de módulos](../../../es/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
 
 
 ## Campos de Formulario

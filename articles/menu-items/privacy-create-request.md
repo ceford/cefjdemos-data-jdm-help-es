@@ -33,7 +33,7 @@ Para editar un elemento de menú Crear Solicitud existente:
 
 ## Captura de pantalla
 
-![Elemento de menú Privacidad Crear detalles de solicitud](../../../es/images/menu-items/privacy-create-request-details-tab.png)
+![Elemento de menú Privacidad Crear detalles de solicitud](../../../es/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
 
 Todos los campos de entrada del formulario se tratan en los *Elementos Comunes*.
 

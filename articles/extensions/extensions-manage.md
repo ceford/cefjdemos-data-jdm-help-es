@@ -20,7 +20,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de gestión de extensiones](../../../es/images/extensions/manage-list.png)
+![Lista de gestión de extensiones](../../../es/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Consejos
 

@@ -20,7 +20,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de Pantalla
 
-![Opciones de Menús](../../../es/images/menus/menu-options-page-display-tab.png)
+![Opciones de Menús](../../../es/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Campos del Formulario
 

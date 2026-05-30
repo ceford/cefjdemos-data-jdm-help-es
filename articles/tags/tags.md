@@ -21,7 +21,7 @@ Selecciona **Componentes → Etiquetas** desde el menú del Administrador.
 
 ## Captura de Pantalla
 
-![lista de etiquetas](../../../es/images/tags/tags-list.png)
+![lista de etiquetas](../../../es/images/tags/tags/01-tags-list.png)
 
 ## Consejos
 

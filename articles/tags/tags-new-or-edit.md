@@ -19,7 +19,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de pantalla
 
-![editar etiquetas detalles de la etiqueta pestaña](../../../es/images/tags/tags-edit-tag-details-tab.png)
+![editar etiquetas detalles de la etiqueta pestaña](../../../es/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
 
 ## Campos del Formulario
 
@@ -49,7 +49,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ### Pestaña Opciones
 
-![tags edit tag options tab](../../../es/images/tags/tags-edit-options-tab.png)
+![tags edit tag options tab](../../../es/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
 
 #### Panel de Opciones
 
@@ -68,7 +68,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ### Pestaña de Publicación
 
-![tags edit tag publishing tab](../../../es/images/tags/tags-edit-publishing-tab.png)
+![tags edit tag publishing tab](../../../es/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
 
 #### Panel de Publicación
 

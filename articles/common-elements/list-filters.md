@@ -8,7 +8,7 @@ Por ejemplo, los elementos eliminados no se muestran generalmente por defecto. S
 
 ## Opciones de Filtrado de la Lista de Artículos¶
 
-![Lista de artículos](../../../es/images/common-elements/articles-list-filter-options.png)
+![Lista de artículos](../../../es/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Para **mostrar** u **ocultar** las Opciones, selecciona el botón de **Opciones de Filtrado**. Ten en cuenta
 que las Opciones siempre se muestran al regresar a cualquier página en la que se haya seleccionado una Opción.

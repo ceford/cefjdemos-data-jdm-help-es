@@ -18,7 +18,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda por separado:
 
 ## Captura de Pantalla
 
-![Pestaña de preferencias de Opciones del Instalador](../../../es/images/extensions/installer-options-preferences-tab.png)
+![Pestaña de preferencias de Opciones del Instalador](../../../es/images/extensions/installer-options/01-installer-options-preferences-tab.png)
 
 ## Campos del Formulario
 

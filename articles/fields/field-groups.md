@@ -27,7 +27,7 @@ Desde el menú de Administrador:
 
 ## Captura de pantalla
 
-![Lista de grupos de campos de artículos](../../../es/images/fields/articles-field-groups-list.png)
+![Lista de grupos de campos de artículos](../../../es/images/fields/field-groups/01-articles-field-groups-list.png)
 
 *Traducido por openai.com*
 

@@ -23,7 +23,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de actualización de extensiones](../../../es/images/extensions/update-list.png)
+![Lista de actualización de extensiones](../../../es/images/extensions/extensions-update/01-update-list.png)
 
 ## Consejos
 

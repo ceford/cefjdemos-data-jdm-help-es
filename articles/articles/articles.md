@@ -39,7 +39,7 @@ Hay dos rutas para acceder a la página de lista de Artículos:
 
 ## Captura de Pantalla
 
-![Lista de Artículos](../../../es/images/articles/articles-list.png)
+![Lista de Artículos](../../../es/images/articles/articles/01-articles-list.png)
 
 ## Encabezados de Columnas
 

@@ -11,7 +11,7 @@ El Panel de Control Principal es el destino predeterminado para iniciar sesión 
 
 ## Captura de pantalla
 
-![tablero principal](../../../es/images/site/home-dashboard.png)
+![tablero principal](../../../es/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Módulos
 

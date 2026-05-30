@@ -24,7 +24,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Redirige enlaces](../../../es/images/redirects/redirects-edit.png)
+![Redirige enlaces](../../../es/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Campos de Formulario
 

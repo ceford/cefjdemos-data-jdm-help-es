@@ -19,7 +19,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de contenido de idiomas](../../../es/images/languages/languages-content.png)
+![Lista de contenido de idiomas](../../../es/images/languages/languages-content/01-languages-content.png)
 
 
 ## Encabezados de Columna

@@ -26,7 +26,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![pestaña del módulo de etiquetas similares](../../../es/images/modules-site/modules-tags-similar-module-tab.png)
+![pestaña del módulo de etiquetas similares](../../../es/images/modules-site/site-modules-tags-similar/01-modules-tags-similar-module-tab.png)
 
 ## Campos del Formulario
 

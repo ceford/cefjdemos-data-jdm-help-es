@@ -22,7 +22,7 @@ Sure, here is the translation:
 
 ## Captura de Pantalla
 
-![Pestaña general de opciones del módulo](../../../es/images/modules/module-options-general-tab.png)
+![Pestaña general de opciones del módulo](../../../es/images/modules/module-options/01-module-options-general-tab.png)
 
 ## Campos del Formulario
 
@@ -40,7 +40,7 @@ Sure, here is the translation:
 
   El formulario de edición de módulos del Administrador generalmente no muestra el selector de idioma. Por lo tanto, un módulo no se puede restringir a un idioma específico. Con esta opción configurada en *Sí*, el selector de idioma se muestra en el formulario de edición del módulo y se puede usar para restringir la visibilidad de un módulo del Administrador a un solo idioma.
 
-![Pestaña general de opciones de módulos](../../../es/images/modules/module-options-administrator-modules-tab.png)
+![Pestaña general de opciones de módulos](../../../es/images/modules/module-options/02-module-options-administrator-modules-tab.png)
 
 ## Consejos
 

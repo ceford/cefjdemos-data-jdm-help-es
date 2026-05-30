@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda por se
 
 ## Captura de Pantalla
 
-![módulos pestaña de estado de privacidad del módulo](../../../es/images/modules-admin/modules-privacy-status-check-module-tab.png)
+![módulos pestaña de estado de privacidad del módulo](../../../es/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
 
 ## Campos del Formulario
 

@@ -28,7 +28,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![etiquetas módulo popular pestaña](../../../es/images/modules-site/modules-tags-popular-module-tab.png)
+![etiquetas módulo popular pestaña](../../../es/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Campos del Formulario
 

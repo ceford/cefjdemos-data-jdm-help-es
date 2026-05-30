@@ -22,11 +22,11 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla - Lista de Módulos del Sitio Instalados
 
-![lista de módulos del administrador](../../../es/images/modules-site/modules-site-list.png)
+![lista de módulos del administrador](../../../es/images/modules-site/site-modules-site/01-modules-site-list.png)
 
 ## Captura de pantalla - Lista de Módulos del Sitio Disponibles
 
-![módulos de administrador disponibles](../../../es/images/modules-site/modules-site-available.png)
+![módulos de administrador disponibles](../../../es/images/modules-site/site-modules-site/02-modules-site-available.png)
 
 ## Posiciones de Módulos
 

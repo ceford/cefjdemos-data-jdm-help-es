@@ -29,7 +29,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![pestaña del módulo categorías de artículos](../../../es/images/modules-site/modules-articles-categories-module-tab.png)
+![pestaña del módulo categorías de artículos](../../../es/images/modules-site/site-modules-articles-categories/01-modules-articles-categories-module-tab.png)
 
 ## Campos del Formulario
 

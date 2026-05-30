@@ -41,7 +41,7 @@ Para editar una Categoría existente:
 
 ## Captura de Pantalla
 
-![Captura de pantalla de editar categoría](../../../es/images/articles/articles-edit-category-category-tab.png)
+![Captura de pantalla de editar categoría](../../../es/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
 
 ## Campos del Formulario
 

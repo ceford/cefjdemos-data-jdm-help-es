@@ -15,7 +15,7 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 
 ### Diseños de Lista de Categoría de Artículos
 
-![Tipo de Ítem de Menú Categoría de Artículos - pestaña diseños de lista](../../../es/images/menu-items/articles-category-list-list-layouts-tab.png)
+![Tipo de Ítem de Menú Categoría de Artículos - pestaña diseños de lista](../../../es/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Mostrar Selección** Mostrar u ocultar el control de Mostrar \# que permite al usuario seleccionar el número de artículos a mostrar.
 - **Campo de Filtro** Mostrar u ocultar un campo de texto en el Frontend donde un usuario puede filtrar los artículos.
@@ -69,7 +69,7 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 
 ### Diseños de Lista de Contactos Destacados
 
-![Ítem de Menú Contactos Destacados pestaña diseños de lista](../../../es/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
+![Ítem de Menú Contactos Destacados pestaña diseños de lista](../../../es/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Campo de Filtro** Mostrar u ocultar el filtro de lista.
 - **Mostrar Selección** Mostrar u ocultar el número de ítems a mostrar en la lista.
@@ -93,7 +93,7 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 
 ### Diseños de Lista de Feeds de Noticias
 
-![Ítem de Menú listar todas las Categorías de Feeds de Noticias pestaña diseños de lista](../../../es/images/menu-items/news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Ítem de Menú listar todas las Categorías de Feeds de Noticias pestaña diseños de lista](../../../es/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
 
 - **Campo de Filtro** Mostrar u ocultar un Campo de Filtro para la lista.
 - **Mostrar Selección** Mostrar u ocultar el control de Mostrar \# que permite al usuario seleccionar el número de ítems a mostrar en la lista.
@@ -110,7 +110,7 @@ Los parámetros del diseño de lista varían de un componente a otro. Los siguie
 
 ### Diseños de Lista de Etiquetas
 
-![Lista Compacta de Ítems Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Lista Compacta de Ítems Etiquetados pestaña de detalles](../../../es/images/menu-items/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
 
 - **Imagen del Ítem** Mostrar u ocultar la imagen de cada ítem.
 - **Descripción del Ítem** Mostrar u ocultar la descripción de cada ítem en la lista. La longitud puede estar limitada usando la opción de Caracteres Máximos.

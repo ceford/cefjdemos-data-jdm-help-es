@@ -19,7 +19,7 @@ Seleccione el botón **Versiones** en la barra de herramientas de una página de
 
 ## Captura de Pantalla
 
-![Pop-up de historial de versiones](../../../es/images/common-elements/articles-edit-versions.png)
+![Pop-up de historial de versiones](../../../es/images/common-elements/edit-version-history/01-articles-edit-versions.png)
 
 ## Encabezados de Columnas
 

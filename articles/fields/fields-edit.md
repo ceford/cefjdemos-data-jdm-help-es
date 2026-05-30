@@ -26,7 +26,7 @@ Algunos aspectos de esta página se cubren en artículos de Ayuda separados:
 
 ## Captura de Pantalla
 
-![Artículos editar campo](../../../es/images/fields/articles-edit-field.png)
+![Artículos editar campo](../../../es/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Campos del Formulario
 
@@ -59,7 +59,7 @@ Parámetros para todos los campos:
 
 ### Pestaña Opciones
 
-![Artículos editar pestaña de opciones de campo](../../../es/images/fields/articles-edit-field-options-tab.png)
+![Artículos editar pestaña de opciones de campo](../../../es/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Opciones del Formulario
 

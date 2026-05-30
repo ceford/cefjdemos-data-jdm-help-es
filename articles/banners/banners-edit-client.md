@@ -19,7 +19,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Banners editar cliente](../../../es/images/banners/banners-edit-client-details-tab.png)
+![Banners editar cliente](../../../es/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
 
 ## Campos del Formulario
 
@@ -49,7 +49,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ### Pestaña de Metadatos
 
-![Pestaña de edición de metadatos del cliente de banners](../../../es/images/banners/banners-edit-client-metadata-tab.png)
+![Pestaña de edición de metadatos del cliente de banners](../../../es/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
 
 - **Palabras Clave** Entrada opcional para palabras clave. Deben ingresarse separadas
   por comas (por ejemplo, "gatos, perros, mascotas") y pueden ingresarse en

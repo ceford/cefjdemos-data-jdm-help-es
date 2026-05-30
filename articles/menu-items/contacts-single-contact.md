@@ -34,7 +34,7 @@ Para editar un elemento de menú de Contacto Único existente:
 
 ## Captura de Pantalla
 
-![Detalles de un solo contacto en el menú](../../../es/images/menu-items/contacts-single-contact-details-tab.png)
+![Detalles de un solo contacto en el menú](../../../es/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
 
 ## Campos del Formulario
 
@@ -47,7 +47,7 @@ Para editar un elemento de menú de Contacto Único existente:
 
 Las Opciones de Visualización del Contacto controlan la apariencia del diseño de la lista.
 
-![Elemento del Menú Contacto Único pestaña de opciones de visualización del contacto](../../../es/images/menu-items/contacts-single-contact-contact-display-options-tab.png)
+![Elemento del Menú Contacto Único pestaña de opciones de visualización del contacto](../../../es/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
 
 - **Categoría del Contacto** Mostrar u ocultar la vista de visualización de la Categoría del Contacto.
     Las siguientes opciones están disponibles.
@@ -84,7 +84,7 @@ Las Opciones de Visualización del Contacto controlan la apariencia del diseño 
 
 ### Opciones de Correo
 
-![Elemento del Menú Contacto Único pestaña de opciones de correo](../../../es/images/menu-items/contacts-single-contact-mail-options-tab.png)
+![Elemento del Menú Contacto Único pestaña de opciones de correo](../../../es/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
 
 - **Formulario de Contacto** Mostrar u ocultar el *formulario de contacto* del contacto.
 - **Enviar Copia al Remitente** Mostrar u ocultar una casilla de verificación para permitir a un Remitente enviarse una copia del correo electrónico a sí mismos.

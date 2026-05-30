@@ -10,7 +10,7 @@ Los metadatos del ítem también están incluidos en la pestaña de Publicación
 
 La pestaña de Publicación de Artículos:
 
-![La pestaña de edición de publicación de artículos](../../../es/images/common-elements/articles-edit-publishing-tab.png)
+![La pestaña de edición de publicación de artículos](../../../es/images/common-elements/edit-publishing/01-articles-edit-publishing-tab.png)
 
 La mayoría de los campos del formulario tienen valores predeterminados que permiten guardar el ítem. Es posible que desee tomar medidas apropiadas para los siguientes campos:
 

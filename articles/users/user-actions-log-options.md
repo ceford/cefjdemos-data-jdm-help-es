@@ -20,7 +20,7 @@ Para acceder a esta pantalla:
 
 ## Captura de Pantalla
 
-![opciones de la pestaña de registro de acciones del usuario](../../../es/images/users/user-actions-log-options-options-tab.png)
+![opciones de la pestaña de registro de acciones del usuario](../../../es/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
 
 ```markdown
 ## Campos del formulario

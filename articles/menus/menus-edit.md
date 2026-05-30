@@ -19,7 +19,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de pantalla
 
-![menús editar pestaña de detalles](../../../es/images/menus/menus-edit-menu-details-tab.png)
+![menús editar pestaña de detalles](../../../es/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
 
 ## Campos del Formulario
 

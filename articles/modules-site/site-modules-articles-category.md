@@ -28,7 +28,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla
 
-![pestaña del módulo de categoría de artículos](../../../es/images/modules-site/modules-articles-category-module-tab.png)
+![pestaña del módulo de categoría de artículos](../../../es/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Campos de Formulario
 
@@ -43,7 +43,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ### Pestaña de Opciones de Filtrado
 
-![pestaña de opciones de filtrado de categoría de artículos](../../../es/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![pestaña de opciones de filtrado de categoría de artículos](../../../es/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Artículos Destacados** Mostrar, ocultar o seleccionar solo artículos destacados.
 - **Conteo** El número de ítems a mostrar. El valor predeterminado de 0 mostrará todos los artículos.
@@ -64,14 +64,14 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ### Pestaña de Opciones de Ordenamiento
 
-![pestaña de opciones de ordenamiento de categoría de artículos](../../../es/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![pestaña de opciones de ordenamiento de categoría de artículos](../../../es/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Campo del Artículo para Ordenar Por** Seleccione un campo de la lista. El ordenamiento destacado solo debe usarse cuando la opción de Filtrado de Artículos Destacados esté configurada en *solo*.
 - **Dirección de Ordenamiento** Seleccione la dirección de ordenamiento del artículo.
 
 ### Pestaña de Opciones de Agrupamiento
 
-![pestaña de opciones de agrupamiento de categoría de artículos](../../../es/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![pestaña de opciones de agrupamiento de categoría de artículos](../../../es/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Agrupamiento de Artículos** Seleccione un método de agrupamiento de artículos de la lista.
 - **Dirección de Agrupamiento** Seleccione la dirección de ordenamiento.
@@ -79,7 +79,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ### Pestaña de Opciones de Visualización
 
-![pestaña de opciones de visualización de categoría de artículos](../../../es/images/modules-site/modules-articles-category-display-options-tab.png)
+![pestaña de opciones de visualización de categoría de artículos](../../../es/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Títulos Vinculados** Mostrar títulos como enlaces a los artículos.
 - **Fecha** Mostrar u ocultar la fecha del artículo.

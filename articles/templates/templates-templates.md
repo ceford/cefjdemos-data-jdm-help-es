@@ -25,7 +25,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda por separado:
 
 Las pantallas de Administrador y Plantillas del Sitio utilizan el mismo diseño. La pantalla de Plantillas del Sitio se ilustra aquí.
 
-![Lista de plantillas del sitio](../../../es/images/templates/templates-site-templates-list.png)
+![Lista de plantillas del sitio](../../../es/images/templates/templates-templates/01-templates-site-templates-list.png)
 
 ## Filtros de Lista
 

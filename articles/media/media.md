@@ -23,7 +23,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Medios](../../../es/images/media/media.png)
+![Medios](../../../es/images/media/media/01-media.png)
 
 ## Área de Visualización de Imágenes
 

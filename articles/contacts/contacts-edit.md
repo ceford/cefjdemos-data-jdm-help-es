@@ -28,7 +28,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda por sep
 
 ## Captura de pantalla
 
-![Tab de edición de contactos](../../../es/images/contacts/contacts-edit-contact-tab.png)
+![Tab de edición de contactos](../../../es/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Campos del Formulario
 
@@ -96,13 +96,13 @@ Aquí ingresas la información básica sobre el contacto.
 
 ### Pestaña Información Miscelánea
 
-![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 Otra información sobre este contacto puede ser ingresada usando el editor.
 
 ### Pestaña Mostrar
 
-![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit-display-tab.png)
+![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Mostrar Categoría** Mostrar u ocultar la categoría del contacto.
 - **Mostrar Lista de Contactos** Mostrar u ocultar la lista de contactos.
@@ -134,7 +134,7 @@ Otra información sobre este contacto puede ser ingresada usando el editor.
 
 ### Pestaña Formulario
 
-![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit-form-tab.png)
+![Pestaña de editar contacto de Contactos](../../../es/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Formulario de Contacto** Mostrar u ocultar el formulario de correo electrónico. Si se selecciona Mostrar, se
   muestra un formulario que permite al usuario enviar un correo electrónico al

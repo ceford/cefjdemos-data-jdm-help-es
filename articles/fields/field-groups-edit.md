@@ -27,7 +27,7 @@ Categoría, y Correo en el componente de Contacto. Requieren cierta experiencia 
 
 Este ejemplo es una página de *Artículos: Editar Grupo de Campos*. *Contactos: Editar Grupo de Campos* y *Usuarios: Editar Grupo de Campos* son similares.
 
-![artículos editar grupo de campos](../../../es/images/fields/articles-edit-field-group.png)
+![artículos editar grupo de campos](../../../es/images/fields/field-groups-edit/01-articles-edit-field-group.png)
 
 ## Campos del Formulario
 

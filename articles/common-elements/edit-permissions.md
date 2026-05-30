@@ -12,14 +12,14 @@ Para obtener información más detallada sobre los Grupos de Usuarios, Niveles d
 
 En este ejemplo, los usuarios del grupo Oddjob han recibido el permiso global para iniciar sesión en la interfaz de administrador, pero nada más.
 
-![Captura de Pantalla de Permisos](../../../es/images/common-elements/global-configuration-permissions-tab.png)
+![Captura de Pantalla de Permisos](../../../es/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Permisos de Configuración del Componente
 
 Para acceder a un componente específico se deben configurar los permisos en las opciones del componente.
 En este ejemplo, las opciones del componente Media.
 
-![Captura de Pantalla de Media](../../../es/images/common-elements/media-options-permissions-tab.png)
+![Captura de Pantalla de Media](../../../es/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Notarás que este componente tiene menos Acciones disponibles y al grupo Oddjob se le otorgan suficientes permisos para realizar el trabajo.
 
@@ -40,11 +40,11 @@ Para cambiar los permisos de este componente:
 
 Después de iniciar sesión, un usuario en el grupo Oddjob verá los módulos del Tablero de Inicio que tengan acceso **Especial** establecido y un enlace en el menú al componente Media.
 
-![Tablero de Inicio para Oddjob](../../../es/images/common-elements/home-dashboard-for-oddjob.png)
+![Tablero de Inicio para Oddjob](../../../es/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 Y la pantalla Media para el usuario Oddjob es como se esperaba:
 
-![Pantalla Media para Oddjob](../../../es/images/common-elements/media-screen-for-oddjob.png)
+![Pantalla Media para Oddjob](../../../es/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Traducido por openai.com*
 

@@ -36,7 +36,7 @@ Para editar un ítem de menú:
 
 ## Captura de Pantalla
 
-![Ítem de Menú Artículos Destacados detalles](../../../es/images/menu-items/articles-featured-details-tab.png)
+![Ítem de Menú Artículos Destacados detalles](../../../es/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
 
 ## Consejos
 

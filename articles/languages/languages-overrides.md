@@ -31,7 +31,7 @@ Ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de sobrescrituras de idiomas](../../../es/images/languages/languages-overrides-list.png)
+![Lista de sobrescrituras de idiomas](../../../es/images/languages/languages-overrides/01-languages-overrides-list.png)
 
 ## Encabezados de Columna
 

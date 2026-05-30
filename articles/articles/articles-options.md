@@ -17,7 +17,7 @@ Selecciona el botón **Opciones** en la Barra de Herramientas de cualquier pági
 
 ## Captura de Pantalla
 
-![Captura de pantalla de opciones de artículos](../../../es/images/articles/articles-options-articles-tab.png)
+![Captura de pantalla de opciones de artículos](../../../es/images/articles/articles-options/01-articles-options-articles-tab.png)
 
 ## Campos del Formulario
 
@@ -67,7 +67,7 @@ Estos ajustes se aplican a los diseños de artículos, a menos que se cambien pa
 
 Estas opciones controlan el diseño de la página de edición de artículos.
 
-![Captura de pantalla de opciones de diseño de edición de artículos](../../../es/images/articles/articles-options-editing-layout-tab.png)
+![Captura de pantalla de opciones de diseño de edición de artículos](../../../es/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
 
 - **Permitir Captcha al enviar** Selecciona el plugin de captcha que se utilizará en el formulario de envío de artículos. Si se selecciona *Usar Global*, asegúrate de que se haya seleccionado un plugin de captcha en la Configuración Global.
 - **Opciones de Publicación** Oculta la pestaña de Opciones de Publicación en el Backend al editar Artículos. Esto significa que los usuarios del Backend no podrán editar los campos en esta pestaña. Estos campos siempre se establecerán en sus valores predeterminados.
@@ -93,7 +93,7 @@ Estas opciones controlan el diseño de la página de edición de artículos.
 
 Estos ajustes se aplican a las Opciones de Categoría de Artículos a menos que sean modificados por la categoría individual o la configuración del menú.
 
-![Captura de pantalla de opciones de categoría de artículos](../../../es/images/articles/articles-options-category-tab.png)
+![Captura de pantalla de opciones de categoría de artículos](../../../es/images/articles/articles-options/03-articles-options-category-tab.png)
 
 - **Elegir un Diseño** Selecciona el diseño predeterminado que se mostrará cuando se seleccione un enlace de Categoría.
 - **Título de la Categoría** Muestra el título de la categoría.
@@ -111,7 +111,7 @@ Estos ajustes se aplican a las Opciones de Categoría de Artículos a menos que 
 
 Estos ajustes se aplican a las Opciones de Categorías de Artículos, a menos que sean cambiados por la categoría individual o las configuraciones del menú.
 
-![Opciones de artículos pestaña de categorías](../../../es/images/articles/articles-options-categories-tab.png)
+![Opciones de artículos pestaña de categorías](../../../es/images/articles/articles-options/04-articles-options-categories-tab.png)
 
 - **Descripción de la Categoría de Nivel Superior** Muestra la descripción de la categoría de nivel superior.
 - **Niveles de Subcategoría** Controla cuántos niveles de subcategorías se mostrarán.
@@ -123,7 +123,7 @@ Estos ajustes se aplican a las Opciones de Categorías de Artículos, a menos qu
 
 Estos ajustes se aplican a los diseños de blog o destacados a menos que se cambien para un ítem de menú específico.
 
-![Opciones de artículos pestaña de diseños de blog y destacados](../../../es/images/articles/articles-options-blog-layouts-tab.png)
+![Opciones de artículos pestaña de diseños de blog y destacados](../../../es/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
 
 - **# Artículos Principales** Número de artículos que se mostrarán utilizando todo el ancho del área de visualización principal. "0" significa que no se mostrarán artículos a ancho completo. Si un artículo tiene un salto de "Leer más...", solo se mostrará la parte del texto antes del salto (el texto introductorio).
 - **Clase de Artículo Principal** Añade cualquier clase CSS para personalizar el diseño. Para la posición de la imagen, usa por ejemplo image-left, image-right. Añade image-alternate para alternar el orden de las imágenes introductorias.
@@ -144,7 +144,7 @@ Estos ajustes se aplican a los diseños de blog o destacados a menos que se camb
 
 Estos ajustes se aplican a las Opciones de Diseños de Lista a menos que se cambien para un ítem de menú o categoría específico.
 
-![Opciones de artículos pestaña de diseños de lista](../../../es/images/articles/articles-options-list-layouts-tab.png)
+![Opciones de artículos pestaña de diseños de lista](../../../es/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
 
 - **Mostrar Selector** Muestra el control Mostrar \# que permite al usuario seleccionar el número de artículos a mostrar.
 - **Campo de Filtro** Muestra un campo de texto en el Frontend donde un usuario puede filtrar los artículos. Opciones en el ítem de menú del Backend.
@@ -168,7 +168,7 @@ Estos ajustes se aplican a las Opciones de Diseños de Lista a menos que se camb
 
 Estos ajustes se aplican a las Opciones Compartidas en los diseños de Lista, Blog y Destacados, a menos que sean cambiados por las configuraciones del menú.
 
-![Opciones de artículos pestaña compartida](../../../es/images/articles/articles-options-shared-tab.png)
+![Opciones de artículos pestaña compartida](../../../es/images/articles/articles-options/07-articles-options-shared-tab.png)
 
 - **Orden de Categoría**
   - *Sin Orden* Los artículos se ordenan solo por el Orden de Artículos, sin tener en cuenta la Categoría.
@@ -204,7 +204,7 @@ Estos ajustes se aplican a las Opciones Compartidas en los diseños de Lista, Bl
 
 Estos ajustes determinan cómo el Componente de Artículos se integrará con otras extensiones.
 
-![Opciones de artículos pestaña de integración](../../../es/images/articles/articles-options-integration-tab.png)
+![Opciones de artículos pestaña de integración](../../../es/images/articles/articles-options/08-articles-options-integration-tab.png)
 
 #### Panel de Feeds de Noticias
 

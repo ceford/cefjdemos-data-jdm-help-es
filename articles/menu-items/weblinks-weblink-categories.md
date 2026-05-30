@@ -40,7 +40,7 @@ Para editar un elemento de menú existe **Listar Todas las Categorías de Enlace
 
 ### Pestaña de Categorías
 
-![Tipo de ítem de menú Listar Todas las Categorías de Enlaces Web](../../../es/images/menu-items/weblinks-list-all-web-link-categories-categories-tab.png)
+![Tipo de ítem de menú Listar Todas las Categorías de Enlaces Web](../../../es/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-categories-tab.png)
 
 - **Descripción de la Categoría de Nivel Superior** Mostrar u ocultar la descripción de la categoría de nivel superior. Tenga en cuenta que esta descripción puede ser reemplazada para este diseño ingresando una Descripción Alternativa a continuación.
 - **Descripción Alternativa** Ingrese una descripción opcional para reemplazar la descripción de la categoría para este diseño. Si la opción Descripción de Nivel Superior está configurada en *Mostrar*, esta descripción ingresada se mostrará en lugar de la descripción normal de la categoría.

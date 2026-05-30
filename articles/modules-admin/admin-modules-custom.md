@@ -28,7 +28,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![módulos artículos pestaña últimos](../../../es/images/modules-admin/modules-custom-module-tab.png)
+![módulos artículos pestaña últimos](../../../es/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
 
 ## Campos del Formulario
 

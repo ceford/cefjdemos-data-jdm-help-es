@@ -19,7 +19,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![Detalles de la pestaña de edición de contenido del idioma](../../../es/images/languages/languages-edit-content-language-details-tab.png)
+![Detalles de la pestaña de edición de contenido del idioma](../../../es/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
 
 ## Campos del Formulario
 
@@ -46,7 +46,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ### Pestaña Opciones
 
-![Pestaña opciones de editar idioma de contenido](../../../es/images/languages/languages-edit-content-language-options-tab.png)
+![Pestaña opciones de editar idioma de contenido](../../../es/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
 
 * ¡El **Nombre Personalizado del Sitio** podría ser diferente en diferentes idiomas!
 * ¡La **Meta Descripción** debería ser diferente en diferentes idiomas!

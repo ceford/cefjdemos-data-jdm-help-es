@@ -21,7 +21,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![lista de sitios de actualización](../../../es/images/update-sites/update-sites-list.png)
+![lista de sitios de actualización](../../../es/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Traducido por openai.com*
 

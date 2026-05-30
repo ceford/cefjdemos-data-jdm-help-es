@@ -25,7 +25,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![módulos inicio de sesión soporte información módulo pestaña](../../../es/images/modules-admin/modules-login-support-information-module-tab.png)
+![módulos inicio de sesión soporte información módulo pestaña](../../../es/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
 
 ## Campos de Formulario
 

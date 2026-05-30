@@ -25,7 +25,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![usuarios notas de usuario nuevas o editar](../../../es/images/users/users-user-notes-new-or-edit.png)
+![usuarios notas de usuario nuevas o editar](../../../es/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
 
 ## Campos de Formulario
 

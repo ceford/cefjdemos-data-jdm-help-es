@@ -24,7 +24,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla
 
-![pestaña del módulo ruta de navegación](../../../es/images/modules-site/modules-breadcrumbs-module-tab.png)
+![pestaña del módulo ruta de navegación](../../../es/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
 
 ## Campos del Formulario
 

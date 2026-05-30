@@ -27,7 +27,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![ficha del módulo de noticias de artículos](../../../es/images/modules-site/modules-articles-newsflash-module-tab.png)
+![ficha del módulo de noticias de artículos](../../../es/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
 
 ## Campos del Formulario
 

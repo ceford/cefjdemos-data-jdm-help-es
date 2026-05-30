@@ -22,7 +22,7 @@ Seleccione **Componentes → Enlaces Web → Enlaces** desde el menú del Admini
 
 ## Captura de Pantalla
 
-![lista de enlaces web](../../../es/images/weblinks/weblinks-list.png)
+![lista de enlaces web](../../../es/images/weblinks/weblinks-links/01-weblinks-list.png)
 
 *Traducido por openai.com*
 

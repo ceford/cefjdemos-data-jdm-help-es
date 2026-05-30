@@ -30,7 +30,7 @@ Para editar un usuario:
 
 ## Captura de Pantalla
 
-![lista de usuarios](../../../es/images/users/users-list.png)
+![lista de usuarios](../../../es/images/users/users/01-users-list.png)
 
 ## Encabezados de Columna
 

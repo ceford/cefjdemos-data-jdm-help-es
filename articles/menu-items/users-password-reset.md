@@ -36,7 +36,7 @@ Para editar un elemento de menú de *Restablecimiento de Contraseña* existente:
 
 ## Captura de pantalla
 
-![Detalles de restablecimiento de contraseña](../../../es/images/menu-items/users-password-reset-details-tab.png)
+![Detalles de restablecimiento de contraseña](../../../es/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

@@ -18,7 +18,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda por sep
 
 ## Captura de Pantalla
 
-![Captura de pantalla de opciones de contactos](../../../es/images/contacts/contacts-options-contact-tab.png)
+![Captura de pantalla de opciones de contactos](../../../es/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
 
 ## Campos del Formulario
 
@@ -67,7 +67,7 @@ Estas configuraciones se aplican a un solo Contacto a menos que se cambien para 
 
 ### Pestaña de Iconos
 
-![Pestaña de iconos de opciones de contactos](../../../es/images/contacts/contacts-options-icons-tab.png)
+![Pestaña de iconos de opciones de contactos](../../../es/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
 
 Estas configuraciones se aplican a un solo Contacto a menos que se cambien para un elemento de menú específico o Contacto.
 
@@ -83,7 +83,7 @@ Estas configuraciones se aplican a un solo Contacto a menos que se cambien para 
 
 Las Opciones de Categoría controlan cómo se mostrarán los contactos cuando se accede a una Categoría para ver sus contactos.
 
-![Pestaña de categoría de opciones de contactos](../../../es/images/contacts/contacts-options-category-tab.png)
+![Pestaña de categoría de opciones de contactos](../../../es/images/contacts/contacts-options/03-contacts-options-category-tab.png)
 
 - **Elegir un Diseño** (Blog/Lista/definido por el usuario). Esto te permite seleccionar el diseño predeterminado para mostrar al hacer clic en un enlace de Categoría. Si creas un diseño alternativo para un diseño de categoría, puedes seleccionarlo como predeterminado.
 - **Título de la Categoría** Mostrar u ocultar el título de la categoría.
@@ -99,13 +99,13 @@ Las Opciones de Categoría controlan cómo se mostrarán los contactos cuando se
 
 Estas configuraciones se aplican a las Opciones de Categorías de Contacto a menos que se cambien para un elemento de menú específico.
 
-![Pestaña de categorías de opciones de contactos](../../../es/images/contacts/contacts-options-categories-tab.png)
+![Pestaña de categorías de opciones de contactos](../../../es/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
 
 ### Pestaña de Disposiciones de Lista
 
 Estas configuraciones se aplican a las Opciones de Lista de Contactos a menos que se cambien para un elemento de menú específico.
 
-![Pestaña de disposiciones de lista de opciones de contactos](../../../es/images/contacts/contacts-options-list-layouts-tab.png)
+![Pestaña de disposiciones de lista de opciones de contactos](../../../es/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
 
 - **Campo de Filtro** El Campo de Filtro crea un campo de texto donde un usuario puede ingresar un campo que se utilizará para filtrar los artículos mostrados en la lista. Las posibles opciones para esto (en la edición del ítem del menú en el backend) se muestran a continuación.
     - *Ocultar* No mostrar un campo de filtro.
@@ -135,7 +135,7 @@ Estas configuraciones se aplican a las Opciones de Lista de Contactos a menos qu
 
 Estas configuraciones se aplican a un solo Contacto a menos que se cambien para un elemento de menú específico o Contacto.
 
-![Pestaña del formulario de opciones de contactos](../../../es/images/contacts/contacts-options-form-tab.png)
+![Pestaña del formulario de opciones de contactos](../../../es/images/contacts/contacts-options/06-contacts-options-form-tab.png)
 
 - **Permitir Captcha en Contacto** Usar el Captcha Predeterminado o Ninguno Seleccionado. Seleccionar el plugin de captcha que se utilizará en el formulario de contacto. Captcha es el nombre de una técnica para prevenir registros de usuarios spam que requiere que un usuario escriba caracteres de una imagen distorsionada o marque *No soy un robot*. Es posible que necesites ingresar más información para tu plugin de Captcha en el Administrador de Plugins.
 - **Formulario de Contacto** Mostrar u ocultar el formulario de contacto.

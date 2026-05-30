@@ -26,7 +26,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![pestaña del módulo de registros de acciones más reciente](../../../es/images/modules-admin/modules-action-logs-latest-module-tab.png)
+![pestaña del módulo de registros de acciones más reciente](../../../es/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
 
 ## Campos del Formulario
 

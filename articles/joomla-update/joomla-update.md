@@ -20,15 +20,15 @@ Además, el **Sistema → Panel de Actualización → Joomla** mostrará una
 
 Si tu sitio está actualizado, verás esta pantalla:
 
-![Subir & Actualizar](../../../en/images/joomla-update/upload-update-up-to-date.png)
+![Subir & Actualizar](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
 Si hay una actualización disponible, verás esta pantalla:
 
-![Subir & Actualizar](../../../en/images/joomla-update/upload-update-available.png)
+![Subir & Actualizar](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
 Si estás actualizando una versión mayor o menor, verás una pantalla de verificación previa a la actualización:
 
-![verificación previa a la actualización](../../../en/images/joomla-update/upload-update-pre-update-check.png)
+![verificación previa a la actualización](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
 Selecciona cada uno de los tres elementos del menú para ver si algo necesita atención.
 
@@ -44,7 +44,7 @@ Puedes usar este botón para actualizar Joomla si tu servidor está detrás de u
 
 Debes tener configurado tu *upload_max_filesize* y *post_max_size* de PHP a 64Mb y tu límite de memoria PHP a 256 Mb. De lo contrario, la actualización puede fallar. ¡Una buena razón para hacer esa copia de seguridad!
 
-![subir e instalar](../../../en/images/joomla-update/upload-update-upload-install.png)
+![subir e instalar](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
 ## Opciones de Actualización
 

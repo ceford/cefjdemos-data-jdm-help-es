@@ -33,7 +33,7 @@ Para editar un elemento de menú Confirmar Solicitud existente:
 
 ## Captura de pantalla
 
-![Elemento de menú Confirmar privacidad Solicitar detalles pestaña](../../../es/images/menu-items/privacy-confirm-request-details-tab.png)
+![Elemento de menú Confirmar privacidad Solicitar detalles pestaña](../../../es/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

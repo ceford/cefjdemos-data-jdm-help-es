@@ -22,7 +22,7 @@ Algunos elementos de esta página se cubren en artículos de Ayuda separados:
 
 ## Captura de Pantalla
 
-![Instalación de idiomas de extensiones](../../../es/images/extensions/languages-install.png)
+![Instalación de idiomas de extensiones](../../../es/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Encabezados de Columna
 

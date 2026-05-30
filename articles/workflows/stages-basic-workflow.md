@@ -34,7 +34,7 @@ Algunos elementos de esta página se abordan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![lista de flujo de trabajo básico por etapas](../../../es/images/workflows/stages-basic-workflow-list.png)
+![lista de flujo de trabajo básico por etapas](../../../es/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
 
 *Traducido por openai.com*
 

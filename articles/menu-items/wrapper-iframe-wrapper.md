@@ -33,13 +33,13 @@ Para editar un elemento de menú existente *Contenedor IFrame*:
 
 ## Captura de pantalla
 
-![Pestaña de detalles del envoltorio del iframe](../../../es/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Pestaña de detalles del envoltorio del iframe](../../../es/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Campos del Formulario
 
 ### Pestaña de Parámetros de Barras de Desplazamiento
 
-![Pestaña de parámetros de barras de desplazamiento del envoltorio de IFrame](../../../es/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Pestaña de parámetros de barras de desplazamiento del envoltorio de IFrame](../../../es/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Ancho** Ancho de la ventana IFrame. Introduce un número de píxeles o
   un porcentaje. Por ejemplo, *550* significa 550 píxeles; *75%* significa el 75%
@@ -50,7 +50,7 @@ Para editar un elemento de menú existente *Contenedor IFrame*:
 
 ### Pestaña Avanzada
 
-![Pestaña avanzada del envoltorio de IFrame](../../../es/images/menu-items/wrapper-advanced-tab.png)
+![Pestaña avanzada del envoltorio de IFrame](../../../es/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Altura automática** Ajusta automáticamente la altura a la altura de la página externa.
   *Nota* - esto solo funcionará si la página externa está en el **mismo

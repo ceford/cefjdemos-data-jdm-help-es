@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![solicitudes de información de privacidad](../../../es/images/privacy/privacy-information-requests.png)
+![solicitudes de información de privacidad](../../../es/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
 
 ## Encabezados de Columna
 

@@ -12,7 +12,7 @@ Todos los elementos del menú tienen un diseño similar, pero algunos de los cam
 
 ## Captura de Pantalla
 
-![pestaña de visualización de la página del elemento del menú](../../../es/images/menu-items-common/menu-item-page-display.png)
+![pestaña de visualización de la página del elemento del menú](../../../es/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Campos de Formulario
 

@@ -33,7 +33,7 @@ Para editar un ítem de menú Editar Perfil de Usuario existente:
 
 ## Captura de pantalla
 
-![Editar pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-edit-user-profile-details-tab.png)
+![Editar pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

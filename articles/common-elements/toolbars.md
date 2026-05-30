@@ -10,7 +10,7 @@ Si hay muchos botones, se ajustarán en dos filas. Algunos ejemplos:
 
 ### Barra de herramientas de edición de artículo
 
-![Barra de herramientas de edición de artículo](../../../es/images/common-elements/article-edit-toolbar.png)
+![Barra de herramientas de edición de artículo](../../../es/images/common-elements/toolbars/01-article-edit-toolbar.png)
 
 Los botones sin un icono de cheurón hacia abajo funcionan de inmediato. Así que **Guardar** guardará la página y retornará con un mensaje de confirmación verde o un mensaje de error rojo. Tenga en cuenta que, en la mayoría de los casos, el botón **Cancelar** cerrará una página de edición sin guardar los cambios.
 
@@ -22,7 +22,7 @@ Algunos botones solo aparecen en ciertas circunstancias. Por ejemplo, el botón 
 
 ### Barra de herramientas de la lista de plugins
 
-![Barra de herramientas de la lista de plugins](../../../es/images/common-elements/plugins-list-toolbar.png)
+![Barra de herramientas de la lista de plugins](../../../es/images/common-elements/toolbars/02-plugins-list-toolbar.png)
 
 En este ejemplo de barra de herramientas, los botones están grises para indicar que están inactivos. Se vuelven brillantes y activos cuando se marca una casilla de verificación de un elemento de plugin para dejarlo listo para habilitar, deshabilitar o registrar entrada. Se pueden seleccionar varios elementos de la lista para acción simultánea, que es el propósito principal de estos botones de la barra de herramientas. Los elementos individuales se pueden procesar con los iconos en cada fila (no mostrados).
 

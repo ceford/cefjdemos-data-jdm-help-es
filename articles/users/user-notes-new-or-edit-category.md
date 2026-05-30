@@ -21,7 +21,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ## Captura de pantalla
 
-![lista de notas del usuario](../../../es/images/users/users-user-notes-edit-category.png)
+![lista de notas del usuario](../../../es/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
 
 
 

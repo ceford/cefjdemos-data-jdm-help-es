@@ -22,11 +22,11 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla - Lista de Módulos de Administrador Instalados
 
-![lista de módulos de administrador](../../../es/images/modules-admin/modules-administrator-list.png)
+![lista de módulos de administrador](../../../es/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
 
 ## Captura de Pantalla - Lista de Módulos de Administrador Disponibles
 
-![módulos de administrador disponibles](../../../es/images/modules-admin/modules-administrator-available.png)
+![módulos de administrador disponibles](../../../es/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
 
 ## Posiciones de Módulo
 

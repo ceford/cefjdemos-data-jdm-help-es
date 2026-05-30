@@ -14,7 +14,7 @@ Diferentes componentes ofrecen diferentes opciones de diseño en la lista desple
 ```
 [Pendiente] Ejemplos para mostrar el cambio en la apariencia con diferentes opciones.
 
-![Pestaña de opciones de categoría de edición de artículos](../../../es/images/common-elements/articles-edit-category-options-tab.png)
+![Pestaña de opciones de categoría de edición de artículos](../../../es/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Pestaña de Opciones
 

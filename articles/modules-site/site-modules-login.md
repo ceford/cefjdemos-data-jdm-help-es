@@ -27,7 +27,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![pestaña del módulo de inicio de sesión](../../../es/images/modules-site/modules-login-module-tab.png)
+![pestaña del módulo de inicio de sesión](../../../es/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
 
 ## Campos del formulario
 

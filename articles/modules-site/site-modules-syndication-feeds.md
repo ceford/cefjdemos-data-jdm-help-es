@@ -27,7 +27,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![pestaña del módulo de feeds de sindicación](../../../es/images/modules-site/modules-syndication-feeds-module-tab.png)
+![pestaña del módulo de feeds de sindicación](../../../es/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
 
 
 ## Campos del Formulario

@@ -8,7 +8,7 @@ Los plugins de editor ayudan a los usuarios a ingresar texto con marcado o dise�
 
 El editor CodeMirror es un editor de código que proporciona un entorno más adecuado para el código fuente. Tiene resaltado de sintaxis de código para muchos lenguajes de programación. Puede mostrar etiquetas no coincidentes y también ayuda a mantener sangrías de código consistentes.
 
-![Formulario de opciones de CodeMirror](../../../en/images/plugins/plugin-group-editor-codemirror.png)
+![Formulario de opciones de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
 
 - **Números de lista** Mostrar números de línea en el editor.
 - **Plegado de código** Permitir el plegado de bloques de código.
@@ -23,7 +23,7 @@ El editor CodeMirror es un editor de código que proporciona un entorno más ade
 - **Alternar pantalla completa** Seleccionar la tecla de función para usar para alternar el modo de pantalla completa.
 - **Usar modificadores** Seleccionar cualquier tecla modificadora para usar con la tecla de alternancia de pantalla completa.
 
-![Formulario de opciones avanzadas de CodeMirror](../../../en/images/plugins/plugin-group-editor-codemirror-advanced.png)
+![Formulario de opciones avanzadas de CodeMirror](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
 
 - **Tema** Establece los colores para el editor.
 - **Color de línea activa** El color a usar para resaltar la línea activa. Se mostrará al 50% de opacidad.
@@ -42,7 +42,7 @@ Este plugin carga un editor de texto básico. Esta opción se puede usar cuando 
 
 El editor TinyMCE es un editor WYSIWYG y es el editor predeterminado para la entrada de HTML en Joomla!.
 
-![Formulario de opciones del plugin TinyMCE](../../../en/images/plugins/plugin-group-editor-tinymce.png)
+![Formulario de opciones del plugin TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
 
 - **Tabulación de selección predeterminada** Selecciona *Set 2*, *Set 1* o *Set 0* funcionalidad. Con *Set 2* seleccionado, verás el editor para uso *Público*. *Set 1* seleccionado es el predeterminado para Managers y Registrados, *Set 0* seleccionado es el predeterminado para Administradores, Editores y Super Usuarios.
 
@@ -77,7 +77,7 @@ Cada pestaña tiene una lista larga de opciones que no se ilustran aquí. La sig
 
 #### Pestaña avanzada de TinyMCE
 
-![Formulario de opciones avanzadas de TinyMCE](../../../en/images/plugins/plugin-group-editor-tinymce-advanced.png)
+![Formulario de opciones avanzadas de TinyMCE](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
 
 - **Número de conjuntos** Número de conjuntos que se pueden crear. Mínimo 3.
 - **Altura HTML** La altura, en píxeles, de la ventana emergente del modo HTML.

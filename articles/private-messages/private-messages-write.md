@@ -20,7 +20,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![escribir mensajes privados](../../../es/images/private-messages/private-messages-write.png)
+![escribir mensajes privados](../../../es/images/private-messages/private-messages-write/01-private-messages-write.png)
 
 ## Campos del Formulario
 

@@ -35,7 +35,7 @@ Para editar un elemento de menú de Lista de Contactos en una Categoría existen
 
 ## Captura de pantalla
 
-![Lista de elementos del menú Contactos en la pestaña de detalles de una categoría](../../../es/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Lista de elementos del menú Contactos en la pestaña de detalles de una categoría](../../../es/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Campos de Formulario
 
@@ -49,7 +49,7 @@ Para editar un elemento de menú de Lista de Contactos en una Categoría existen
 Las Opciones de Categoría controlan la forma en que la información de la categoría se muestra
 en el diseño. El Diseño de Lista de Categorías tiene las siguientes Opciones de Categoría, como se muestra a continuación.
 
-![Elemento de Menú Lista Contactos en una Categoría pestaña de categoría](../../../es/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Elemento de Menú Lista Contactos en una Categoría pestaña de categoría](../../../es/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Título de Categoría** Mostrar u ocultar el Título de la Categoría que
   se mostrará como un subtítulo en la página. El subtítulo generalmente
@@ -69,7 +69,7 @@ en el diseño. El Diseño de Lista de Categorías tiene las siguientes Opciones 
 ### Pestaña de Visualización de Contacto
 
 Los campos de Visualización de Contacto controlan la apariencia del diseño de la lista.
-![Elemento de Menú Lista Contactos en una Categoría pestaña de visualización de contacto](../../../es/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Elemento de Menú Lista Contactos en una Categoría pestaña de visualización de contacto](../../../es/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
 
 - **Elegir un Diseño** Seleccionar de la lista de plantillas.
 - **Categoría de Contacto** Mostrar u ocultar la vista de visualización de la Categoría de Contacto.
@@ -110,7 +110,7 @@ Los campos de Visualización de Contacto controlan la apariencia del diseño de 
 Las Opciones de Correo de Contacto controlan la apariencia del → *Formulario de Contacto* del Contacto
 si está habilitado.
 
-![Elemento de Menú Lista Contactos en una Categoría pestaña de opciones de correo](../../../es/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Elemento de Menú Lista Contactos en una Categoría pestaña de opciones de correo](../../../es/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Formulario de Contacto** Mostrar u ocultar el *formulario de contacto* del contacto.
 - **Enviar Copia al Remitente** Mostrar u ocultar una casilla de verificación

@@ -24,7 +24,7 @@ Selecciona **Sistema** → **Panel de Gestión** → **Módulos de Administrador
 
 ## Captura de pantalla
 
-![módulos guía módulos pestaña](../../../es/images/modules-admin/modules-guided-tours-module-tab.png)
+![módulos guía módulos pestaña](../../../es/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
 
 
 ## Campos de Formulario

@@ -40,7 +40,7 @@ Solo se necesita un método para instalar una Extensión. El procedimiento norma
 
 ## Pestaña Subir archivo de paquete
 
-![Pestaña de instalación de extensión subir archivo de paquete](../../../es/images/extensions/install-upload-package-file.png)
+![Pestaña de instalación de extensión subir archivo de paquete](../../../es/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Arrastra y suelta o navega hasta la ubicación donde descargaste el archivo comprimido de la Extensión.
 
@@ -48,7 +48,7 @@ La subida comienza automáticamente. Nota el **Tamaño máximo de subida: 32.00M
 
 ## Pestaña Instalar desde carpeta
 
-![Pestaña de instalación de extensión desde carpeta](../../../es/images/extensions/install-from-folder.png)
+![Pestaña de instalación de extensión desde carpeta](../../../es/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Crea un directorio temporal en tu disco duro local y descomprime el archivo comprimido de la Extensión en este directorio temporal.
 2.  Utilizando FTP, sube el contenido de este directorio (incluyendo archivos y subdirectorios) a un directorio en tu servidor.
@@ -59,7 +59,7 @@ Ten en cuenta que es una práctica común colocar la carpeta que contiene tu ext
 
 ## Pestaña Instalar desde URL
 
-![Pestaña de instalación de extensión desde URL](../../../es/images/extensions/install-from-url.png)
+![Pestaña de instalación de extensión desde URL](../../../es/images/extensions/extensions-install/03-install-from-url.png)
 
 En lugar de descargar el archivo comprimido en tu computadora local, solo especifica la URL del archivo comprimido objetivo. Luego haz clic en el botón "Verificar e Instalar" y Joomla! lo instalará automáticamente directamente desde esta URL. *Ten en cuenta que, con este método, no tendrás una copia del archivo comprimido en tu computadora local.*
 
@@ -67,7 +67,7 @@ En lugar de descargar el archivo comprimido en tu computadora local, solo especi
 
 Para instalar una extensión directamente desde el Directorio de Extensiones de Joomla (JED). Puedes seleccionar extensiones para listar por Categoría o buscar por nombre parcial.
 
-![Pestaña de instalación de extensión desde web](../../../es/images/extensions/install-from-web.png)
+![Pestaña de instalación de extensión desde web](../../../es/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Consejos
 

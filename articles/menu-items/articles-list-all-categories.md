@@ -41,7 +41,7 @@ Para editar un Elemento de Menú:
 
 ## Captura de Pantalla
 
-![Pestaña de detalles del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories-details-tab.png)
+![Pestaña de detalles del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
 
 ## Campos del Formulario
 
@@ -72,7 +72,7 @@ Para editar un Elemento de Menú:
 
 ### Pestaña de Categorías
 
-![Pestaña de categorías del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories-categories-tab.png)
+![Pestaña de categorías del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
 
 - **Descripción de la Categoría de Nivel Superior** Muestra la descripción de la
   categoría de nivel superior.
@@ -100,7 +100,7 @@ mencionados anteriormente, pero los campos son similares.
 Las Opciones Compartidas se aplican para Opciones Compartidas en Lista, Blog y Destacado,
 a menos que sean cambiadas por la configuración del menú.
 
-![Pestaña compartida del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories-shared-tab.png)
+![Pestaña compartida del elemento de menú Artículos Listar Todas las Categorías](../../../es/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
 
 - **Paginación** La paginación proporciona enlaces de página en la parte inferior de la
   página que permiten al Usuario navegar a páginas adicionales. Esto es necesario si los

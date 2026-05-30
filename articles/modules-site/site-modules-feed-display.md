@@ -29,7 +29,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![pestaña del módulo de visualización de feed](../../../es/images/modules-site/modules-feed-display-module-tab.png)
+![pestaña del módulo de visualización de feed](../../../es/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
 
 ## Campos del formulario
 

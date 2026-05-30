@@ -19,7 +19,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Opciones de check-in](../../../es/images/maintenance/check-in-options.png)
+![Opciones de check-in](../../../es/images/maintenance/check-in-options/01-check-in-options.png)
 
 ## Consejos
 

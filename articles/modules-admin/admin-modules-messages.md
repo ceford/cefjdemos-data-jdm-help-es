@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ## Captura de pantalla
 
-![módulos mensajes módulo pestaña](../../../es/images/modules-admin/modules-messages-module-tab.png)
+![módulos mensajes módulo pestaña](../../../es/images/modules-admin/admin-modules-messages/01-modules-messages-module-tab.png)
 
 ## Campos del Formulario
 

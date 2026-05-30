@@ -12,7 +12,7 @@ conflictos en tu instalación o fallos de dependencias pueden aparecer aquí.
 
 ## Captura de Pantalla
 
-![Advertencias de Información](../../../es/images/information/warnings.png)
+![Advertencias de Información](../../../es/images/information/information-warnings/01-warnings.png)
 
 ## Barra de Herramientas
 

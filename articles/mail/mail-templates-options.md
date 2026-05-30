@@ -19,7 +19,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de pantalla
 
-![Opciones de Plantillas de Correo](../../../es/images/mail/mail-templates-options-mails-tab.png)
+![Opciones de Plantillas de Correo](../../../es/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
 
 ## Campos del Formulario
 

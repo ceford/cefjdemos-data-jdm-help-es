@@ -19,7 +19,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de pistas de banners](../../../es/images/banners/banners-tracks-list.png)
+![Lista de pistas de banners](../../../es/images/banners/banners-tracks/01-banners-tracks-list.png)
 
 ## Encabezados de Columna
 

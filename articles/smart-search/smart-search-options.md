@@ -19,7 +19,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Opciones de búsqueda inteligente en la pestaña de búsqueda inteligente](../../../es/images/smart-search/smart-search-options-smart-search-tab.png)
+![Opciones de búsqueda inteligente en la pestaña de búsqueda inteligente](../../../es/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
 
 ## Campos de Formulario
 
@@ -48,7 +48,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Índice
 
-![Pestaña de índice de opciones de búsqueda inteligente](../../../es/images/smart-search/smart-search-options-index-tab.png)
+![Pestaña de índice de opciones de búsqueda inteligente](../../../es/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
 
 - **Buscar Frases** Desactivado para mejorar el rendimiento o habilitado para mejorar la calidad de los resultados.
 - **Tamaño de Lote del Indexador** El tamaño del lote controla cuántos ítems se procesan por lote. Los tamaños de lote grandes requieren mucha memoria mientras que los tamaños de lote pequeños requieren menos memoria pero ejecutan más solicitudes, lo cual tiende a tomar más tiempo.

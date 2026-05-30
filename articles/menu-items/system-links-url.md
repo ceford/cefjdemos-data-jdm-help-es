@@ -29,7 +29,7 @@ Para editar un elemento de menú URL Externa existente:
 
 ## Captura de pantalla
 
-![Alias del Ítem de Menú](../../../es/images/menu-items/system-links-url-details-tab.png)
+![Alias del Ítem de Menú](../../../es/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

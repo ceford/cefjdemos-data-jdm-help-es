@@ -21,11 +21,11 @@ Si se selecciona la opción **Ninguno**, no hay datos adicionales que ingresar. 
 
 ### Ejemplo: Esquema de Artículo
 
-![Pestaña de Esquema con opción de artículo seleccionada](../../../es/images/common-elements/articles-edit-schema-tab-article.png)
+![Pestaña de Esquema con opción de artículo seleccionada](../../../es/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
 
 ### Ejemplo: Esquema de Persona
 
-![Pestaña de Esquema con opción de persona seleccionada](../../../es/images/common-elements/articles-edit-schema-tab-person.png)
+![Pestaña de Esquema con opción de persona seleccionada](../../../es/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
 
 
 *Traducido por openai.com*

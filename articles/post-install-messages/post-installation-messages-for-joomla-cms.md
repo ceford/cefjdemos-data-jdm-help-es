@@ -18,7 +18,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![pantalla de mensajes post instalación](../../../es/images/post-install-messages/post-install-messages.png)
+![pantalla de mensajes post instalación](../../../es/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
 
 ## Mensajes
 

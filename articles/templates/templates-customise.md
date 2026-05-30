@@ -14,7 +14,7 @@ La página de *Plantillas: Personalizar* se utiliza para editar el código fuent
 
 Las pantallas de Plantillas del Administrador y del Sitio utilizan el mismo diseño. La pantalla de Plantilla del Sitio se ilustra aquí.
 
-![personalizar plantillas cassiopeia pestaña del editor](../../../es/images/templates/templates-customise-cassiopeia-editor-tab.png)
+![personalizar plantillas cassiopeia pestaña del editor](../../../es/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
 
 ## Campos del Formulario
 
@@ -24,14 +24,14 @@ Las pantallas de Plantillas del Administrador y del Sitio utilizan el mismo dise
 
 ### Pestaña de Crear Sobreescrituras
 
-![personalizar plantillas cassiopeia pestaña de crear sobreescrituras](../../../es/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
+![personalizar plantillas cassiopeia pestaña de crear sobreescrituras](../../../es/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
 
 - Selecciona un elemento para sobreescribir. Los elementos marcados con un ícono de archivo sólido se abren para revelar una lista de elementos. Los elementos marcados con íconos de página abierta y rellena superpuestos crean una sobreescritura inmediatamente sin pedir confirmación. La sobreescritura se coloca en la ubicación apropiada. Hay un mensaje de confirmación, por ejemplo:
   *Sobreescritura creada en /templates/cassiopeia/html/mod_whosonline*.
 
 ### Pestaña de Archivos Actualizados
 
-![personalizar plantillas cassiopeia pestaña de actualizados](../../../es/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
+![personalizar plantillas cassiopeia pestaña de actualizados](../../../es/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
 
 Si no ha habido actualizaciones en la plantilla desde que se crearon las sobreescrituras, esta pestaña contendrá un mensaje simple:
 
@@ -44,7 +44,7 @@ Si ha habido actualizaciones, una tabla mostrará una lista de sobreescrituras q
 
 ### Pestaña de Descripción de Plantilla
 
-![personalizar plantillas cassiopeia pestaña de descripción de plantilla](../../../es/images/templates/templates-customise-cassiopeia-template-description-tab.png)
+![personalizar plantillas cassiopeia pestaña de descripción de plantilla](../../../es/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
 
 - **Miniatura y Descripción** Información sobre esta plantilla.
 

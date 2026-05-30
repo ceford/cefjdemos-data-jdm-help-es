@@ -22,7 +22,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de plantillas de correo](../../../es/images/mail/mail-templates.png)
+![Lista de plantillas de correo](../../../es/images/mail/mail-templates/01-mail-templates.png)
 
 ## Encabezados de Columna
 

@@ -10,7 +10,7 @@ Este plugin te permite crear nuevos campos de tipo `calendario` en cualquier ext
 
 ### Campos - Casillas de Verificación
 
-![Formulario del plugin de campos casillas de verificación](../../../en/images/plugins/plugin-group-fields-checkboxes.png)
+![Formulario del plugin de campos casillas de verificación](../../../en/images/plugins/plugin-group-fields/01-plugin-group-fields-checkboxes.png)
 
 - **Valores de las Casillas** Los valores de las casillas de verificación.
 
@@ -20,7 +20,7 @@ Este plugin te permite crear nuevos campos de tipo `color` en cualquier extensi�
 
 ### Campos - Editor
 
-![Formulario del plugin de campos editor](../../../en/images/plugins/plugin-group-fields-editor.png)
+![Formulario del plugin de campos editor](../../../en/images/plugins/plugin-group-fields/02-plugin-group-fields-editor.png)
 
 - **Mostrar Botones** Determina si se deben mostrar los botones del plugin editors-xtd.
 - **Ocultar Botones** Selecciona algunas opciones.
@@ -30,7 +30,7 @@ Este plugin te permite crear nuevos campos de tipo `color` en cualquier extensi�
 
 ### Campos - Lista de Imágenes
 
-![Formulario del plugin campo lista de imágenes](../../../en/images/plugins/plugin-group-fields-imagelist.png)
+![Formulario del plugin campo lista de imágenes](../../../en/images/plugins/plugin-group-fields/03-plugin-group-fields-imagelist.png)
 
 - **Directorio** El directorio con los archivos de imágenes a listar relativo a la carpeta de imágenes por defecto (configurado en Medios > Opciones).
 - **Múltiple** Permitir seleccionar múltiples valores.
@@ -38,7 +38,7 @@ Este plugin te permite crear nuevos campos de tipo `color` en cualquier extensi�
 
 ### Campos - Entero
 
-![Formulario del plugin campo entero](../../../en/images/plugins/plugin-group-fields-integer.png)
+![Formulario del plugin campo entero](../../../en/images/plugins/plugin-group-fields/04-plugin-group-fields-integer.png)
 
 - **Múltiple** Permitir seleccionar múltiples valores.
 - **Primero** Este valor es el más bajo de la lista.
@@ -47,14 +47,14 @@ Este plugin te permite crear nuevos campos de tipo `color` en cualquier extensi�
 
 ### Campos - Lista
 
-![Formulario del plugin campo lista](../../../en/images/plugins/plugin-group-fields-list.png)
+![Formulario del plugin campo lista](../../../en/images/plugins/plugin-group-fields/05-plugin-group-fields-list.png)
 
 - **Múltiple** Permitir seleccionar múltiples valores.
 - **Valores de la Lista** Los valores de la lista.
 
 ### Campos - Medios
 
-![Formulario del plugin campo medios](../../../en/images/plugins/plugin-group-fields-media.png)
+![Formulario del plugin campo medios](../../../en/images/plugins/plugin-group-fields/06-plugin-group-fields-media.png)
 
 - **Directorio** El directorio con los archivos de imágenes a listar relativo a la carpeta de imágenes por defecto (configurado en Medios > Opciones).
 - **Vista Previa** Muestra u oculta la vista previa de la imagen seleccionada.
@@ -62,7 +62,7 @@ Este plugin te permite crear nuevos campos de tipo `color` en cualquier extensi�
 
 ### Campos - Radio
 
-![Formulario del plugin campo radio](../../../en/images/plugins/plugin-group-fields-radio.png)
+![Formulario del plugin campo radio](../../../en/images/plugins/plugin-group-fields/07-plugin-group-fields-radio.png)
 
 - **Valores de Radio** Los valores de la lista de radio.
 
@@ -72,21 +72,21 @@ Plugin para crear un formulario repetible con campos personalizables.
 
 ### Campos - SQL
 
-![Formulario del plugin campo SQL](../../../en/images/plugins/plugin-group-fields-sql.png)
+![Formulario del plugin campo SQL](../../../en/images/plugins/plugin-group-fields/08-plugin-group-fields-sql.png)
 
 - **Consulta** La consulta SQL que proporcionará los datos para la lista desplegable. La consulta debe devolver dos columnas; una llamada `valor` que contendrá los valores de los elementos de la lista; la otra llamada `texto` con el texto en la lista desplegable.
 - **Múltiple** Permitir seleccionar múltiples valores.
 
 ### Campos - Texto
 
-![Formulario del plugin campo texto](../../../en/images/plugins/plugin-group-fields-text.png)
+![Formulario del plugin campo texto](../../../en/images/plugins/plugin-group-fields/09-plugin-group-fields-text.png)
 
 - **Filtro** Permite al sistema guardar ciertas etiquetas html o datos sin procesar.
 - **Longitud Máxima** El número máximo de caracteres que se pueden ingresar.
 
 ### Campos - Área de Texto
 
-![Formulario del plugin campo área de texto](../../../en/images/plugins/plugin-group-fields-textarea.png)
+![Formulario del plugin campo área de texto](../../../en/images/plugins/plugin-group-fields/10-plugin-group-fields-textarea.png)
 
 - **Filas** La altura del área de texto visible en líneas. Si se omite, la altura la determina el navegador. El valor no limita el número de líneas que se pueden ingresar.
 - **Columnas** El ancho del área de texto visible en caracteres. Si se omite, el ancho lo determina el navegador. El valor no limita el número de caracteres que se pueden ingresar.
@@ -95,7 +95,7 @@ Plugin para crear un formulario repetible con campos personalizables.
 
 ### Campos - URL
 
-![Formulario del plugin campo URL](../../../en/images/plugins/plugin-group-fields-url.png)
+![Formulario del plugin campo URL](../../../en/images/plugins/plugin-group-fields/11-plugin-group-fields-url.png)
 
 - **Esquemas** Los esquemas permitidos.
 - **Relativo** Si se permiten URLs relativas.
@@ -106,7 +106,7 @@ Este plugin te permite crear nuevos campos de tipo `usuario` en cualquier extens
 
 ### Campos - Lista de Grupos de Usuarios
 
-![Formulario del plugin campo lista de grupos de usuarios](../../../en/images/plugins/plugin-group-fields-usergrouplist.png)
+![Formulario del plugin campo lista de grupos de usuarios](../../../en/images/plugins/plugin-group-fields/12-plugin-group-fields-usergrouplist.png)
 
 - **Múltiple** Permitir seleccionar múltiples valores.
 *Ajustado por openai.com para mayor precisión*

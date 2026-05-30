@@ -47,7 +47,7 @@ Ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de descubrimiento de extensiones](../../../es/images/extensions/discover-list.png)
+![Lista de descubrimiento de extensiones](../../../es/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Encabezados de Columna
 

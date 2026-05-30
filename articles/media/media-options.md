@@ -18,7 +18,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Opciones de Medios](../../../es/images/media/media-options.png)
+![Opciones de Medios](../../../es/images/media/media-options/01-media-options.png)
 
 ## Campos del formulario
 

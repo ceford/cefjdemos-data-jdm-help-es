@@ -16,7 +16,7 @@ Selecciona **Usuarios → Enviar correo masivo a usuarios** del menú del Admini
 
 ## Captura de pantalla
 
-![usuarios de correo masivo](../../../es/images/users/mass-mail-users.png)
+![usuarios de correo masivo](../../../es/images/users/mass-mail-users/01-mass-mail-users.png)
 
 ## Detalles y Mensaje
 

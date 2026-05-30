@@ -29,7 +29,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda por se
 
 ## Captura de pantalla
 
-![lista de flujos de trabajo](../../../es/images/workflows/workflows-list.png)
+![lista de flujos de trabajo](../../../es/images/workflows/workflows/01-workflows-list.png)
 
 ## Encabezados de Columna
 

@@ -26,7 +26,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![módulos versión de joomla pestaña del módulo](../../../es/images/modules-admin/modules-joomla-version-module-tab.png)
+![módulos versión de joomla pestaña del módulo](../../../es/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Campos del formulario
 

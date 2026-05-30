@@ -23,7 +23,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla
 
-![Elementos de Referencia y Destino lado a lado](../../../es/images/multilingual-associations/multilingual-associations-edit.png)
+![Elementos de Referencia y Destino lado a lado](../../../es/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
 
 En este ejemplo, los elementos son Artículos. Cada uno es una ventana desplazable con las opciones del elemento debajo del área de edición de texto (no mostradas).
 
