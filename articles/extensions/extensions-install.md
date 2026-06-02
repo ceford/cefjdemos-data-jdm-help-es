@@ -40,7 +40,7 @@ Solo se necesita un método para instalar una Extensión. El procedimiento norma
 
 ## Pestaña Subir archivo de paquete
 
-![Pestaña de instalación de extensión subir archivo de paquete](../../../es/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Pestaña de instalación de extensión subir archivo de paquete](../../../es/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Arrastra y suelta o navega hasta la ubicación donde descargaste el archivo comprimido de la Extensión.
 

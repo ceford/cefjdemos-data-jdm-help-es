@@ -4,7 +4,7 @@
 
 Estos plugins proporcionan datos de ejemplo para el módulo de Datos de Ejemplo que pueden mostrarse en el Tablero de Inicio. Si un plugin está deshabilitado, no aparecerá allí.
 
-![Panel de datos de ejemplo en el tablero de inicio](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
+![Panel de datos de ejemplo en el tablero de inicio](../../../en/images/plugins/plugin-group-sample-data/01-sample-data-module.png)
 
 ### Datos de Ejemplo - Blog
 

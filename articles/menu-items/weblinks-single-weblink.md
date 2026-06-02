@@ -32,7 +32,7 @@ Para editar un elemento de menú **Enlace web único** existente:
 
 ## Captura de Pantalla
 
-![Elemento de menú enlaces web enviar un enlace web](../../../es/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
+![Elemento de menú enlaces web enviar un enlace web](../../../es/images/menu-items/weblinks-single-weblink/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

@@ -33,7 +33,7 @@ Para editar un ítem de menú:
 
 ## Captura de Pantalla
 
-![Ítem de Menú Crear Artículo](../../../es/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
+![Ítem de Menú Crear Artículo](../../../es/images/menu-items/articles-create-article/01-details-tab.png)
 
 ## Campos del Formulario
 
@@ -56,7 +56,7 @@ Para editar un ítem de menú:
 
 ### Opciones
 
-![Ítem de Menú Crear Artículo opciones](../../../es/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
+![Ítem de Menú Crear Artículo opciones](../../../es/images/menu-items/articles-create-article/02-options-tab.png)
 
 - **Categoría Específica**
   - *Sí* Los artículos se asignarán a la categoría especificada. El usuario no podrá seleccionar una categoría.

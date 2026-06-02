@@ -19,7 +19,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Base de datos de mantenimiento](../../../es/images/maintenance/maintenance-database/01-maintenance-database.png)
+![Base de datos de mantenimiento](../../../es/images/maintenance/maintenance-database/01-items-list.png)
 
 ## Encabezados de Columna
 

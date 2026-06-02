@@ -15,7 +15,7 @@ Si el idioma del elemento del menú está configurado en *Todos*, esta página m
 
 ## Captura de pantalla
 
-![pestaña de asociaciones de elementos del menú](../../../es/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
+![pestaña de asociaciones de elementos del menú](../../../es/images/menu-items-common/menu-item-associations/01-associations-tab.png)
 
 ## Campos del Formulario
 

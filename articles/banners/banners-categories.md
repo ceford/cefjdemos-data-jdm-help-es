@@ -25,7 +25,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de Pantalla
 
-![Lista de categorías de banners](../../../es/images/banners/banners-categories/01-banners-categories-list.png)
+![Lista de categorías de banners](../../../es/images/banners/banners-categories/01-categories-list.png)
 
 ## Consejos
 

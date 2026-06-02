@@ -32,11 +32,11 @@ Título en la lista de *Menús: Ítems*.
 
 ## Captura de Pantalla
 
-![Opciones de configuración del sitio en el tipo de elemento del menú](../../../es/images/menu-items/configuration-site-configuration-options/01-configuration-site-configuration-options-details.png)
+![Opciones de configuración del sitio en el tipo de elemento del menú](../../../es/images/menu-items/configuration-site-configuration-options/01-details-tab.png)
 
 ## Captura de pantalla del Front End
 
-![Opciones de configuración del sitio en el formulario de front end](../../../en/images/menu-items/configuration-site-configuration-options/02-configuration-site-configuration-options-frontend.png)
+![Opciones de configuración del sitio en el formulario de front end](../../../en/images/menu-items/configuration-site-configuration-options/02-site-configuration-options-frontend.png)
 
 *Traducido por openai.com*
 

@@ -19,7 +19,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![consentimientos de privacidad](../../../es/images/privacy/privacy-consents/01-privacy-consents.png)
+![consentimientos de privacidad](../../../es/images/privacy/privacy-consents/01-consents-list.png)
 
 ## Encabezados de Columna
 

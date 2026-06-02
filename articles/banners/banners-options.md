@@ -20,7 +20,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![Pestaña de opciones de clientes de banners](../../../es/images/banners/banners-options/01-banners-options-client-tab.png)
+![Pestaña de opciones de clientes de banners](../../../es/images/banners/banners-options/01-client-tab.png)
 
 ## Campos del Formulario
 
@@ -37,7 +37,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 Esta sección le permite configurar las opciones de historial de versiones para Banners, Clientes de Banners y Categorías de Banners.
 
-![Pestaña de historial de opciones de Banners](../../../es/images/banners/banners-options/02-banners-options-history-tab.png)
+![Pestaña de historial de opciones de Banners](../../../es/images/banners/banners-options/02-history-tab.png)
 
 - **Habilitar Versiones** Indica si se debe guardar el historial de versiones para este componente. Si selecciona No, no se guardará el historial de versiones para los elementos del componente ni para las categorías de este componente.
 - **Número Máximo de Versiones** El número máximo de versiones que se almacenarán para un elemento. Si se guarda un elemento y se ha alcanzado el número máximo de versiones, la versión más antigua se eliminará automáticamente. Si se establece en 0, las versiones nunca se eliminarán automáticamente. Además, versiones específicas pueden marcarse como *Conservar para Siempre* y no se eliminarán automáticamente. Tenga en cuenta que las versiones pueden eliminarse manualmente utilizando el botón Eliminar en la pantalla de Historial de Versiones.

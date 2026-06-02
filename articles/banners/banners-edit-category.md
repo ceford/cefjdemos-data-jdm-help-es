@@ -28,7 +28,7 @@ Navegue a la lista de Categorías de Banners:
 
 ## Captura de Pantalla
 
-![Editar categoría de banners](../../../es/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Editar categoría de banners](../../../es/images/banners/banners-edit-category/01-category-tab.png)
 
 Consulta los Elementos Comunes para más información.
 

@@ -34,13 +34,13 @@ Para editar un elemento de menú **Listar Todas las Etiquetas** existente:
 
 ## Captura de Pantalla
 
-![Lista Compacta de Artículos Etiquetados - pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
+![Lista Compacta de Artículos Etiquetados - pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/01-details-tab.png)
 
 ## Campos de Formulario
 
 ### Pestaña de Opciones
 
-![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
+![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/02-options-tab.png)
 
 - **Número de Columnas** El número de columnas para organizar las etiquetas.
   Tenga en cuenta que este puede no ser el número mostrado si 12 no se divide
@@ -62,7 +62,7 @@ Para editar un elemento de menú **Listar Todas las Etiquetas** existente:
 
 ### Pestaña de Opciones de Selección
 
-![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
+![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-list-all-tags/03-selection-options-tab.png)
 
 - **Máximo de Elementos** El número máximo de resultados a devolver.
 - **Campo de Filtro** Mostrar u ocultar el campo de filtro utilizado para filtrar los artículos

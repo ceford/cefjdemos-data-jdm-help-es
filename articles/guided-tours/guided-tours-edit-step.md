@@ -20,7 +20,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Edición de paso en recorridos guiados](../../../es/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Edición de paso en recorridos guiados](../../../es/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Campos de Formulario
 
@@ -58,7 +58,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Opciones
 
-![Opciones de edición de los pasos de tours guiados](../../../es/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Opciones de edición de los pasos de tours guiados](../../../es/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Consejos
 

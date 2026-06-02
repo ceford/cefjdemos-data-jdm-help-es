@@ -17,7 +17,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Opciones de actualización de Joomla](../../../es/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
+![Opciones de actualización de Joomla](../../../es/images/joomla-update/joomla-update-options/01-update-source.png)
 
 ## Campos del Formulario
 

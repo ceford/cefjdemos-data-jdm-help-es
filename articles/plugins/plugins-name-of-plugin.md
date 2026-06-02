@@ -51,7 +51,7 @@ A partir del menú de Administrador:
 
 ## Captura de pantalla
 
-![Pestaña del complemento Plugins](../../../es/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
+![Pestaña del complemento Plugins](../../../es/images/plugins/plugins-name-of-plugin/01-plugin-tab.png)
 
 ## Campos del Formulario
 

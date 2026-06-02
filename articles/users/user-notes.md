@@ -24,7 +24,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![lista de notas de usuario](../../../es/images/users/user-notes/01-users-user-notes-list.png)
+![lista de notas de usuario](../../../es/images/users/user-notes/01-notes-list.png)
 
 ## Consejos
 

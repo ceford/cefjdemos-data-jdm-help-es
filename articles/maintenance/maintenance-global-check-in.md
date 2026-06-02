@@ -23,7 +23,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![mantenimiento check-in global](../../../es/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
+![mantenimiento check-in global](../../../es/images/maintenance/maintenance-global-check-in/01-check-in-list.png)
 
 ## Consejos
 

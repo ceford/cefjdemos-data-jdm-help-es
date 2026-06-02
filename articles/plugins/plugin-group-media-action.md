@@ -4,7 +4,7 @@
 
 Este grupo de plugins permite funciones de recorte, redimensionamiento y rotación de imágenes. En la página de Medios, pasa el cursor sobre una miniatura, selecciona el símbolo del menú (...) y luego el símbolo de edición (lápiz). Eso abre la página *Editar Medios*:
 
-![Página de edición de medios](../../../en/images/plugins/plugin-group-media-action/01-plugin-group-media-action-media-edit-page.png)
+![Página de edición de medios](../../../en/images/plugins/plugin-group-media-action/01-media-edit-page.png)
 
 ### Acción de Medios - Recortar
 

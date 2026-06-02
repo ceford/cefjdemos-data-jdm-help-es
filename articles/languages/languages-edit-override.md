@@ -31,7 +31,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda por separado:
 
 ## Captura de pantalla
 
-![Editar idioma anulando](../../../es/images/languages/languages-edit-override/01-languages-edit-override.png)
+![Editar idioma anulando](../../../es/images/languages/languages-edit-override/01-override-form.png)
 
 ## Campos del Formulario
 

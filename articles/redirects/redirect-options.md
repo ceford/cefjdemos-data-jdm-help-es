@@ -27,7 +27,7 @@ Selecciona el enlace **Plugin del Sistema de Redirección** y habilita el plugin
 
 ## Captura de pantalla
 
-![Opciones avanzadas de redirección](../../../es/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
+![Opciones avanzadas de redirección](../../../es/images/redirects/redirect-options/01-advanced-tab.png)
 
 ## Campos del Formulario
 

@@ -20,4 +20,4 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![Lista de estilos de plantillas del sitio](../../../es/images/templates/templates-styles/01-templates-site-styles-list.png)
+![Lista de estilos de plantillas del sitio](../../../es/images/templates/templates-styles/01-styles-list.png)

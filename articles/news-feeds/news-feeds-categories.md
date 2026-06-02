@@ -20,7 +20,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![Lista de fuentes de noticias](../../../es/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![Lista de fuentes de noticias](../../../es/images/news-feeds/news-feeds-categories/01-categories-list.png)
 
 *Traducido por openai.com*
 

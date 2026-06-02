@@ -33,13 +33,13 @@ Para editar un elemento de menú existente del Formulario de Inicio de Sesión:
 
 ## Captura de pantalla
 
-![Pestaña de detalles del formulario de inicio de sesión](../../../es/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
+![Pestaña de detalles del formulario de inicio de sesión](../../../es/images/menu-items/users-login-form/01-details-tab.png)
 
 ## Campos del Formulario
 
 ### Pestaña Opciones
 
-![Pestaña de detalles del formulario de inicio de sesión](../../../es/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
+![Pestaña de detalles del formulario de inicio de sesión](../../../es/images/menu-items/users-login-form/02-options-tab.png)
 
 #### Panel de Inicio de Sesión
 

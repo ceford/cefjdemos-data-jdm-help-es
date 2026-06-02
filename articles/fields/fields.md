@@ -55,7 +55,7 @@ Categoría y Correo en el componente de Contacto. Requieren algo de experiencia 
 
 ## Captura de pantalla
 
-![Lista de campos de artículos](../../../es/images/fields/fields/01-articles-fields-list.png)
+![Lista de campos de artículos](../../../es/images/fields/fields/01-fields-list.png)
 
 Hay 16 tipos de campos disponibles, cada uno implementado como un complemento. Es probable que haya más disponibles en el futuro.
 

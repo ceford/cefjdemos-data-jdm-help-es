@@ -6,7 +6,7 @@ Los plugins en este grupo se utilizan para el inicio de sesión estándar de usu
 
 ## Autenticación - Cookie
 
-![plugin de autenticación con cookie](../../../en/images/plugins/plugin-group-authentication/01-plugin-group-authentication-cookie.png)
+![plugin de autenticación con cookie](../../../en/images/plugins/plugin-group-authentication/01-authentication-cookie-plugin-tab.png)
 
 - **Duración de la Cookie** El número de días hasta que la cookie de autenticación expire. Otros factores pueden hacer que expire antes de esto. Duraciones más largas son menos seguras.
 - **Longitud de la Clave** La longitud de la clave que se utiliza para cifrar la cookie. Longitudes más largas son más seguras, pero ralentizarán el rendimiento.
@@ -19,7 +19,7 @@ Este plugin procesa el método de autenticación de usuario predeterminado en Jo
 
 Este plugin procesa la autenticación de usuarios contra un servidor LDAP.
 
-![plugin de autenticación ldap](../../../en/images/plugins/plugin-group-authentication/02-plugin-group-authentication-ldap.png)
+![plugin de autenticación ldap](../../../en/images/plugins/plugin-group-authentication/02-authentication-ldap-plugin-tab.png)
 
 - **Host** La URL del host. Por ejemplo, `openldap.mycompany.org`.
 - **Puerto** El número de puerto. El predeterminado es 389.

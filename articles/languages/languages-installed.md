@@ -19,7 +19,7 @@ Algunos elementos de esta página se cubren en artículos de Ayuda separados:
 
 ## Captura de Pantalla
 
-![Lista de idiomas instalados del sitio](../../../es/images/languages/languages-installed/01-languages-installed-site.png)
+![Lista de idiomas instalados del sitio](../../../es/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## Filtros de Lista
 

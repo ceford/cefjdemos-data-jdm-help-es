@@ -12,7 +12,7 @@ Todos los elementos del menú tienen una disposición similar, pero algunos de l
 
 ## Captura de Pantalla
 
-![pestaña de asignación de módulo de elemento de menú](../../../es/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
+![pestaña de asignación de módulo de elemento de menú](../../../es/images/menu-items-common/menu-item-module-assignment/01-module-assignment-tab.png)
 
 ## Campos de Formulario
 

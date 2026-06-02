@@ -31,7 +31,7 @@ Para editar un elemento de menú *Perfil de Usuario* existente:
 
 ## Captura de Pantalla
 
-![Pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
+![Pestaña de detalles del perfil del usuario](../../../es/images/menu-items/users-user-profile/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

@@ -33,7 +33,7 @@ Para editar un Ítem de Menú existente:
 
 ## Captura de Pantalla
 
-![Alias del Elemento del Menú](../../../es/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
+![Alias del Elemento del Menú](../../../es/images/menu-items/system-links-menu-item-alias/01-details-tab.png)
 
 Todos los campos del formulario están cubiertos en los *Elementos Comunes*.
 

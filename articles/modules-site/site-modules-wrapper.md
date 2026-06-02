@@ -26,7 +26,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![pestaña del módulo envolvente](../../../es/images/modules-site/site-modules-wrapper/01-modules-wrapper-module-tab.png)
+![pestaña del módulo envolvente](../../../es/images/modules-site/site-modules-wrapper/01-module-tab.png)
 
 ## Campos del Formulario
 

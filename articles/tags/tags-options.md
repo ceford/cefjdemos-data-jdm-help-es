@@ -18,7 +18,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![opciones de etiquetas elementos etiquetados pestaña](../../../es/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
+![opciones de etiquetas elementos etiquetados pestaña](../../../es/images/tags/tags-options/01-tagged-items-tab.png)
 
 ## Campos de Formulario
 
@@ -41,7 +41,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ### Pestaña de Selección de Ítems
 
-![opciones de etiquetas pestaña de ítems etiquetados](../../../es/images/tags/tags-options/02-tags-options-item-selection-tab.png)
+![opciones de etiquetas pestaña de ítems etiquetados](../../../es/images/tags/tags-options/02-item-selection-tab.png)
 
 - **Longitud Mínima de Búsqueda** Esta configuración controla el número mínimo de caracteres para la búsqueda y adición de etiquetas usando el modo Ajax en el campo de etiquetas.
 - **Tipo de Coincidencia** Todos devolverán ítems que tienen todas las etiquetas. Cualquiera devolverá ítems que tienen al menos una de las etiquetas.
@@ -51,7 +51,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ### Pestaña Listar Todas las Etiquetas
 
-![opciones de etiquetas pestaña listar todas las etiquetas](../../../es/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
+![opciones de etiquetas pestaña listar todas las etiquetas](../../../es/images/tags/tags-options/03-list-all-tags-tab.png)
 
 - **Diseño Predeterminado de Listar Todas las Etiquetas** Elija un diseño predeterminado para la Lista de todas las etiquetas.
 - **Orden** El orden en que se mostrarán los ítems.
@@ -63,7 +63,7 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ### Pestaña de Diseño Compartido
 
-![opciones de etiquetas pestaña de diseño compartido](../../../es/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
+![opciones de etiquetas pestaña de diseño compartido](../../../es/images/tags/tags-options/04-shared-layout-tab.png)
 
 - **Campo de Filtro** Indica si se debe mostrar un campo de Filtro para la lista. Seleccione Ocultar para ocultar el campo de filtro.
 - **Mostrar Selección** Indica si se debe mostrar u ocultar la lista desplegable de Selección de Mostrar.
@@ -72,13 +72,13 @@ Algunos aspectos de esta página se tratan en artículos de Ayuda separados:
 
 ### Pestaña de Entrada de Datos
 
-![opciones de etiquetas pestaña de entrada de datos](../../../es/images/tags/tags-options/05-tags-options-data-entry-tab.png)
+![opciones de etiquetas pestaña de entrada de datos](../../../es/images/tags/tags-options/05-data-entry-tab.png)
 
 - **Modo de Entrada de Etiquetas** El modo Ajax busca la etiqueta mientras se escribe y permite la creación de etiquetas sobre la marcha. Las etiquetas anidadas le muestran una vista anidada con todas las etiquetas disponibles.
 
 ### Pestaña de Integración
 
-![opciones de etiquetas pestaña de ítems etiquetados](../../../es/images/tags/tags-options/06-tags-options-integration-tab.png)
+![opciones de etiquetas pestaña de ítems etiquetados](../../../es/images/tags/tags-options/06-integration-tab.png)
 
 - **Mostrar Enlace de Feed** Mostrar u ocultar un Enlace RSS Feed. (Un Enlace de Feed aparecerá como un ícono de feed en la barra de direcciones de la mayoría de los navegadores modernos).
 

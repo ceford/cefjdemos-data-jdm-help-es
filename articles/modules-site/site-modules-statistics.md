@@ -26,7 +26,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![pestaña del módulo de estadísticas](../../../es/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
+![pestaña del módulo de estadísticas](../../../es/images/modules-site/site-modules-statistics/01-module-tab.png)
 
 ## Campos del Formulario
 

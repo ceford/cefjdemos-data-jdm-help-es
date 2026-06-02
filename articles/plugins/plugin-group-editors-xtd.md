@@ -4,7 +4,7 @@
 
 Los plugins editors-xtd añaden botones a la lista desplegable de Contenido de CMS en el editor TinyMCE.
 
-![Ejemplo de renderización de botones en TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
+![Ejemplo de renderización de botones en TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-cms-content-buttons.png)
 
 ### Botón - Artículo
 

@@ -23,7 +23,7 @@ Selecciona **Usuarios → Niveles de Acceso** desde el menú del Administrador
 
 ## Captura de Pantalla
 
-![usuarios visualizando niveles de acceso](../../../es/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
+![usuarios visualizando niveles de acceso](../../../es/images/users/users-viewing-access-levels/01-viewing-access-levels-list.png)
 
 ## Consejos
 

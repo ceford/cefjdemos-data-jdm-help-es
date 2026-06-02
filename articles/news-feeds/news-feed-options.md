@@ -19,7 +19,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Opciones de fuentes de noticias en la pestaña de fuentes de noticias](../../../es/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Opciones de fuentes de noticias en la pestaña de fuentes de noticias](../../../es/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Campos de Formulario
 
@@ -41,7 +41,7 @@ Estas configuraciones se aplican a todas las Fuentes de Noticias, a menos que se
 
 ### Pestaña de Categoría
 
-![Pestaña de opciones de fuentes de noticias - categoría](../../../es/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Pestaña de opciones de fuentes de noticias - categoría](../../../es/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Elegir un diseño** Seleccione Blog, Lista o un diseño definido por el usuario para mostrar por defecto cuando se selecciona un enlace de Categoría.
 - **Título de la categoría** Mostrar u ocultar el título de la categoría.
@@ -55,7 +55,7 @@ Estas configuraciones se aplican a todas las Fuentes de Noticias, a menos que se
 
 ### Pestaña de Categorías
 
-![Pestaña de opciones de fuentes de noticias - categorías](../../../es/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Pestaña de opciones de fuentes de noticias - categorías](../../../es/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Descripción de la categoría de nivel superior** Mostrar u ocultar la descripción de la categoría de nivel superior.
 - **Niveles de subcategoría** Cuántos niveles en la jerarquía mostrar.
@@ -65,7 +65,7 @@ Estas configuraciones se aplican a todas las Fuentes de Noticias, a menos que se
 
 ### Pestaña de Diseños de Lista
 
-![Pestaña de opciones de fuentes de noticias - diseños de lista](../../../es/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Pestaña de opciones de fuentes de noticias - diseños de lista](../../../es/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Campo de filtro** El campo de filtro crea un campo de texto donde un usuario puede ingresar un campo que se usará para filtrar los artículos mostrados en la lista.
     - *Ocultar* No mostrar un campo de filtro.
@@ -81,7 +81,7 @@ Estas configuraciones se aplican a todas las Fuentes de Noticias, a menos que se
 
 ### Pestaña de Integración
 
-![Pestaña de opciones de fuentes de noticias - integración](../../../es/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Pestaña de opciones de fuentes de noticias - integración](../../../es/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **Eliminar identificadores de URLs** Mostrar o no el id de la base de datos de una fuente de noticias en un enlace.
 

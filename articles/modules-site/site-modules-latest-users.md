@@ -26,7 +26,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda por se
 
 ## Captura de pantalla
 
-![módulo de usuarios más recientes](../../../es/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
+![módulo de usuarios más recientes](../../../es/images/modules-site/site-modules-latest-users/01-module-tab.png)
 
 ## Campos del Formulario
 

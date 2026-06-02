@@ -24,7 +24,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla
 
-![pestaña del módulo banners](../../../es/images/modules-site/site-modules-banners/01-modules-banners-module-tab.png)
+![pestaña del módulo banners](../../../es/images/modules-site/site-modules-banners/01-module-tab.png)
 
 ## Campos del Formulario
 

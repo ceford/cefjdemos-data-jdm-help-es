@@ -10,7 +10,7 @@
 
 El plugin *Registro de Acciones - Joomla* registra las acciones de los usuarios en el sitio para las extensiones principales de Joomla, de modo que puedan revisarse si es necesario. Si este plugin está habilitado, las últimas acciones aparecen en un módulo en el Panel de Control Principal:
 
-![Panel de acciones recientes en el Panel de Control Principal](../../../en/images/plugins/plugin-group-action-logs/01-plugins-user-actions-log-latest-actions.png)
+![Panel de acciones recientes en el Panel de Control Principal](../../../en/images/plugins/plugin-group-action-logs/01-latest-actions.png)
 
 Si el plugin está deshabilitado, entonces el módulo del Panel de Control Principal no cambia. Muestra las acciones registradas más recientemente.
 

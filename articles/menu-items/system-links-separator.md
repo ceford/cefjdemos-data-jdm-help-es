@@ -29,7 +29,7 @@ Para editar un elemento de menú Separador existente:
 
 ## Captura de pantalla
 
-![Alias del elemento de menú](../../../es/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
+![Alias del elemento de menú](../../../es/images/menu-items/system-links-separator/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos comunes*.
 

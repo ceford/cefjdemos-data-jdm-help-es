@@ -33,11 +33,11 @@ Para editar un elemento de menú Opciones de Plantilla de Pantalla existente:
 
 ## Captura de pantalla
 
-![Mostrar la pestaña de detalles de Opciones de Plantilla](../../../es/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
+![Mostrar la pestaña de detalles de Opciones de Plantilla](../../../es/images/menu-items/configuration-display-template-options/01-details-tab.png)
 
 ## Captura de Pantalla del Front End
 
-![Opciones de plantilla de visualización formulario del front end](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
+![Opciones de plantilla de visualización formulario del front end](../../../en/images/menu-items/configuration-display-template-options/02-frontend.png)
 
 *Traducido por openai.com*
 

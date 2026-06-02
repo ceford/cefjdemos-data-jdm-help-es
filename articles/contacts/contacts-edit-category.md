@@ -27,7 +27,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de Pantalla
 
-![Pestaña categoría de edición de contactos](../../../es/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
+![Pestaña categoría de edición de contactos](../../../es/images/contacts/contacts-edit-category/01-category-tab.png)
 
 ## Campos del Formulario
 

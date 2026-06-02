@@ -23,7 +23,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Pestaña de edición de fuentes de noticias](../../../es/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![Pestaña de edición de fuentes de noticias](../../../es/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Campos del Formulario
 
@@ -38,7 +38,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Opciones
 
-![Pestaña de opciones de fuentes de noticias](../../../es/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![Pestaña de opciones de fuentes de noticias](../../../es/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Panel de Imágenes
 

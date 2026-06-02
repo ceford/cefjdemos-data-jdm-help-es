@@ -13,7 +13,7 @@ Todos los elementos del menú tienen un diseño similar, pero algunos de los cam
 
 ## Captura de pantalla
 
-![Pestaña de diseño del blog del elemento de menú](../../../es/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Pestaña de diseño del blog del elemento de menú](../../../es/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Campos del Formulario
 

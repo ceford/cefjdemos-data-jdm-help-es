@@ -25,7 +25,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![módulos menú de usuario pestaña del módulo](../../../es/images/modules-admin/admin-modules-user-menu/01-modules-user-menu-module-tab.png)
+![módulos menú de usuario pestaña del módulo](../../../es/images/modules-admin/admin-modules-user-menu/01-module-tab.png)
 
 ## Campos del Formulario
 

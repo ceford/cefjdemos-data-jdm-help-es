@@ -27,7 +27,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![módulos pestaña del módulo de enlace del frontend](../../../es/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
+![módulos pestaña del módulo de enlace del frontend](../../../es/images/modules-admin/admin-modules-frontend-link/01-module-tab.png)
 
 ## Campos del Formulario
 

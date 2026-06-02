@@ -36,7 +36,7 @@ Para editar un Elemento de Menú:
 
 ## Captura de pantalla
 
-![Alias del Ítem de Menú](../../../es/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
+![Alias del Ítem de Menú](../../../es/images/menu-items/articles-archived-articles/01-details-tab.png)
 
 ## Campos de Formulario
 
@@ -47,7 +47,7 @@ Para editar un Elemento de Menú:
 
 ### Pestaña de Archivo
 
-![Menús Artículos Archivados](../../../es/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
+![Menús Artículos Archivados](../../../es/images/menu-items/articles-archived-articles/02-archive-tab.png)
 
 * **Orden de Artículos**
   * **Más Antiguos Primero** Los artículos se muestran comenzando con el más antiguo y

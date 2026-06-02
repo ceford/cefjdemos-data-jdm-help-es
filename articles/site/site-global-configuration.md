@@ -18,7 +18,7 @@ Algunos aspectos de esta página están cubiertos en artículos de Ayuda por sep
 
 ## Captura de Pantalla
 
-![Pestaña de configuración global del sitio](../../../es/images/site/site-global-configuration/01-global-configuration-site-tab.png)
+![Pestaña de configuración global del sitio](../../../es/images/site/site-global-configuration/01-site-tab.png)
 
 ## Campos del Formulario
 
@@ -74,7 +74,7 @@ Algunos aspectos de esta página están cubiertos en artículos de Ayuda por sep
 
 ### Pestaña Sistema
 
-![Pestaña del sistema de configuración global](../../../es/images/site/site-global-configuration/02-global-configuration-system-tab.png)
+![Pestaña del sistema de configuración global](../../../es/images/site/site-global-configuration/02-system-tab.png)
 
 #### Panel de Depuración
 
@@ -108,7 +108,7 @@ Algunos aspectos de esta página están cubiertos en artículos de Ayuda por sep
 
 ### Pestaña del Servidor
 
-![Pestaña del servidor de configuración global](../../../es/images/site/site-global-configuration/03-global-configuration-server-tab.png)
+![Pestaña del servidor de configuración global](../../../es/images/site/site-global-configuration/03-server-tab.png)
 
 #### Panel del Servidor
 
@@ -181,7 +181,7 @@ Algunos aspectos de esta página están cubiertos en artículos de Ayuda por sep
 
 ### Pestaña de Registro
 
-![Pestaña de registro de configuración global](../../../es/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
+![Pestaña de registro de configuración global](../../../es/images/site/site-global-configuration/04-logging-tab.png)
 
 #### Panel de Registro
 
@@ -197,7 +197,7 @@ Algunos aspectos de esta página están cubiertos en artículos de Ayuda por sep
 
 ### Pestaña de Filtros de Texto
 
-![Pestaña de filtros de texto de configuración global](../../../es/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
+![Pestaña de filtros de texto de configuración global](../../../es/images/site/site-global-configuration/05-text-filters-tab.png)
 
 Estos ajustes de filtros de texto se aplicarán a todos los campos de editor de texto presentados por los usuarios en los grupos seleccionados.
 

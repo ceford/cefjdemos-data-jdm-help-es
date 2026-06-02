@@ -28,7 +28,7 @@ Certains aspects de cette page sont couverts dans des articles d'aide distincts 
 
 ## Capture d'Écran
 
-![onglet détails de l'élément de menu](../../../es/images/menu-items-common/menus-new-item/01-menu-item-details.png)
+![onglet détails de l'élément de menu](../../../es/images/menus/menus-new-item/01-details-tab.png)
 
 ## Champs du Formulaire
 

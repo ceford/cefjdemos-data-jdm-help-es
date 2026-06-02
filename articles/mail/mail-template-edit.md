@@ -18,7 +18,7 @@ Un elemento de esta página está cubierto en un artículo de ayuda separado:
 
 ## Captura de Pantalla
 
-![Editar Plantilla de Correo](../../../es/images/mail/mail-template-edit/01-edit-mail-template.png)
+![Editar Plantilla de Correo](../../../es/images/mail/mail-template-edit/01-mail-tab.png)
 
 Las Opciones de Correo permiten enviar mensajes en Texto Plano o HTML o ambos. Si solo 
 se selecciona un método, el alternativo no estará presente en el formulario 

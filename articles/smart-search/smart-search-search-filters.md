@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de Ayuda separa
 
 ## Captura de Pantalla
 
-![mapas de contenido de búsqueda inteligente](../../../es/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
+![mapas de contenido de búsqueda inteligente](../../../es/images/smart-search/smart-search-search-filters/01-search-filters.png)
 
 *Traducido por openai.com*
 

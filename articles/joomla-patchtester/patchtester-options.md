@@ -20,7 +20,7 @@ Más Información: [Guía para Principiantes sobre la Prueba de Errores en Jooml
 
 ## Captura de pantalla
 
-![Formulario de opciones de Patchtester](../../../es/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
+![Formulario de opciones de Patchtester](../../../es/images/joomla-patchtester/patchtester-options/01-github-repository-tab.png)
 
 ## Campos del Formulario
 
@@ -32,7 +32,7 @@ Más Información: [Guía para Principiantes sobre la Prueba de Errores en Jooml
 
 Necesitas una cuenta de GitHub y un Token de GitHub. Todo gratis - consulta la pestaña de Autenticación de GitHub para más detalles.
 
-![Opciones de Patchtester pestaña de autenticación de GitHub](../../../es/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
+![Opciones de Patchtester pestaña de autenticación de GitHub](../../../es/images/joomla-patchtester/patchtester-options/02-github-authentication-tab.png)
 
 - **Método de Autenticación de GitHub** Elige el método de Token. El
   método de Credenciales no funcionará a partir de septiembre de 2020.
@@ -42,7 +42,7 @@ Necesitas una cuenta de GitHub y un Token de GitHub. Todo gratis - consulta la p
 
 Estas configuraciones se utilizan para pruebas automáticas. Usa los valores predeterminados para pruebas manuales.
 
-![Opciones de Patchtester pestaña de configuración del servidor CI](../../../es/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
+![Opciones de Patchtester pestaña de configuración del servidor CI](../../../es/images/joomla-patchtester/patchtester-options/03-ci-server-settings-tab.png)
 
 - **Dirección del Servidor CI** Predeterminado: `https://ci.joomla.org`
 - **Interruptor de Integración CI** Predeterminado: Apagado

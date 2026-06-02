@@ -20,7 +20,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![editar estilo de la pestaña del editor de plantillas de Cassiopeia](../../../es/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![editar estilo de la pestaña del editor de plantillas de Cassiopeia](../../../es/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Campos de Formulario
 
@@ -34,7 +34,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ### Pestaña Avanzado
 
-![templates cassiopeia edit style editor tab](../../../es/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia edit style editor tab](../../../es/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Esta sección puede no estar presente para todos los estilos. Si una plantilla de la cual
 se deriva un estilo tiene opciones configurables, estarán presentes aquí. Son estas opciones configurables adicionales las que permiten tener múltiples estilos diferentes de plantillas con variaciones de estas opciones. Las opciones disponibles variarán según las opciones que el desarrollador de la plantilla haya puesto a disposición.
@@ -55,7 +55,7 @@ Si proporcionas tu propia Marca Pequeña, también necesitas proporcionar una an
 
 ### Pestaña Asignación de Menú
 
-![templates cassiopeia edit style editor tab](../../../es/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia edit style editor tab](../../../es/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Esta sección contiene todos los ítems de menú configurados en tu sitio web Joomla!. Para aplicar el estilo actual a la página web correspondiente de un ítem de menú, marca la casilla junto al ítem del menú. Puedes presionar el botón *Alternar Selección* para invertir las selecciones de los ítems de menú.
 

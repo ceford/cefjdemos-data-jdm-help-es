@@ -33,7 +33,7 @@ Para editar un elemento de menú Extender Consentimiento existente:
 
 ## Captura de Pantalla
 
-![Menú Elemento Privacidad Crear Detalles de Solicitud](../../../es/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Menú Elemento Privacidad Crear Detalles de Solicitud](../../../es/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

@@ -32,7 +32,7 @@ Para crear un nuevo usuario:
 
 ## Captura de pantalla
 
-![editar detalles del usuario](../../../es/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
+![editar detalles del usuario](../../../es/images/users/users-new-or-edit/01-account-details-tab.png)
 
 ## Campos de Formulario
 
@@ -60,13 +60,13 @@ Para crear un nuevo usuario:
 
 ### Pestaña de Grupos de Usuarios Asignados
 
-![editar usuario pestaña de grupos de usuarios asignados](../../../es/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
+![editar usuario pestaña de grupos de usuarios asignados](../../../es/images/users/users-new-or-edit/02-assigned-user-groups-tab.png)
 
 El valor predeterminado es *Registrado*, pero se puede cambiar en la página *Usuario: Opciones*.
 
 ### Configuración Básica
 
-![editar usuario pestaña de configuración básica](../../../es/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
+![editar usuario pestaña de configuración básica](../../../es/images/users/users-new-or-edit/03-basic-settings-tab.png)
 
 - **Estilo de Plantilla del Backend** Selecciona un estilo de plantilla para la interfaz del 
   Administrador Backend. Esto solo afectará a este usuario.
@@ -82,7 +82,7 @@ El valor predeterminado es *Registrado*, pero se puede cambiar en la página *Us
 
 ### Configuración de Accesibilidad
 
-![editar usuario pestaña de configuración de accesibilidad](../../../es/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
+![editar usuario pestaña de configuración de accesibilidad](../../../es/images/users/users-new-or-edit/04-accessibility-settings-tab.png)
 
 - **Monocromo** Sí/No
 - **Alto Contraste** Sí/No
@@ -122,7 +122,7 @@ El token solo es visible para tu propia cuenta.
 
 ### Autenticación Multifactor
 
-![editar usuario pestaña de autenticación multifactor](../../../es/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
+![editar usuario pestaña de autenticación multifactor](../../../es/images/users/users-new-or-edit/05-multi-factor-authentication-tab.png)
 
 Esta pestaña te permite configurar uno o más métodos para permitir el acceso a tu
 cuenta después de iniciar sesión con Nombre de Usuario y Contraseña. Solo está presente 

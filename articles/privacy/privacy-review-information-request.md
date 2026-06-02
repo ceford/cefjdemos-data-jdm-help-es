@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![solicitud de revisión de privacidad](../../../es/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
+![solicitud de revisión de privacidad](../../../es/images/privacy/privacy-review-information-request/01-information.png)
 
 ## Detalles
 

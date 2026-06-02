@@ -59,7 +59,7 @@ Parámetros para todos los campos:
 
 ### Pestaña Opciones
 
-![Artículos editar pestaña de opciones de campo](../../../es/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Artículos editar pestaña de opciones de campo](../../../es/images/fields/fields-edit/02-options-tab.png)
 
 #### Opciones del Formulario
 

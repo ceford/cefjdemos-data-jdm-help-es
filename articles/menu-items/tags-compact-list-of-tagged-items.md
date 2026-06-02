@@ -35,13 +35,13 @@ Para editar un elemento de menú *Lista Compacta de Ítems Etiquetados* existent
 
 ## Captura de pantalla
 
-![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
+![Lista Compacta de Elementos Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-compact-list-of-tagged-items/01-details-tab.png)
 
 ## Campos de Formulario
 
 ### Pestaña Opciones de Etiqueta
 
-![Lista Compacta de Ítems Etiquetados pestaña opciones de etiqueta](../../../es/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Lista Compacta de Ítems Etiquetados pestaña opciones de etiqueta](../../../es/images/menu-items/tags-compact-list-of-tagged-items/02-tag-options-tab.png)
 
 - **Mostrar Nombre de Etiqueta** Para un diseño con una etiqueta, mostrar u ocultar el nombre de la etiqueta.
 - **Imagen de Etiqueta** Para un diseño con una etiqueta, mostrar u ocultar la imagen de la etiqueta.
@@ -53,7 +53,7 @@ Para editar un elemento de menú *Lista Compacta de Ítems Etiquetados* existent
 
 ### Pestaña Opciones de Selección de Ítems
 
-![Lista Compacta de Ítems Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Lista Compacta de Ítems Etiquetados pestaña de detalles](../../../es/images/menu-items/tags-compact-list-of-tagged-items/03-item-selection-options-tab.png)
 
 - **Tipo de Coincidencia** Seleccionar ítems con cualquiera de las etiquetas o con todas las etiquetas. Cualquiera devolverá ítems que tengan al menos una de las etiquetas.
 - **Etiquetas Hijas** Incluir o excluir etiquetas hijas de la lista de resultados.

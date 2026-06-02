@@ -20,49 +20,49 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 Esta tarea comprueba periódicamente la disponibilidad de nuevas versiones de Joomla!. Cuando se encuentra una, te enviará un correo electrónico, recordándote que actualices. Puedes personalizar el correo en Sistema → Plantillas de correo.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/01-scheduled-tasks-types-joomla-update-notofication.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/01-joomla-update-notofication.png)
 
 ### Pestaña avanzada
 
-![joomla update notification advanced tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/02-scheduled-tasks-types-advanced-tab.png)
+![joomla update notification advanced tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/02-advanced-tab.png)
 
 ### Pestaña de Historial de Ejecución
 
-![joomla update notification execution history tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/03-scheduled-tasks-types-exec-history-tab.png)
+![joomla update notification execution history tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/03-exec-history-tab.png)
 
 ### Pestaña de Detalles
 
-![joomla update notification details tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/04-scheduled-tasks-types-details-tab.png)
+![joomla update notification details tab parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/04-details-tab.png)
 
 ## Eliminar registros de acciones
 
 Eliminar registros de acciones después de los días especificados.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/05-scheduled-tasks-types-delete-action-logs.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/05-delete-action-logs.png)
 
 ## Vencimiento de Consentimientos de Privacidad
 
 Gestionar la caducidad de los consentimientos de privacidad.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/06-scheduled-tasks-types-privacy-consent.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/06-privacy-consent.png)
 
 ## Solicitud GET
 
 Realiza solicitudes GET a un servidor. Soporta un tiempo de espera personalizado y encabezados de autorización.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/07-scheduled-tasks-types-get-request.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/07-get-request.png)
 
 ## Check-in Global
 
 Verificar los artículos registrados.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/08-scheduled-tasks-types-global-check-in.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/08-global-check-in.png)
 
 ## Verificación del tamaño de la imagen
 
 Verificar imágenes, cambiar el tamaño si es más grande de lo permitido. Atención: ¡El archivo original se sobrescribirá!
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/09-scheduled-tasks-types-image-size-check.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/09-image-size-check.png)
 
 - **Directorio** El directorio de la imagen para verificar, tal vez sampledata, banners o headers.
 
@@ -72,31 +72,31 @@ Verificar imágenes, cambiar el tamaño si es más grande de lo permitido. Atenc
 
 Rota periódicamente los archivos de registro.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/10-scheduled-tasks-types-rotate-logs.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/10-rotate-logs.png)
 
 ## Purga de Datos de Sesión
 
 Complemento de tarea que purga datos y metadatos caducados según el controlador de sesión configurado en la Configuración Global.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/11-scheduled-tasks-types-session-data-purge.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/11-session-data-purge.png)
 
 ## Poner el sitio fuera de línea
 
 Establece el estado del sitio como fuera de línea en cada ejecución.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/12-scheduled-tasks-types-set-site-offline.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/12-set-site-offline.png)
 
 ## Establecer el sitio en línea
 
 Establece el estado del sitio en línea en cada ejecución.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/13-scheduled-tasks-types-set-site-online.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/13-set-site-online.png)
 
 ## Alternar sin conexión
 
 Alterna el estado del sitio en cada ejecución.
 
-![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/14-scheduled-tasks-types-toggle-offline.png)
+![joomla update notification parameters](../../../es/images/maintenance/scheduled-tasks-edit-task/14-toggle-offline.png)
 
 *Traducido por openai.com*
 

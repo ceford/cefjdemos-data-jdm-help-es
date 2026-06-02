@@ -20,7 +20,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Banners Clientes](../../../es/images/banners/banners-clients/01-banners-clients-list.png)
+![Banners Clientes](../../../es/images/banners/banners-clients/01-clients-list.png)
 
 ## Encabezados de Columna
 

@@ -18,7 +18,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ## Captura de Pantalla
 
-![opciones de usuarios pestaña de opciones de usuario](../../../es/images/users/users-options/01-users-options-user-options-tab.png)
+![opciones de usuarios pestaña de opciones de usuario](../../../es/images/users/users-options/01-user-options-tab.png)
 
 ## Campos del Formulario
 
@@ -57,7 +57,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Opciones de Dominio de Correo Electrónico
 
-![opciones de usuarios pestaña de dominios de correo electrónico](../../../es/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![opciones de usuarios pestaña de dominios de correo electrónico](../../../es/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Nombre de Dominio** Introducir una lista de dominios de correo electrónico permitidos y no permitidos.
   Por defecto, se permiten todos los dominios. Se admiten comodines (\*). Por
@@ -69,7 +69,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Opciones de Contraseña
 
-![opciones de usuarios pestaña de opciones de contraseña](../../../es/images/users/users-options/03-users-options-password-options-tab.png)
+![opciones de usuarios pestaña de opciones de contraseña](../../../es/images/users/users-options/03-password-options-tab.png)
 
 - **Número Máximo de Restablecimientos** El número máximo de restablecimientos de contraseña permitidos
   dentro del período de tiempo. Cero indica sin límite.
@@ -83,7 +83,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Autenticación Multifactor
 
-![opciones de usuarios pestaña de autenticación multifactor](../../../es/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![opciones de usuarios pestaña de autenticación multifactor](../../../es/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Posiciones de Módulos Frontend Permitidas** Al mostrar la página de
   Autenticación Multifactor en el frontend, todos los módulos estarán ocultos excepto
@@ -130,7 +130,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Historial de Notas de Usuario
 
-![opciones de usuarios pestaña de historial de notas de usuario](../../../es/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![opciones de usuarios pestaña de historial de notas de usuario](../../../es/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Habilitar Versiones** Guardar historial de versiones para Notas de Usuario.
 - **Número Máximo de Versiones** El número máximo de versiones a almacenar para una
@@ -140,7 +140,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Correo Masivo a Usuarios
 
-![opciones de usuarios pestaña de correo masivo a usuarios](../../../es/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![opciones de usuarios pestaña de correo masivo a usuarios](../../../es/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Prefijo de Asunto** Introducir texto opcional que se insertará automáticamente
   antes del
@@ -151,7 +151,7 @@ La página de *Usuarios: Opciones* se utiliza para establecer opciones globales 
 
 ### Pestaña de Integración
 
-![opciones de usuarios pestaña de integración](../../../es/images/users/users-options/07-users-options-integration-tab.png)
+![opciones de usuarios pestaña de integración](../../../es/images/users/users-options/07-integration-tab.png)
 
 - **Habilitar Campos Personalizados** Habilitar la creación de campos personalizados.
 

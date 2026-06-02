@@ -10,7 +10,7 @@ La página de *Búsqueda Inteligente: Análisis de Términos de Búsqueda* muest
 
 ## Captura de pantalla
 
-![análisis del término de búsqueda en la búsqueda inteligente](../../../es/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
+![análisis del término de búsqueda en la búsqueda inteligente](../../../es/images/smart-search/smart-search-search-term-analysis/01-search-term-analysis.png)
 
 ## Columnas
 

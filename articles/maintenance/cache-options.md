@@ -18,7 +18,7 @@ Algunos aspectos de esta página están cubiertos en artículos de ayuda separad
 
 ## Captura de pantalla
 
-![Opciones de caché](../../../es/images/maintenance/cache-options/01-cache-options.png)
+![Opciones de caché](../../../es/images/maintenance/cache-options/01-permissions-tab.png)
 
 ## Consejos
 

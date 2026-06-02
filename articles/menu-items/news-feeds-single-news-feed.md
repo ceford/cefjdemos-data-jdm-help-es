@@ -33,7 +33,7 @@ Para editar un elemento de menú de Noticias Individuales existente:
 
 ## Captura de pantalla
 
-![Detalles de la pestaña del ítem de menú único del feed de noticias](../../../es/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
+![Detalles de la pestaña del ítem de menú único del feed de noticias](../../../es/images/menu-items/news-feeds-single-news-feed/01-details-tab.png)
 
 ## Campos del Formulario
 
@@ -44,7 +44,7 @@ Para editar un elemento de menú de Noticias Individuales existente:
 
 ### Pestaña Opciones de Visualización de Feed
 
-![Pestaña de detalles del elemento de menú de un solo feed de noticias](../../../es/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
+![Pestaña de detalles del elemento de menú de un solo feed de noticias](../../../es/images/menu-items/news-feeds-single-news-feed/02-display-options-tab.png)
 
 Además de las opciones Sí/No o Ocultar/Mostrar, estas opciones permiten usar 
 el ajuste "Usar Global". Este utiliza el valor predeterminado de la pantalla de 

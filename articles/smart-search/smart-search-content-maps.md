@@ -36,7 +36,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![contenido de mapas de búsqueda inteligente](../../../es/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
+![contenido de mapas de búsqueda inteligente](../../../es/images/smart-search/smart-search-content-maps/01-content-maps.png)
 
 ## Encabezados de Columna
 

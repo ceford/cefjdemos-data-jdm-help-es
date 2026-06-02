@@ -23,7 +23,7 @@ La lista inicial de Tareas Programadas tiene tres elementos.
 
 ## Captura de pantalla
 
-![scheduled tasks list](../../../es/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../es/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Encabezados de columna
 
@@ -39,13 +39,13 @@ Columnas únicas para tareas programadas:
 
 Seleccione el botón en la barra de herramientas para ver una lista de ejecuciones de tareas individuales.
 
-![task execution history list](../../../es/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../es/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Tareas Disponibles
 
 La siguiente captura de pantalla muestra una lista de tareas disponibles. Algunas son demostraciones, otras son útiles.
 
-![Scheduled Tasks Available](../../../es/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../es/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Cada tarea tiene sus propios parámetros relacionados que deberían ser autoexplicativos. Por ejemplo, la tarea **Sitio Fuera de Línea** solo tiene sentido si la **Editar Tarea → Campos Básicos → Regla de Ejecución** está configurada en **Ejecución Manual**.
 

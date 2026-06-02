@@ -23,7 +23,7 @@ Desde el menú de Administrador:
 
 ## Captura de pantalla
 
-![formulario de entrada de datos del módulo de enlaces web](../../../es/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
+![formulario de entrada de datos del módulo de enlaces web](../../../es/images/modules-site/site-modules-weblinks/01-module-tab.png)
 
 ## Campos del formulario
 

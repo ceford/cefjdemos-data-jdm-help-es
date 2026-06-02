@@ -19,7 +19,7 @@ Algunos aspectos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![Mantenimiento Limpiar Caché](../../../es/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
+![Mantenimiento Limpiar Caché](../../../es/images/maintenance/maintenance-clear-cache/01-cache-list.png)
 
 ## Encabezados de Columna
 

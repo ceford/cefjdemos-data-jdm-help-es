@@ -25,7 +25,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda separados:
 
 ## Captura de pantalla
 
-![Redirige enlaces](../../../es/images/redirects/redirects-links/01-redirects-links.png)
+![Redirige enlaces](../../../es/images/redirects/redirects-links/01-links-list.png)
 
 ## Encabezados de Columna
 

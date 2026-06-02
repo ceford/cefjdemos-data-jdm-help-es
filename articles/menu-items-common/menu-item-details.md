@@ -11,7 +11,7 @@ Todos los elementos del menú tienen un diseño similar, pero algunos de los cam
 
 ## Captura de Pantalla
 
-![detalles del menú](../../../es/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![detalles del menú](../../../es/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 Las capturas de pantalla en cada una de las páginas de ayuda de los tipos de ítems difieren en detalles de
 esta captura de pantalla.

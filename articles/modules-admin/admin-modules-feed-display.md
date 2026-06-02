@@ -25,7 +25,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda por se
 
 ## Captura de pantalla
 
-![módulos pestaña de visualización del feed del módulo](../../../es/images/modules-admin/admin-modules-feed-display/01-modules-feed-display-module-tab.png)
+![módulos pestaña de visualización del feed del módulo](../../../es/images/modules-admin/admin-modules-feed-display/01-module-tab.png)
 
 ## Campos de Formulario
 

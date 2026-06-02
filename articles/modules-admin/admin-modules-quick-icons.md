@@ -27,7 +27,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![módulos iconos rápidos pestaña módulo](../../../es/images/modules-admin/admin-modules-quick-icons/01-modules-quick-icons-module-tab.png)
+![módulos iconos rápidos pestaña módulo](../../../es/images/modules-admin/admin-modules-quick-icons/01-module-tab.png)
 
 ## Campos del Formulario
 

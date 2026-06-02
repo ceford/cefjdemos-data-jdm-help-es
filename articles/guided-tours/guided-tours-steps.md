@@ -21,7 +21,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![Lista de pasos de las visitas guiadas](../../../es/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
+![Lista de pasos de las visitas guiadas](../../../es/images/guided-tours/guided-tours-steps/01-steps-list.png)
 
 ## Consejos
 

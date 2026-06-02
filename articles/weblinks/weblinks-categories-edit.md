@@ -23,7 +23,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![editar categoría de enlaces web](../../../es/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
+![editar categoría de enlaces web](../../../es/images/weblinks/weblinks-categories-edit/01-category-tab.png)
 
 ## Campos del formulario
 

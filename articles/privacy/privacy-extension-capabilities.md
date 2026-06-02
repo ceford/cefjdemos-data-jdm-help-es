@@ -17,7 +17,7 @@ Seleccione **Usuarios → Privacidad → Capacidades** en el menú de Admini
 
 ## Captura de pantalla
 
-![capacidades de la extensión de privacidad](../../../es/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
+![capacidades de la extensión de privacidad](../../../es/images/privacy/privacy-extension-capabilities/01-information.png)
 
 No hay acciones de usuario en esta página aparte de expandir y leer los informes individuales.
 *Traducido por openai.com*

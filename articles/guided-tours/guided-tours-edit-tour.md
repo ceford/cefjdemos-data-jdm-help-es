@@ -22,7 +22,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![Edición de Tours Guiados](../../../es/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
+![Edición de Tours Guiados](../../../es/images/guided-tours/guided-tours-edit-tour/01-edit-tour-tab.png)
 
 ## Campos del Formulario
 

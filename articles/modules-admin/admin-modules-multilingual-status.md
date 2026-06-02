@@ -26,7 +26,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![estado del módulo multilingüe](../../../es/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
+![estado del módulo multilingüe](../../../es/images/modules-admin/admin-modules-multilingual-status/01-module-tab.png)
 
 ## Campos del Formulario
 

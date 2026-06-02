@@ -36,7 +36,7 @@ Para editar un elemento de menú **Listar Enlaces Web en una Categoría** existe
 
 ## Captura de pantalla
 
-![Elemento de menú tipo Lista de Enlaces Web en una Categoría](../../../es/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Elemento de menú tipo Lista de Enlaces Web en una Categoría](../../../es/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

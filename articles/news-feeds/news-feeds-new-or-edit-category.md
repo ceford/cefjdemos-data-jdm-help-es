@@ -23,7 +23,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Editar categoría de fuentes de noticias en la pestaña categoría](../../../es/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Editar categoría de fuentes de noticias en la pestaña categoría](../../../es/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Campos del Formulario
 
@@ -33,7 +33,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña Opciones
 
-![Edición de categorías de feeds de noticias, pestaña de categoría](../../../es/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Edición de categorías de feeds de noticias, pestaña de categoría](../../../es/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Disposición** Seleccione una disposición de las opciones disponibles.
 - **Imagen** Elija una imagen para mostrar con esta categoría en el Frontend.

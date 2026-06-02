@@ -27,7 +27,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
 
 ## Captura de pantalla
 
-![mensajes post instalación del módulo en la pestaña del módulo](../../../es/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
+![mensajes post instalación del módulo en la pestaña del módulo](../../../es/images/modules-admin/admin-modules-post-installation-messages/01-module-tab.png)
 
 ## Campos del formulario
 

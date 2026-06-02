@@ -27,7 +27,7 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda por se
 
 ## Captura de pantalla
 
-![imagen aleatoria pestaña del módulo](../../../es/images/modules-site/site-modules-random-image/01-modules-random-image-module-tab.png)
+![imagen aleatoria pestaña del módulo](../../../es/images/modules-site/site-modules-random-image/01-module-tab.png)
 
 ## Campos del formulario
 

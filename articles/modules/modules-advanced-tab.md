@@ -6,7 +6,7 @@ La pestaña Módulo: Avanzado se utiliza con pequeñas variaciones en todos los 
 
 ## Captura de pantalla
 
-![Pestaña avanzada de módulos](../../../es/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
+![Pestaña avanzada de módulos](../../../es/images/modules/modules-advanced-tab/01-advanced-tab.png)
 
 ## Campos de Formulario
 

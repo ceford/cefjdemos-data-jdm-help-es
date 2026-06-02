@@ -31,7 +31,7 @@ Para editar un tipo de elemento de Encabezado de Menú existente:
 
 ## Captura de Pantalla
 
-![Detalles de la pestaña del encabezado del ítem de menú](../../../es/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
+![Detalles de la pestaña del encabezado del ítem de menú](../../../es/images/menu-items/system-links-menu-heading/01-details-tab.png)
 
 Todos los campos de entrada del formulario están cubiertos en los *Elementos Comunes*.
 

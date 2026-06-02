@@ -25,7 +25,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![lista de todos los elementos del menú](../../../es/images/menus/menus-items/01-menus-all-menu-items-list.png)
+![lista de todos los elementos del menú](../../../es/images/menus/menus-items/01-items-list.png)
 
 ## Consejos
 

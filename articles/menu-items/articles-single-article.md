@@ -36,7 +36,7 @@ Para editar un Elemento de Menú:
 
 ## Captura de Pantalla
 
-![Pestaña de detalles del elemento de menú Artículos - Artículo Único](../../../es/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Pestaña de detalles del elemento de menú Artículos - Artículo Único](../../../es/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Campos del Formulario
 

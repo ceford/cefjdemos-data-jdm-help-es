@@ -34,7 +34,7 @@ Para editar un elemento de menú de Búsqueda existente:
 
 ## Captura de pantalla
 
-![Pestaña de detalles de búsqueda inteligente del elemento del menú](../../../es/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
+![Pestaña de detalles de búsqueda inteligente del elemento del menú](../../../es/images/menu-items/smart-search-search/01-details-tab.png)
 
 ## Campos de Formulario
 
@@ -43,7 +43,7 @@ Si se selecciona *Usar global* para cualquier opción, se utiliza el valor prede
 
 ### Pestaña de Opciones
 
-![Pestaña de opciones de Búsqueda Inteligente del ítem del menú](../../../es/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
+![Pestaña de opciones de Búsqueda Inteligente del ítem del menú](../../../es/images/menu-items/smart-search-search/02-search-options-tab.png)
 
 - **Filtros de fecha** Mostrar u ocultar los filtros de fecha de inicio y fin en la Búsqueda Avanzada.
 - **Búsqueda avanzada** Mostrar u ocultar el elemento de Búsqueda Avanzada.
@@ -58,7 +58,7 @@ Si se selecciona *Usar global* para cualquier opción, se utiliza el valor prede
 
 ### Pestaña Avanzada
 
-![Pestaña avanzada de Búsqueda Inteligente del ítem del menú](../../../es/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
+![Pestaña avanzada de Búsqueda Inteligente del ítem del menú](../../../es/images/menu-items/smart-search-search/03-advanced-tab.png)
 
 - **Mostrar Selección** Mostrar u ocultar el control de Mostrar \# que permite al usuario 
   seleccionar el número de elementos para mostrar en la lista.

@@ -21,7 +21,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![mensajes privados](../../../es/images/private-messages/private-messages/01-private-messages.png)
+![mensajes privados](../../../es/images/private-messages/private-messages/01-messages-list.png)
 
 ## Consejos
 

@@ -35,13 +35,13 @@ Para editar un elemento de menú existente de Listar Fuentes de Noticias en una 
 
 ## Captura de pantalla
 
-![Lista de elementos del menú Feed de noticias en la pestaña detalles de una categoría](../../../es/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Lista de elementos del menú Feed de noticias en la pestaña detalles de una categoría](../../../es/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-details-tab.png)
 
 ## Campos del Formulario
 
 ### Pestaña de Opciones de Visualización del Feed
 
-![Pestaña de detalles de la Lista de Ítems del Menú Feeds de Noticias en una Categoría](../../../es/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Pestaña de detalles de la Lista de Ítems del Menú Feeds de Noticias en una Categoría](../../../es/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-feed-display-options-tab.png)
 
 - **Imagen del Feed** Mostrar u ocultar la imagen de los Feeds de Noticias.
 - **Descripción del Feed** Mostrar u ocultar la descripción del Feed de Noticias.

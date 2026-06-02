@@ -25,7 +25,7 @@ Algunos elementos de esta página se encuentran cubiertos en artículos de ayuda
 
 ## Captura de Pantalla
 
-![pestaña del módulo de búsqueda inteligente](../../../es/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![pestaña del módulo de búsqueda inteligente](../../../es/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Campos del Formulario
 

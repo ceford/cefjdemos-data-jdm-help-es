@@ -24,7 +24,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![estado multilingüe de módulos, pestaña de módulo](../../../es/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
+![estado multilingüe de módulos, pestaña de módulo](../../../es/images/modules-admin/admin-modules-popular-articles/01-module-tab.png)
 
 ## Campos del Formulario
 

@@ -36,7 +36,7 @@ Para editar un ítem de menú:
 
 ## Captura de Pantalla
 
-![Ítem de Menú Lista de Categoría](../../../es/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
+![Ítem de Menú Lista de Categoría](../../../es/images/menu-items/articles-category-list/01-details-tab.png)
 
 ## Campos del Formulario
 

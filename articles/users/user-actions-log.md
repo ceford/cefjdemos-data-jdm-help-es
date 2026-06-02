@@ -19,7 +19,7 @@ Seleccione **Usuarios → Registro de Acciones de Usuario** desde el menú de 
 
 ## Captura de pantalla
 
-![lista de acciones de usuario](../../../es/images/users/user-actions-log/01-user-actions-log-list.png)
+![lista de acciones de usuario](../../../es/images/users/user-actions-log/01-log-list.png)
 
 *Traducido por openai.com*
 

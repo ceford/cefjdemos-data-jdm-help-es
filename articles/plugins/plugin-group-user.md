@@ -4,7 +4,7 @@
 
 ### Usuario - Creador de Contacto
 
-![Formulario del creador de contacto de usuario](../../../en/images/plugins/plugin-group-user/01-plugin-group-user-contact-creator.png)
+![Formulario del creador de contacto de usuario](../../../en/images/plugins/plugin-group-user/01-contact-creator.png)
 
 - **Página Web Automática** Una cadena formateada para generar automáticamente la página web de un contacto. [name] se reemplaza con el nombre, [username] se reemplaza con el nombre de usuario, [userid] se reemplaza con el ID del usuario y [email] se reemplaza con el correo electrónico.
 - **Categoría** Categoría para asignar contactos por defecto.
@@ -14,13 +14,13 @@
 
 Permite la gestión de tokens de seguridad utilizados para autenticarse en la aplicación API de Joomla (acceso remoto al sitio). Estos tokens son estrictamente personales. Puedes ver tu propio token pero solo puedes deshabilitar o restablecer los tokens de otros usuarios.
 
-![Formulario de token de API de Joomla de usuario](../../../en/images/plugins/plugin-group-user/02-plugin-group-user-joomla-api-token.png)
+![Formulario de token de API de Joomla de usuario](../../../en/images/plugins/plugin-group-user/02-joomla-api-token.png)
 
 - **Grupos de Usuarios Permitidos** Selecciona uno o más para permitir que un grupo use Tokens de Joomla para autenticarse en la aplicación API de Joomla.
 
 ### Usuario - Joomla!
 
-![Formulario de Joomla de usuario](../../../en/images/plugins/plugin-group-user/03-plugin-group-user-joomla.png)
+![Formulario de Joomla de usuario](../../../en/images/plugins/plugin-group-user/03-joomla.png)
 
 - **Crear Usuarios Automáticamente** Decidir si crear o no usuarios registrados de Joomla! automáticamente cuando sea posible. El valor predeterminado es *Sí*.
 - **Correo de Notificación al Usuario** Cuando un administrador crea una cuenta de usuario, esto determina si se envía un correo electrónico al usuario con su nombre de usuario y contraseña.
@@ -34,7 +34,7 @@ Este plugin añade la capacidad de perfil de usuario a un sitio web. Los usuario
 - **Opcional** El campo es visible en los perfiles de usuario pero es opcional y los usuarios no necesitan completarlo.
 - **Deshabilitado** El campo está deshabilitado y no es visible en los perfiles de usuario.
 
-![Formulario de perfil de usuario](../../../en/images/plugins/plugin-group-user/04-plugin-group-user-profile.png)
+![Formulario de perfil de usuario](../../../en/images/plugins/plugin-group-user/04-profile.png)
 
 - **Todos los campos** Las tres opciones están disponibles excepto para el campo de Términos de Servicio, que ofrece una opción entre *Obligatorio* y *Deshabilitado*.
 
@@ -42,7 +42,7 @@ Este plugin añade la capacidad de perfil de usuario a un sitio web. Los usuario
 
 Este plugin permite la recopilación del consentimiento del usuario a los términos y condiciones del sitio.
 
-![Formulario de términos y condiciones de usuario](../../../en/images/plugins/plugin-group-user/05-plugin-group-user-terms-and-conditions.png)
+![Formulario de términos y condiciones de usuario](../../../en/images/plugins/plugin-group-user/05-terms-and-conditions.png)
 
 - **Términos y Condiciones Cortos** Permite la entrada de un resumen de Términos y Condiciones o el uso del idioma por defecto.
 - **Artículo de Términos y Condiciones** Selecciona o crea un artículo para Términos y Condiciones para enlazarlo con el formulario del usuario.

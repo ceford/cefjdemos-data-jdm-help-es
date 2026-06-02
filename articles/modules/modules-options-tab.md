@@ -6,7 +6,7 @@ La pestaña *Módulos: Opciones* se utiliza con variaciones menores en todos los
 
 ## Captura de pantalla
 
-![Pestaña avanzada de módulos](../../../es/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
+![Pestaña avanzada de módulos](../../../es/images/modules/modules-options-tab/01-options-tab.png)
 
 ## Campos del Formulario
 

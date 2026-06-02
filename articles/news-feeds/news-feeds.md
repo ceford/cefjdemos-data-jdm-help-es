@@ -21,7 +21,7 @@ Algunos elementos de esta página se cubren en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![Lista de fuentes de noticias](../../../es/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![Lista de fuentes de noticias](../../../es/images/news-feeds/news-feeds/01-feeds-list.png)
 
 *Traducido por openai.com*
 

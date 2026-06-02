@@ -26,7 +26,7 @@ Algunos elementos de esta página se tratan en artículos de Ayuda por separado:
 
 ## Captura de pantalla
 
-![pestaña del módulo de artículos archivados](../../../es/images/modules-site/site-modules-articles-archived/01-modules-articles-archived-module-tab.png)
+![pestaña del módulo de artículos archivados](../../../es/images/modules-site/site-modules-articles-archived/01-module-tab.png)
 
 ## Campos del Formulario
 

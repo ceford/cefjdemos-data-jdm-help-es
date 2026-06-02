@@ -13,7 +13,7 @@ Todos los elementos del menú tienen un diseño similar, pero algunos de los cam
 
 ## Captura de Pantalla
 
-![elemento del menú pestaña de integración](../../../es/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
+![elemento del menú pestaña de integración](../../../es/images/menu-items-common/menu-item-integration/01-integration-tab.png)
 
 ## Campos de Formulario
 

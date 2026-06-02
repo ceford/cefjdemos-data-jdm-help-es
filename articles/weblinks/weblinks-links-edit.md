@@ -20,7 +20,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![editar enlace web pestaña de enlace web](../../../es/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
+![editar enlace web pestaña de enlace web](../../../es/images/weblinks/weblinks-links-edit/01-edit-web-link-tab.png)
 
 ## Campos de Formulario
 
@@ -31,7 +31,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Imágenes
 
-![editar imágenes de enlace web](../../../es/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
+![editar imágenes de enlace web](../../../es/images/weblinks/weblinks-links-edit/02-images-tab.png)
 
 - **Primera Imagen** Haga clic en Seleccionar para seleccionar una imagen que se mostrará con este elemento en el front-end.
 - **Alineación de Imagen** Dónde colocar la imagen en relación con el texto en la página.
@@ -44,7 +44,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Publicación
 
-![editar publicación de enlace web](../../../es/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
+![editar publicación de enlace web](../../../es/images/weblinks/weblinks-links-edit/03-publishing-tab.png)
 
 - **Inicio de Publicación** Fecha y hora para comenzar la publicación. Use este campo si quiere introducir contenido con antelación y que se publique automáticamente en un momento futuro.
 - **Fin de Publicación** Fecha y hora para finalizar la publicación. Use este campo si desea que el contenido cambie automáticamente a estado No Publicado en un momento futuro (por ejemplo, cuando ya no sea aplicable).
@@ -69,7 +69,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ### Pestaña de Opciones
 
-![editar opciones de enlace web](../../../es/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
+![editar opciones de enlace web](../../../es/images/weblinks/weblinks-links-edit/04-options-tab.png)
 
 - **Objetivo** Cómo abrir el enlace. Las opciones son:
   - Abrir en la ventana principal. Abrir el enlace en la ventana actual del navegador, permitiendo la navegación Hacia Atrás y Adelante.

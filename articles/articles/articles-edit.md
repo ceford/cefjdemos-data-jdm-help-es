@@ -29,7 +29,7 @@ También puedes crear un nuevo artículo seleccionando el icono **+** en el Men�
 
 ## Captura de Pantalla
 
-![Captura de pantalla de edición de artículos](../../../es/images/articles/articles-edit/01-articles-edit-content-tab.png)
+![Captura de pantalla de edición de artículos](../../../es/images/articles/articles-edit/01-content-tab.png)
 
 ## Campos del Formulario
 
@@ -79,7 +79,7 @@ También puedes crear un nuevo artículo seleccionando el icono **+** en el Men�
 permisos de Administrador. Permite la visualización de imágenes y enlaces en los artículos usando
 diseños estandarizados.
 
-![Editar artículos pestaña de imágenes y enlaces](../../../es/images/articles/articles-edit/02-articles-edit-images-tab.png)
+![Editar artículos pestaña de imágenes y enlaces](../../../es/images/articles/articles-edit/02-images-tab.png)
 
 #### Imagen Introductoria
 
@@ -123,7 +123,7 @@ diseños estandarizados.
 Opciones del Artículo. Es un conjunto de opciones que se utilizan para controlar cómo se
 mostrará este artículo en el Frontend.
 
-![Pestaña Opciones](../../../es/images/articles/articles-edit/03-articles-edit-options-tab.png)
+![Pestaña Opciones](../../../es/images/articles/articles-edit/03-options-tab.png)
 
 #### Diseño
 
@@ -186,7 +186,7 @@ Esta sección muestra los campos personalizados que están definidos para este a
 son campos que no están asignados a un Grupo de Campos. Cada Grupo de Campos, si está definido,
 aparecerá como una pestaña separada.
 
-![Pestaña de Campos](../../../es/images/articles/articles-edit/04-articles-edit-fields-tab.png)
+![Pestaña de Campos](../../../es/images/articles/articles-edit/04-fields-tab.png)
 
 
 ### Pestaña Configurar Pantalla de Edición
@@ -194,7 +194,7 @@ aparecerá como una pestaña separada.
 **Nota:** Esto puede estar oculto por un usuario con permisos de Administrador en las
 Opciones del Artículo.
 
-![Pestaña Configurar pantalla de edición](../../../es/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
+![Pestaña Configurar pantalla de edición](../../../es/images/articles/articles-edit/05-editor-tab.png)
 
 - **Opciones de Publicación** Si se selecciona Ocultar, la pestaña de Opciones de Publicación
   no se mostrará en el Backend. Esto significa que los usuarios del Backend no

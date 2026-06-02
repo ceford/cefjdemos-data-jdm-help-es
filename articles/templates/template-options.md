@@ -21,7 +21,7 @@ Algunos aspectos de esta página se tratan en artículos de ayuda por separado:
 
 ## Captura de pantalla
 
-![opciones de plantillas pestaña de plantillas](../../../es/images/templates/template-options/01-templates-options-templates-tab.png)
+![opciones de plantillas pestaña de plantillas](../../../es/images/templates/template-options/01-templates-tab.png)
 
 ## Campos del Formulario
 

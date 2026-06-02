@@ -41,7 +41,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de pantalla
 
-![grupos de usuarios](../../../es/images/users/users-groups/01-users-groups-list.png)
+![grupos de usuarios](../../../es/images/users/users-groups/01-groups-list.png)
 
 ## Consejos
 

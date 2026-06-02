@@ -8,7 +8,7 @@ Las categorías son utilizadas por Artículos, Banners, Contactos y otros compon
 
 Esta captura de pantalla de ejemplo utiliza el formulario Artículos: Editar Categoría.
 
-![Pestaña de categoría de editar categoría](../../../es/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
+![Pestaña de categoría de editar categoría](../../../es/images/common-elements/edit-category/01-category-tab.png)
 
 ## Campos de Formulario
 

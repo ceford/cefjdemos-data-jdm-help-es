@@ -37,7 +37,7 @@ Para editar un ítem de menú:
 
 ## Captura de Pantalla
 
-![Ítem de Menú Blog de Categoría](../../../es/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Ítem de Menú Blog de Categoría](../../../es/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Campos del Formulario
 

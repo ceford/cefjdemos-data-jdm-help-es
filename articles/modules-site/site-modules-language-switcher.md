@@ -26,7 +26,7 @@ Algunos elementos de esta página se tratan en artículos de ayuda separados:
 
 ## Captura de Pantalla
 
-![pestaña del módulo del conmutador de idiomas](../../../es/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
+![pestaña del módulo del conmutador de idiomas](../../../es/images/modules-site/site-modules-language-switcher/01-module-tab.png)
 
 ## Campos del Formulario
 

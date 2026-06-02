@@ -33,13 +33,13 @@ Para editar un elemento de menú de Cerrar Sesión existente:
 
 ## Captura de pantalla
 
-![Pestaña de detalles de cierre de sesión](../../../es/images/menu-items/users-logout/01-users-logout-details-tab.png)
+![Pestaña de detalles de cierre de sesión](../../../es/images/menu-items/users-logout/01-details-tab.png)
 
 ## Campos de Formulario
 
 ### Pestaña de Opciones
 
-![Pestaña de opciones de cierre de sesión](../../../es/images/menu-items/users-logout/02-users-logout-options-tab.png)
+![Pestaña de opciones de cierre de sesión](../../../es/images/menu-items/users-logout/02-options-tab.png)
 
 - **Página de Redirección al Cerrar Sesión** Selecciona o crea la página a la que 
   el usuario será redirigido después de finalizar su sesión actual al cerrar 

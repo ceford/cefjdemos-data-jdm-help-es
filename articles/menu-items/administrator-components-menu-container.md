@@ -58,7 +58,7 @@ la lista de Elementos de Menú.
 
 ## Captura de pantalla
 
-![Menú de Componentes del Administrador](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
+![Menú de Componentes del Administrador](../../../en/images/menu-items/administrator-components-menu-container/01-details-tab.png)
 
 ## Campos del Formulario
 

@@ -20,7 +20,7 @@ Selecciona **Componentes → Weblinks → Categorías** desde el menú del A
 
 ## Captura de pantalla
 
-![lista de enlaces web](../../../es/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![lista de enlaces web](../../../es/images/weblinks/weblinks-categories/01-categories-list.png)
 
 *Traducido por openai.com*
 

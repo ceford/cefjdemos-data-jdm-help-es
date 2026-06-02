@@ -6,7 +6,7 @@ La *pestaña Módulos: Módulo* está presente en todos los formularios de edici
 
 ## Captura de Pantalla
 
-![registros de acciones pestaña de módulo más reciente](../../../es/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
+![registros de acciones pestaña de módulo más reciente](../../../es/images/modules/modules-module-tab/01-module-tab.png)
 
 ## Campos del Formulario
 
