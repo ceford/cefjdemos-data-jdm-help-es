@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Administrator_Dashboard_Menu / Display title: Modules : Menu du tableau de bord de l'administrateur -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Dashboard_Menu",
+  "title": "Modules : Menu du tableau de bord de l'administrateur ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

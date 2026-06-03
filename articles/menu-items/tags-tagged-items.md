@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Tagged_Items  / Display title: Éléments Étiquetés -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Tagged_Items",
+  "title": "Éléments Étiquetés ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

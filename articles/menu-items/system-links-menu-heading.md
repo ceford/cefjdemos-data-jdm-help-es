@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading  / Display title: En-tête du Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "En-tête du Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

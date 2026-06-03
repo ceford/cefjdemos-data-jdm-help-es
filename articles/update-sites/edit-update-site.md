@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Update_Site  / Display title: Modifier le site de mise à jour -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Update_Site",
+  "title": "Modifier le site de mise à jour ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Styles / Display title: Plantillas: Estilos -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
+  "title": "Plantillas: Estilos ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

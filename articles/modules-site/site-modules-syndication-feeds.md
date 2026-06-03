@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds  / Display title: Modules : Flux de syndication -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
+  "title": "Modules : Flux de syndication ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

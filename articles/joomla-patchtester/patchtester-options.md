@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Patch_Tester_Options  / Display title: Options de Testeur de Patch -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Patch_Tester_Options",
+  "title": "Options de Testeur de Patch ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

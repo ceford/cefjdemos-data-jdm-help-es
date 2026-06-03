@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Edit_Style  / Display title: Modèles : Modifier le style -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Edit_Style",
+  "title": "Modèles : Modifier le style ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

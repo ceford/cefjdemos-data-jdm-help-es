@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Ordering  / Display title: Ordre des listes -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Ordering",
+  "title": "Ordre des listes ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Donde el Orden Importa
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Articles / Display title: Artículos Destacados -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles",
+  "title": "Artículos Destacados ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

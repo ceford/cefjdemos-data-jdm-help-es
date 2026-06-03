@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_New_or_Edit  / Display title: Redirections : Nouveau ou Modifier -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
+  "title": "Redirections : Nouveau ou Modifier ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Edit / Display title: Editar tarea -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Edit",
+  "title": "Editar tarea ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

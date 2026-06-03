@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Advanced_Tab  / Display title: Modules : Onglet Avancé -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
+  "title": "Modules : Onglet Avancé ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

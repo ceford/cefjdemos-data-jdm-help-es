@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers  / Display title: En-têtes de colonnes de liste -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "En-têtes de colonnes de liste ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

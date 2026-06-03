@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_List_Layouts  / Display title: Dispositions de la Liste des Éléments de Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
+  "title": "Dispositions de la Liste des Éléments de Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

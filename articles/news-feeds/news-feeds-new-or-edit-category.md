@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_New_or_Edit_Category  / Display title: Flux d'Actualités : Modifier la Catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit_Category",
+  "title": "Flux d'Actualités : Modifier la Catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

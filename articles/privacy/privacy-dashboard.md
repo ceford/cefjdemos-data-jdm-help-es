@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy_Dashboard  / Display title: Tableau de bord de confidentialité -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
+  "title": "Tableau de bord de confidentialité ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

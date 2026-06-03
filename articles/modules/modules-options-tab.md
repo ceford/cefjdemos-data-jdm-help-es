@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Options_Tab  / Display title: Modules : Onglet Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
+  "title": "Modules : Onglet Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

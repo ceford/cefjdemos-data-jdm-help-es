@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Joomla_Update:_Options  / Display title: Mise à jour Joomla : Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Joomla_Update:_Options",
+  "title": "Mise à jour Joomla : Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

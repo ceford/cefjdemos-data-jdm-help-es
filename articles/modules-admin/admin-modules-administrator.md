@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions_Modules_Administrator  / Display title: Modules (Administrateur) -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions_Modules_Administrator",
+  "title": "Modules (Administrateur) ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Check-in:_Options  / Display title: Enregistrement : Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
+  "title": "Enregistrement : Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

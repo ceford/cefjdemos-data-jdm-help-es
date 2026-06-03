@@ -1,7 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title: Mantenimiento: Desbloqueo global -->
-Here is the translation of the Markdown from English to Spanish:
-
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title:  Maintenance: Global Check-in -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
+  "title": "Mantenimiento: Desbloqueo global ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

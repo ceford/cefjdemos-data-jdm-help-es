@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours  / Display title: Visites Guidées -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
+  "title": "Visites Guidées ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

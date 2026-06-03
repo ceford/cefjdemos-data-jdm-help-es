@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Action_Logs_-_Latest  / Display title: Modules : Journaux d'actions - Les plus récents -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Action_Logs_-_Latest",
+  "title": "Modules : Journaux d'actions - Les plus récents ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

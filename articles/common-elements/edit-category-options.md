@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Edit_Category_Options  / Display title: Modifier les options de catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Edit_Category_Options",
+  "title": "Modifier les options de catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

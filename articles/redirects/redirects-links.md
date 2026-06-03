@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Redirects:_Links  / Display title: Redirections : Liens -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
+  "title": "Redirections : Liens ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

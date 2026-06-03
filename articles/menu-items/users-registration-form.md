@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Registration_Form  / Display title: Formulaire d'Inscription -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Registration_Form",
+  "title": "Formulaire d'Inscription ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

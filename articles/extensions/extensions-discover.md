@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Discover  / Display title: Extensions : Découvrir -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Discover",
+  "title": "Extensions : Découvrir ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

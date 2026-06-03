@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source  / Display title: Modèles : Personnaliser la source -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Modèles : Personnaliser la source ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Cette page apparaît dans l’index des pages d’aide mais n’est pas utilisée via un bouton d’aide.

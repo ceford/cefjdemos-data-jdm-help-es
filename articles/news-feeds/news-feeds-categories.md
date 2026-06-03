@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_Categories  / Display title: Flux d'actualités : Catégories -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Categories",
+  "title": "Flux d'actualités : Catégories ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

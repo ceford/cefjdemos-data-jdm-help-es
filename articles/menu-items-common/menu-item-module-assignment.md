@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Module_Assignment  / Display title: Affectation du Module d'Élément de Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
+  "title": "Affectation du Module d'Élément de Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

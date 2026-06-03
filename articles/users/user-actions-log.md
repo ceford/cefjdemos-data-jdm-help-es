@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log  / Display title: Journal des Actions Utilisateurs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log",
+  "title": "Journal des Actions Utilisateurs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

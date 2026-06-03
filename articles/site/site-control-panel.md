@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Control_Panel  / Display title: Tableau de Bord d'Accueil -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
+  "title": "Tableau de Bord d'Accueil ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

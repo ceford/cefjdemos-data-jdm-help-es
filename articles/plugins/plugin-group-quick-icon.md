@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group  / Display title: Groupe d'icônes rapides -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group",
+  "title": "Groupe d'icônes rapides ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción del Grupo
 

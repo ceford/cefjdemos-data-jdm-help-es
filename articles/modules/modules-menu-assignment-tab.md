@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Menu_Assignment_Tab  / Display title: Modules : Onglet d’affectation des menus -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
+  "title": "Modules : Onglet d’affectation des menus ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

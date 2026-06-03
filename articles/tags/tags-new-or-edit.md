@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_New_or_Edit  / Display title: Tags: Nouvelle ou Édition -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
+  "title": "Tags: Nouvelle ou Édition ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

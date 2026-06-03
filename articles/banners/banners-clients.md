@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Clients  / Display title: Bannières : Clients -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Clients",
+  "title": "Bannières : Clients ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

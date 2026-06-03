@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Edit / Display title: Artículos: Editar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Edit",
+  "title": "Artículos: Editar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

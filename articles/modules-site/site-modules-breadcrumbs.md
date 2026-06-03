@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Módulos: Ruta de Navegación -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Módulos: Ruta de Navegación ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Categories / Display title: Listar Todas las Categorías -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
+  "title": "Listar Todas las Categorías ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

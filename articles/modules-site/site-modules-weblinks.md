@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions_Module_Manager_Weblinks  / Display title: Modules : Liens web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks",
+  "title": "Modules : Liens web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

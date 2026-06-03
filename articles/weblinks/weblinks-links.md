@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Links  / Display title: Liens Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links",
+  "title": "Liens Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users / Display title: Usuarios -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users",
+  "title": "Usuarios ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

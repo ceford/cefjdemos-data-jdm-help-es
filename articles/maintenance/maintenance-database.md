@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Database  / Display title: Maintenance : Base de données -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Database",
+  "title": "Maintenance : Base de données ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

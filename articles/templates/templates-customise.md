@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise / Display title: Plantillas: Personalizar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
+  "title": "Plantillas: Personalizar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide  / Display title: Guide de Style des Écrans d'Aide -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Guide de Style des Écrans d'Aide ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Ce guide de style est destiné à l'installation de Joomla MediaWiki (docs.joomla.org).

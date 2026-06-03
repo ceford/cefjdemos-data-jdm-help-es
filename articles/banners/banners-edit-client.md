@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_New_or_Edit_Client  / Display title: Bannières : Modifier le client -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client",
+  "title": "Bannières : Modifier le client ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

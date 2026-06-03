@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Display_Template_Options  / Display title: Options de Modèle d'affichage -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
+  "title": "Options de Modèle d'affichage ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Overrides  / Display title: Langues : Remplacements -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Overrides",
+  "title": "Langues : Remplacements ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

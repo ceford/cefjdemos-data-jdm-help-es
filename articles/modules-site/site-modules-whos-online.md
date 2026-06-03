@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Who%27s_Online  / Display title: Modules : Qui est en ligne -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Who%27s_Online",
+  "title": "Modules : Qui est en ligne ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Feed_Display  / Display title: Modules : Affichage du flux -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Feed_Display",
+  "title": "Modules : Affichage du flux ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

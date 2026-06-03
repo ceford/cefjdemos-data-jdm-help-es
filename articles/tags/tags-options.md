@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_Options  / Display title: Balises : Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_Options",
+  "title": "Balises : Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

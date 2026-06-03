@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group  / Display title: Groupe d'installation -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group",
+  "title": "Groupe d'installation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción del Grupo
 

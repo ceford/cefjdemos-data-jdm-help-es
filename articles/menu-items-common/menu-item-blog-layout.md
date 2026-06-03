@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Blog_Layout  / Display title: Élément de Menu Disposition du Blog -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
+  "title": "Élément de Menu Disposition du Blog ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

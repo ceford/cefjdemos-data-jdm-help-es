@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Tareas programadas -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
+  "title": "Tareas programadas ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

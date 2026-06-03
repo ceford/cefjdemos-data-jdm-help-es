@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Newsflash  / Display title: Modules : Articles - Flash d'actualités -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Newsflash",
+  "title": "Modules : Articles - Flash d'actualités ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

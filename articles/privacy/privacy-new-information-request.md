@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_New_Information_Request  / Display title: Confidentialité : Nouvelle demande d'information -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_New_Information_Request",
+  "title": "Confidentialité : Nouvelle demande d'information ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

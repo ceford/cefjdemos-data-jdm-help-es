@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Batch_Process  / Display title: Liste de traitement par lots -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
+  "title": "Liste de traitement par lots ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_News_Feeds_in_a_Category  / Display title: Lister les flux d'actualités dans une catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_News_Feeds_in_a_Category",
+  "title": "Lister les flux d'actualités dans une catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

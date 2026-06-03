@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Contacts  / Display title: Contacts en vedette -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts",
+  "title": "Contacts en vedette ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

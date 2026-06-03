@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Custom  / Display title: Modules : Personnalisé -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Custom",
+  "title": "Modules : Personnalisé ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

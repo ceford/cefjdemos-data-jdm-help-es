@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus:_Options / Display title: Menús: Opciones -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus:_Options",
+  "title": "Menús: Opciones ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

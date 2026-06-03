@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Password_Reset  / Display title: Réinitialisation du mot de passe -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
+  "title": "Réinitialisation du mot de passe ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

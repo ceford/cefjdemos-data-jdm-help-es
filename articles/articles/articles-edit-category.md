@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_New_or_Edit_Category / Display title: Artículos: Editar Categoría -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_New_or_Edit_Category",
+  "title": "Artículos: Editar Categoría ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

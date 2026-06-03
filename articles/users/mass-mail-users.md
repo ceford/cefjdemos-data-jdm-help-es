@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mass_Mail_Users  / Display title: Envoyer un Mail à Tous les Utilisateurs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
+  "title": "Envoyer un Mail à Tous les Utilisateurs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

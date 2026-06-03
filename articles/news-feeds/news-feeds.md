@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds  / Display title: Flux d'Actualités -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds",
+  "title": "Flux d'Actualités ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Private_Messages:_Read  / Display title: Messages Privés : Voir -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Read",
+  "title": "Messages Privés : Voir ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

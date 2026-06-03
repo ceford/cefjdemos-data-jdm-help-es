@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Weblinks_Links_Edit  / Display title: Lien Web : Modifier -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links_Edit",
+  "title": "Lien Web : Modifier ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

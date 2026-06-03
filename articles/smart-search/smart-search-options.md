@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Options  / Display title: Recherche intelligente : Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
+  "title": "Recherche intelligente : Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

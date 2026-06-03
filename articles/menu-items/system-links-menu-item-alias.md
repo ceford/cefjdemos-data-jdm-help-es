@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Alias  / Display title: Alias de l'Élément du Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
+  "title": "Alias de l'Élément du Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

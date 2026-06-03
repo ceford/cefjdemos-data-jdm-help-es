@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes  / Display title: Notes de l'utilisateur -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes",
+  "title": "Notes de l'utilisateur ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

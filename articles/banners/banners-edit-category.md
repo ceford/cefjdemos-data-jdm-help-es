@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_New_or_Edit_Category  / Display title: Bannières : Modifier la Catégorie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category",
+  "title": "Bannières : Modifier la Catégorie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

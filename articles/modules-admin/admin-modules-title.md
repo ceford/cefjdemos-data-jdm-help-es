@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Title  / Display title: Modules : Titre -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Title",
+  "title": "Modules : Titre ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 

@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group  / Display title: Groupe d'Authentification de l'API -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group",
+  "title": "Groupe d'Authentification de l'API ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción del Grupo
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Component:_Fields  / Display title: Composant : Champs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Component:_Fields",
+  "title": "Composant : Champs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descripción
 
