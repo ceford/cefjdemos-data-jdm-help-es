@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Compact_List_of_Tagged_Items",
-  "title": "Liste Compacte des Éléments Étiquetés ",
+  "title": "Liste Compacte des Éléments Étiquetés",
   "description": "", 
   "author": ""
 }

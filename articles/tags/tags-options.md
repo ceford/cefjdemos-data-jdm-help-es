@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags:_Options",
-  "title": "Balises : Options ",
+  "title": "Balises : Options",
   "description": "", 
   "author": ""
 }

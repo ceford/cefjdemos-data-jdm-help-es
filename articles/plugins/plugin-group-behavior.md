@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group",
-  "title": "Groupe de Comportement ",
+  "title": "Groupe de Comportement",
   "description": "", 
   "author": ""
 }

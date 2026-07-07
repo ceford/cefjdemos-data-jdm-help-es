@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Category_Blog",
-  "title": "Blog de Categoría ",
+  "title": "Blog de Categoría",
   "description": "", 
   "author": ""
 }

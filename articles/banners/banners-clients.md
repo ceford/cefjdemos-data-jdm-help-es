@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Clients",
-  "title": "Bannières : Clients ",
+  "title": "Bannières : Clients",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Random_Image",
-  "title": "Modules : Image Aléatoire ",
+  "title": "Modules : Image Aléatoire",
   "description": "", 
   "author": ""
 }

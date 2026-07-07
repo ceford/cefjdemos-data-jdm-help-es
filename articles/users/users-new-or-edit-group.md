@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
-  "title": "Utilisateurs : Nouveau ou Modifier le Groupe ",
+  "title": "Utilisateurs : Nouveau ou Modifier le Groupe",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Categories",
-  "title": "Bannières : Catégories ",
+  "title": "Bannières : Catégories",
   "description": "", 
   "author": ""
 }

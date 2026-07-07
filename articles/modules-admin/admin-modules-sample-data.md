@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Sample_Data",
-  "title": "Modules : Données d'exemple ",
+  "title": "Modules : Données d'exemple",
   "description": "", 
   "author": ""
 }

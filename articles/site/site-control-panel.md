@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
-  "title": "Tableau de Bord d'Accueil ",
+  "title": "Tableau de Bord d'Accueil",
   "description": "", 
   "author": ""
 }

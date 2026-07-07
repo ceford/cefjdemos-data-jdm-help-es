@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
-  "title": "Catégorie d'éléments du menu ",
+  "title": "Catégorie d'éléments du menu",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Private_Messages:_Write",
-  "title": "Messages Privés : Écrire ",
+  "title": "Messages Privés : Écrire",
   "description": "", 
   "author": ""
 }

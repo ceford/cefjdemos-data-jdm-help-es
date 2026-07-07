@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
-  "title": "Modules : Onglet Options ",
+  "title": "Modules : Onglet Options",
   "description": "", 
   "author": ""
 }

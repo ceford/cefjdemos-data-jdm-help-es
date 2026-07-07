@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
-  "title": "Envoyer un Mail à Tous les Utilisateurs ",
+  "title": "Envoyer un Mail à Tous les Utilisateurs",
   "description": "", 
   "author": ""
 }

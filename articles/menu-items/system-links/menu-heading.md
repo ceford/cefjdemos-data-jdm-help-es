@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
-  "title": "En-tête du Menu ",
+  "title": "En-tête du Menu",
   "description": "", 
   "author": ""
 }

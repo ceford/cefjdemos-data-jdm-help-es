@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
-  "title": "Mettre à Jour les Sites ",
+  "title": "Mettre à Jour les Sites: Introducción",
   "description": "", 
   "author": ""
 }

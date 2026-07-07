@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
-  "title": "Plantillas: Estilos ",
+  "title": "Plantillas: Estilos",
   "description": "", 
   "author": ""
 }

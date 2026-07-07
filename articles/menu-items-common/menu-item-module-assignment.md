@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
-  "title": "Affectation du Module d'Élément de Menu ",
+  "title": "Affectation du Module d'Élément de Menu",
   "description": "", 
   "author": ""
 }

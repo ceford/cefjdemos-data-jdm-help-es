@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Edit_Style",
-  "title": "Modèles : Modifier le style ",
+  "title": "Modèles : Modifier le style",
   "description": "", 
   "author": ""
 }

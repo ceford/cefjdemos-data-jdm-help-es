@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Password_Reset",
-  "title": "Réinitialisation du mot de passe ",
+  "title": "Réinitialisation du mot de passe",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Guided_Tours",
-  "title": "Visites Guidées ",
+  "title": "Visites Guidées: Introducción",
   "description": "", 
   "author": ""
 }

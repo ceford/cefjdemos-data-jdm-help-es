@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Article_Options",
-  "title": "Options d'articles du menu ",
+  "title": "Options d'articles du menu",
   "description": "", 
   "author": ""
 }

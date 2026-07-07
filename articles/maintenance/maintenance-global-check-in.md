@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
-  "title": "Mantenimiento: Desbloqueo global ",
+  "title": "Mantenimiento: Desbloqueo global",
   "description": "", 
   "author": ""
 }

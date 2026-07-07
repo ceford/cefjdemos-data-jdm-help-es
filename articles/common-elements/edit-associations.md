@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Associations",
-  "title": "Modifier les Associations ",
+  "title": "Modifier les Associations",
   "description": "", 
   "author": ""
 }

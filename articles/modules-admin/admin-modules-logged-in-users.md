@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
-  "title": "Modules : Utilisateurs connectés ",
+  "title": "Modules : Utilisateurs connectés",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group",
-  "title": "Groupe d'Authentification ",
+  "title": "Groupe d'Authentification",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Editors",
-  "title": "Editor ",
+  "title": "Editor: Introducción",
   "description": "", 
   "author": ""
 }

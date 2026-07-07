@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks",
-  "title": "Modules : Liens web ",
+  "title": "Modules : Liens web",
   "description": "", 
   "author": ""
 }

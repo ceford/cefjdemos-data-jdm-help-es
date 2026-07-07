@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Manage",
-  "title": "Extensions : Gérer ",
+  "title": "Extensions : Gérer",
   "description": "", 
   "author": ""
 }

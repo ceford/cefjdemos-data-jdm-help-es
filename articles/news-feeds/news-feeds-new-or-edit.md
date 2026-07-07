@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit",
-  "title": "Flux d'actualité : Modifier ",
+  "title": "Flux d'actualité : Modifier",
   "description": "", 
   "author": ""
 }

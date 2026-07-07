@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Update",
-  "title": "Extensions: Mise à jour ",
+  "title": "Extensions: Mise à jour",
   "description": "", 
   "author": ""
 }

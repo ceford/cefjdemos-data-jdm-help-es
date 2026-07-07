@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus:_Options",
-  "title": "Menús: Opciones ",
+  "title": "Menús: Opciones",
   "description": "", 
   "author": ""
 }

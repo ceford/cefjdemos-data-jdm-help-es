@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Dashboard",
-  "title": "Modules : Tableau de bord de confidentialité ",
+  "title": "Modules : Tableau de bord de confidentialité",
   "description": "", 
   "author": ""
 }

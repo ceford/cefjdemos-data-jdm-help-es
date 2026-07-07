@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Syndication_Feeds",
-  "title": "Modules : Flux de syndication ",
+  "title": "Modules : Flux de syndication",
   "description": "", 
   "author": ""
 }

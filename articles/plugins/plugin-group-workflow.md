@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group",
-  "title": "Groupe de travail ",
+  "title": "Groupe de travail",
   "description": "", 
   "author": ""
 }

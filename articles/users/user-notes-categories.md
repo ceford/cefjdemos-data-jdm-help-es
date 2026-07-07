@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes:_Categories",
-  "title": "Notes de l'utilisateur : Catégories ",
+  "title": "Notes de l'utilisateur : Catégories",
   "description": "", 
   "author": ""
 }

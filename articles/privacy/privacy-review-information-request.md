@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
-  "title": "Confidentialité : Demande de révision des informations ",
+  "title": "Confidentialité : Demande de révision des informations",
   "description": "", 
   "author": ""
 }

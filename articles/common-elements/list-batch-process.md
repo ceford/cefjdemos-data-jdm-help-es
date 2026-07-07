@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Batch_Process",
-  "title": "Liste de traitement par lots ",
+  "title": "Liste de traitement par lots",
   "description": "", 
   "author": ""
 }

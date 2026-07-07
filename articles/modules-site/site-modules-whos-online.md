@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Who%27s_Online",
-  "title": "Modules : Qui est en ligne ",
+  "title": "Modules : Qui est en ligne",
   "description": "", 
   "author": ""
 }

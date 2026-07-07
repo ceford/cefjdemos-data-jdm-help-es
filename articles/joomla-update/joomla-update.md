@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
-  "title": "Mise à jour Joomla ",
+  "title": "Mise à jour Joomla: Introducción",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
-  "title": "Recherche Intelligente : Cartes de Contenu ",
+  "title": "Recherche Intelligente : Cartes de Contenu",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group",
-  "title": "Groupe de Confidentialité ",
+  "title": "Groupe de Confidentialité",
   "description": "", 
   "author": ""
 }

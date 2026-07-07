@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles",
-  "title": "Artículos Destacados ",
+  "title": "Artículos Destacados",
   "description": "", 
   "author": ""
 }

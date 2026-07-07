@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_Fields",
-  "title": "Composant : Champs ",
+  "title": "Composant : Champs",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_News_Feed",
-  "title": "Flux de Nouvelles Unique ",
+  "title": "Flux de Nouvelles Unique",
   "description": "", 
   "author": ""
 }

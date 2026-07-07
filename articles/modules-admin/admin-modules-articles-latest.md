@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Articles_-_Latest",
-  "title": "Modules : Articles - Les Derniers ",
+  "title": "Modules : Articles - Les Derniers",
   "description": "", 
   "author": ""
 }

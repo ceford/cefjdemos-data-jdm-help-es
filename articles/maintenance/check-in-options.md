@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
-  "title": "Enregistrement : Options ",
+  "title": "Enregistrement : Options",
   "description": "", 
   "author": ""
 }

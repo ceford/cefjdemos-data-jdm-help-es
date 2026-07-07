@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Status_Check",
-  "title": "Modules : Vérification de l'état de la confidentialité ",
+  "title": "Modules : Vérification de l'état de la confidentialité",
   "description": "", 
   "author": ""
 }

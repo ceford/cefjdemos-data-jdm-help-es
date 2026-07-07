@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Categories",
-  "title": "Listar Todas las Categorías ",
+  "title": "Listar Todas las Categorías",
   "description": "", 
   "author": ""
 }

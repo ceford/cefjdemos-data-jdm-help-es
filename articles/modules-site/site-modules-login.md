@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
-  "title": "Modules : Connexion ",
+  "title": "Modules : Connexion",
   "description": "", 
   "author": ""
 }

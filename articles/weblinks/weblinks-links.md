@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Links",
-  "title": "Liens Web ",
+  "title": "Liens Web",
   "description": "", 
   "author": ""
 }

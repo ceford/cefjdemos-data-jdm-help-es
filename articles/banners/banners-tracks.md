@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Tracks",
-  "title": "Bannières : Pistes ",
+  "title": "Bannières : Pistes",
   "description": "", 
   "author": ""
 }

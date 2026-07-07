@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_New_or_Edit_Field_Group",
-  "title": "Composant : Modifier le groupe de champs ",
+  "title": "Composant : Modifier le groupe de champs",
   "description": "", 
   "author": ""
 }

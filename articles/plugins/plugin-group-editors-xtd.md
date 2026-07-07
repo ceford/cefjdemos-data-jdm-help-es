@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group",
-  "title": "Groupe de Boutons des Éditeurs Xtd ",
+  "title": "Groupe de Boutons des Éditeurs Xtd",
   "description": "", 
   "author": ""
 }

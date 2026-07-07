@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Toolbar",
-  "title": "Modules : Barre d'outils ",
+  "title": "Modules : Barre d'outils",
   "description": "", 
   "author": ""
 }

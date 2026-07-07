@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Display_Template_Options",
-  "title": "Options de Modèle d'affichage ",
+  "title": "Options de Modèle d'affichage",
   "description": "", 
   "author": ""
 }

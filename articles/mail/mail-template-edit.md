@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Template:_Edit",
-  "title": "Modifier le modèle d'email ",
+  "title": "Modifier le modèle d'email",
   "description": "", 
   "author": ""
 }

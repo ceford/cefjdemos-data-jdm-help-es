@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Popular",
-  "title": "Modules : Tags - Populaires ",
+  "title": "Modules : Tags - Populaires",
   "description": "", 
   "author": ""
 }

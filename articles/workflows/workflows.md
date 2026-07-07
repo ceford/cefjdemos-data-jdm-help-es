@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Workflows_List",
-  "title": "Flux de travail ",
+  "title": "Flux de travail: Introducción",
   "description": "", 
   "author": ""
 }

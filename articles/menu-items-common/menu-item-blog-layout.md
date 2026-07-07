@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
-  "title": "Élément de Menu Disposition du Blog ",
+  "title": "Élément de Menu Disposition du Blog",
   "description": "", 
   "author": ""
 }

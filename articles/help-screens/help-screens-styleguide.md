@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
-  "title": "Guide de Style des Écrans d'Aide ",
+  "title": "Guide de Style des Écrans d'Aide",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Tagged_Items",
-  "title": "Éléments Étiquetés ",
+  "title": "Éléments Étiquetés",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
-  "title": "Élément de Menu : Étendre le Consentement ",
+  "title": "Élément de Menu : Étendre le Consentement",
   "description": "", 
   "author": ""
 }

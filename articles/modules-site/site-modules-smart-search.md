@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search",
-  "title": "Modules : Recherche intelligente ",
+  "title": "Modules : Recherche intelligente",
   "description": "", 
   "author": ""
 }

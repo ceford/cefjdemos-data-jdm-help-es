@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter",
-  "title": "Recherche intelligente : Nouveau ou Modifier le filtre ",
+  "title": "Recherche intelligente : Nouveau ou Modifier le filtre",
   "description": "", 
   "author": ""
 }

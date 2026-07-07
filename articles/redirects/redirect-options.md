@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirect:_Options",
-  "title": "Rediriger : Options ",
+  "title": "Rediriger : Options",
   "description": "", 
   "author": ""
 }

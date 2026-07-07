@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Details",
-  "title": "Détails de l'élément du menu ",
+  "title": "Détails de l'élément du menu",
   "description": "", 
   "author": ""
 }

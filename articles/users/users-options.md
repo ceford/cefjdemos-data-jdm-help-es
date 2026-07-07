@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Options",
-  "title": "Usuarios: Opciones ",
+  "title": "Usuarios: Opciones",
   "description": "", 
   "author": ""
 }

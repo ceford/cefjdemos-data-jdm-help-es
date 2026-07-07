@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Latest_Users",
-  "title": "Modules : Derniers utilisateurs ",
+  "title": "Modules : Derniers utilisateurs",
   "description": "", 
   "author": ""
 }
