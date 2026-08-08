@@ -58,6 +58,8 @@ Algunos elementos de esta página están cubiertos en artículos de ayuda separa
   enumeradas en la lista del menú emergente. Si no se selecciona ningún ítem de menú, los usuarios
   permanecerán en la misma página después de cerrar sesión.
 - **Página de Registro** Seleccione o cree una página para el registro.
+- **Enlace para restablecer la contraseña** Muestra u oculta el enlace para restablecer la contraseña (novedad en la versión 6.2).
+- **Enlace de nombre de usuario olvidado** Muestra u oculta el enlace para recuperar el nombre de usuario (novedad en la versión 6.2).
 - **Saludo** Mostrar u ocultar el texto de saludo simple.
 - **Nombre/Nombre de usuario** Muestra el nombre o el nombre de usuario después de iniciar sesión.
 - **Enlace de perfil** Mostrar u ocultar un enlace al perfil del usuario.
